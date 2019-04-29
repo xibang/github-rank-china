@@ -3980,7 +3980,7 @@
     },
     {
       "rank": 285,
-      "change": -1,
+      "change": 0,
       "login": "w4lle",
       "name": "w4lle",
       "location": "Hangzhou,China",
@@ -3994,7 +3994,7 @@
     },
     {
       "rank": 286,
-      "change": 1,
+      "change": 0,
       "login": "vincent4j",
       "name": "四勾 4J",
       "location": "Beijing, China",
@@ -8516,21 +8516,7 @@
     },
     {
       "rank": 609,
-      "change": 0,
-      "login": "wangbin579",
-      "name": "Bin Wang",
-      "location": "Beijing, China",
-      "company": "NULL",
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1127759?s=256&v=4",
-      "createdAt": "2011-10-14T08:14:06Z",
-      "followers": 510,
-      "following": 13,
-      "repositories": 26,
-      "organizations": 1
-    },
-    {
-      "rank": 610,
-      "change": 0,
+      "change": -1,
       "login": "hooopo",
       "name": "Hooopo",
       "location": "Beijing, China",
@@ -8540,6 +8526,20 @@
       "followers": 510,
       "following": 756,
       "repositories": 117,
+      "organizations": 1
+    },
+    {
+      "rank": 610,
+      "change": 1,
+      "login": "wangbin579",
+      "name": "Bin Wang",
+      "location": "Beijing, China",
+      "company": "NULL",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1127759?s=256&v=4",
+      "createdAt": "2011-10-14T08:14:06Z",
+      "followers": 510,
+      "following": 13,
+      "repositories": 26,
       "organizations": 1
     },
     {
@@ -9440,21 +9440,7 @@
     },
     {
       "rank": 675,
-      "change": 0,
-      "login": "liuling07",
-      "name": "LiuLing",
-      "location": "ShenZhen · China",
-      "company": "随手科技",
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/10380641?s=256&v=4",
-      "createdAt": "2015-01-03T12:30:09Z",
-      "followers": 456,
-      "following": 63,
-      "repositories": 39,
-      "organizations": 0
-    },
-    {
-      "rank": 676,
-      "change": 0,
+      "change": -1,
       "login": "zyearn",
       "name": "Jiashun Zhu",
       "location": " Shanghai, China",
@@ -9465,6 +9451,20 @@
       "following": 26,
       "repositories": 27,
       "organizations": 2
+    },
+    {
+      "rank": 676,
+      "change": 1,
+      "login": "liuling07",
+      "name": "LiuLing",
+      "location": "ShenZhen · China",
+      "company": "随手科技",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10380641?s=256&v=4",
+      "createdAt": "2015-01-03T12:30:09Z",
+      "followers": 456,
+      "following": 63,
+      "repositories": 39,
+      "organizations": 0
     },
     {
       "rank": 677,

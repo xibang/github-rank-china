@@ -1,5 +1,5 @@
 {
-  "total": 123648,
+  "total": 123650,
   "date": "2019-04-29",
   "list": [
     {
@@ -2363,7 +2363,7 @@
       "company": "Tencent",
       "avatarUrl": "https://avatars1.githubusercontent.com/u/433320?s=256&v=4",
       "createdAt": "2010-10-09T09:29:31Z",
-      "followers": 1825,
+      "followers": 1826,
       "following": 33,
       "repositories": 52,
       "organizations": 2
@@ -3980,7 +3980,7 @@
     },
     {
       "rank": 285,
-      "change": -1,
+      "change": 0,
       "login": "vincent4j",
       "name": "四勾 4J",
       "location": "Beijing, China",
@@ -3994,7 +3994,7 @@
     },
     {
       "rank": 286,
-      "change": 1,
+      "change": 0,
       "login": "w4lle",
       "name": "w4lle",
       "location": "Hangzhou,China",
@@ -8517,20 +8517,6 @@
     {
       "rank": 609,
       "change": -1,
-      "login": "wangbin579",
-      "name": "Bin Wang",
-      "location": "Beijing, China",
-      "company": "NULL",
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/1127759?s=256&v=4",
-      "createdAt": "2011-10-14T08:14:06Z",
-      "followers": 510,
-      "following": 13,
-      "repositories": 26,
-      "organizations": 1
-    },
-    {
-      "rank": 610,
-      "change": 1,
       "login": "hooopo",
       "name": "Hooopo",
       "location": "Beijing, China",
@@ -8540,6 +8526,20 @@
       "followers": 510,
       "following": 756,
       "repositories": 117,
+      "organizations": 1
+    },
+    {
+      "rank": 610,
+      "change": 1,
+      "login": "wangbin579",
+      "name": "Bin Wang",
+      "location": "Beijing, China",
+      "company": "NULL",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/1127759?s=256&v=4",
+      "createdAt": "2011-10-14T08:14:06Z",
+      "followers": 510,
+      "following": 13,
+      "repositories": 26,
       "organizations": 1
     },
     {
@@ -9441,20 +9441,6 @@
     {
       "rank": 675,
       "change": -1,
-      "login": "liuling07",
-      "name": "LiuLing",
-      "location": "ShenZhen · China",
-      "company": "随手科技",
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/10380641?s=256&v=4",
-      "createdAt": "2015-01-03T12:30:09Z",
-      "followers": 456,
-      "following": 63,
-      "repositories": 39,
-      "organizations": 0
-    },
-    {
-      "rank": 676,
-      "change": 1,
       "login": "zyearn",
       "name": "Jiashun Zhu",
       "location": " Shanghai, China",
@@ -9465,6 +9451,20 @@
       "following": 26,
       "repositories": 27,
       "organizations": 2
+    },
+    {
+      "rank": 676,
+      "change": 1,
+      "login": "liuling07",
+      "name": "LiuLing",
+      "location": "ShenZhen · China",
+      "company": "随手科技",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/10380641?s=256&v=4",
+      "createdAt": "2015-01-03T12:30:09Z",
+      "followers": 456,
+      "following": 63,
+      "repositories": 39,
+      "organizations": 0
     },
     {
       "rank": 677,
@@ -13206,21 +13206,7 @@
     },
     {
       "rank": 944,
-      "change": 0,
-      "login": "TerrorJack",
-      "name": "Shao Cheng",
-      "location": "Beijing, China",
-      "company": "@tweag",
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3889585?s=256&v=4",
-      "createdAt": "2013-03-17T11:07:46Z",
-      "followers": 317,
-      "following": 191,
-      "repositories": 85,
-      "organizations": 9
-    },
-    {
-      "rank": 945,
-      "change": 0,
+      "change": -1,
       "login": "liumapp",
       "name": "我敬你是条汉子",
       "location": "Hangzhou, China",
@@ -13231,6 +13217,20 @@
       "following": 35,
       "repositories": 190,
       "organizations": 4
+    },
+    {
+      "rank": 945,
+      "change": 1,
+      "login": "TerrorJack",
+      "name": "Shao Cheng",
+      "location": "Beijing, China",
+      "company": "@tweag",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3889585?s=256&v=4",
+      "createdAt": "2013-03-17T11:07:46Z",
+      "followers": 317,
+      "following": 191,
+      "repositories": 85,
+      "organizations": 9
     },
     {
       "rank": 946,
@@ -13556,35 +13556,7 @@
     },
     {
       "rank": 969,
-      "change": 0,
-      "login": "jackeyGao",
-      "name": "JG",
-      "location": "ShangHai, China",
-      "company": "@chinese-poetry ",
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/2869650?s=256&v=4",
-      "createdAt": "2012-11-23T08:16:33Z",
-      "followers": 308,
-      "following": 33,
-      "repositories": 80,
-      "organizations": 1
-    },
-    {
-      "rank": 970,
-      "change": 0,
-      "login": "eggswift",
-      "name": "Vincent Li",
-      "location": "Beijing, China",
-      "company": "Tencent (0700.HK)",
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/15206466?s=256&v=4",
-      "createdAt": "2015-10-20T02:53:56Z",
-      "followers": 308,
-      "following": 16,
-      "repositories": 13,
-      "organizations": 1
-    },
-    {
-      "rank": 971,
-      "change": 0,
+      "change": -2,
       "login": "trotyl",
       "name": "Trotyl Yu",
       "location": "Chengdu, Sichuan, China",
@@ -13597,8 +13569,22 @@
       "organizations": 3
     },
     {
-      "rank": 972,
-      "change": 0,
+      "rank": 970,
+      "change": 1,
+      "login": "jackeyGao",
+      "name": "JG",
+      "location": "ShangHai, China",
+      "company": "@chinese-poetry ",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2869650?s=256&v=4",
+      "createdAt": "2012-11-23T08:16:33Z",
+      "followers": 308,
+      "following": 33,
+      "repositories": 80,
+      "organizations": 1
+    },
+    {
+      "rank": 971,
+      "change": -1,
       "login": "9miao",
       "name": "9miao Mobile Game",
       "location": "Beijing ,China",
@@ -13609,6 +13595,20 @@
       "following": 0,
       "repositories": 16,
       "organizations": 0
+    },
+    {
+      "rank": 972,
+      "change": 2,
+      "login": "eggswift",
+      "name": "Vincent Li",
+      "location": "Beijing, China",
+      "company": "Tencent (0700.HK)",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/15206466?s=256&v=4",
+      "createdAt": "2015-10-20T02:53:56Z",
+      "followers": 308,
+      "following": 16,
+      "repositories": 13,
+      "organizations": 1
     },
     {
       "rank": 973,

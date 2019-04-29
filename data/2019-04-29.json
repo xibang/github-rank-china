@@ -1,5 +1,5 @@
 {
-  "total": 123647,
+  "total": 123648,
   "date": "2019-04-29",
   "list": [
     {
@@ -389,7 +389,7 @@
       "company": "@b3log ",
       "avatarUrl": "https://avatars0.githubusercontent.com/u/873584?s=256&v=4",
       "createdAt": "2011-06-24T15:13:14Z",
-      "followers": 7183,
+      "followers": 7184,
       "following": 86,
       "repositories": 5,
       "organizations": 9
@@ -1495,7 +1495,7 @@
       "company": "Alibaba",
       "avatarUrl": "https://avatars2.githubusercontent.com/u/1166785?s=256&v=4",
       "createdAt": "2011-11-02T08:01:20Z",
-      "followers": 2640,
+      "followers": 2641,
       "following": 19,
       "repositories": 79,
       "organizations": 3
@@ -1651,7 +1651,7 @@
       "createdAt": "2011-07-30T18:03:26Z",
       "followers": 2503,
       "following": 109,
-      "repositories": 95,
+      "repositories": 96,
       "organizations": 5
     },
     {
@@ -3063,7 +3063,7 @@
       "company": "@tikv in @pingcap",
       "avatarUrl": "https://avatars1.githubusercontent.com/u/16398479?s=256&v=4",
       "createdAt": "2015-12-22T08:33:46Z",
-      "followers": 1456,
+      "followers": 1457,
       "following": 332,
       "repositories": 90,
       "organizations": 9
@@ -3980,21 +3980,7 @@
     },
     {
       "rank": 285,
-      "change": 0,
-      "login": "w4lle",
-      "name": "w4lle",
-      "location": "Hangzhou,China",
-      "company": "@51nb",
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/7310246?s=256&v=4",
-      "createdAt": "2014-04-16T04:38:27Z",
-      "followers": 1097,
-      "following": 103,
-      "repositories": 45,
-      "organizations": 0
-    },
-    {
-      "rank": 286,
-      "change": 0,
+      "change": -1,
       "login": "vincent4j",
       "name": "四勾 4J",
       "location": "Beijing, China",
@@ -4005,6 +3991,20 @@
       "following": 110,
       "repositories": 32,
       "organizations": 2
+    },
+    {
+      "rank": 286,
+      "change": 1,
+      "login": "w4lle",
+      "name": "w4lle",
+      "location": "Hangzhou,China",
+      "company": "@51nb",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7310246?s=256&v=4",
+      "createdAt": "2014-04-16T04:38:27Z",
+      "followers": 1097,
+      "following": 103,
+      "repositories": 45,
+      "organizations": 0
     },
     {
       "rank": 287,
@@ -8517,20 +8517,6 @@
     {
       "rank": 609,
       "change": -1,
-      "login": "hooopo",
-      "name": "Hooopo",
-      "location": "Beijing, China",
-      "company": "<img src='' onerror='alert(1)' />",
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/63877?s=256&v=4",
-      "createdAt": "2009-03-16T10:23:25Z",
-      "followers": 510,
-      "following": 756,
-      "repositories": 117,
-      "organizations": 1
-    },
-    {
-      "rank": 610,
-      "change": 1,
       "login": "wangbin579",
       "name": "Bin Wang",
       "location": "Beijing, China",
@@ -8540,6 +8526,20 @@
       "followers": 510,
       "following": 13,
       "repositories": 26,
+      "organizations": 1
+    },
+    {
+      "rank": 610,
+      "change": 1,
+      "login": "hooopo",
+      "name": "Hooopo",
+      "location": "Beijing, China",
+      "company": "<img src='' onerror='alert(1)' />",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/63877?s=256&v=4",
+      "createdAt": "2009-03-16T10:23:25Z",
+      "followers": 510,
+      "following": 756,
+      "repositories": 117,
       "organizations": 1
     },
     {
@@ -9441,20 +9441,6 @@
     {
       "rank": 675,
       "change": -1,
-      "login": "zyearn",
-      "name": "Jiashun Zhu",
-      "location": " Shanghai, China",
-      "company": "",
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/4475779?s=256&v=4",
-      "createdAt": "2013-05-20T05:07:23Z",
-      "followers": 456,
-      "following": 26,
-      "repositories": 27,
-      "organizations": 2
-    },
-    {
-      "rank": 676,
-      "change": 1,
       "login": "liuling07",
       "name": "LiuLing",
       "location": "ShenZhen · China",
@@ -9465,6 +9451,20 @@
       "following": 63,
       "repositories": 39,
       "organizations": 0
+    },
+    {
+      "rank": 676,
+      "change": 1,
+      "login": "zyearn",
+      "name": "Jiashun Zhu",
+      "location": " Shanghai, China",
+      "company": "",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/4475779?s=256&v=4",
+      "createdAt": "2013-05-20T05:07:23Z",
+      "followers": 456,
+      "following": 26,
+      "repositories": 27,
+      "organizations": 2
     },
     {
       "rank": 677,

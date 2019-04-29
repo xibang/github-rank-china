@@ -1,0 +1,32 @@
+{
+  "name": "github-rank-china",
+  "version": "1.0.0",
+  "description": "Github Daily Trending Archives",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xibang/github-rank-china.git"
+  },
+  "keywords": [
+    "github",
+    "rank",
+    "china"
+  ],
+  "author": "Willin Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xibang/github-rank-china/issues"
+  },
+  "homepage": "https://github.com/xibang/github-rank-china#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-willin": "^1.0.2",
+    "eslint-plugin-import": "^2.17.2"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

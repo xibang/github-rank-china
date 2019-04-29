@@ -1,5 +1,5 @@
 {
-  "total": 123646,
+  "total": 123647,
   "date": "2019-04-29",
   "list": [
     {
@@ -627,7 +627,7 @@
       "company": "Freedom and dreams",
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4979648?s=256&v=4",
       "createdAt": "2013-07-10T07:23:28Z",
-      "followers": 5069,
+      "followers": 5070,
       "following": 29,
       "repositories": 20,
       "organizations": 0
@@ -2587,7 +2587,7 @@
       "company": "bilibili",
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1627804?s=256&v=4",
       "createdAt": "2012-04-10T02:55:54Z",
-      "followers": 1693,
+      "followers": 1694,
       "following": 29,
       "repositories": 33,
       "organizations": 0
@@ -3399,7 +3399,7 @@
       "company": "@vuese",
       "avatarUrl": "https://avatars2.githubusercontent.com/u/14146560?s=256&v=4",
       "createdAt": "2015-09-06T07:30:47Z",
-      "followers": 1252,
+      "followers": 1253,
       "following": 69,
       "repositories": 101,
       "organizations": 2
@@ -3980,7 +3980,7 @@
     },
     {
       "rank": 285,
-      "change": -1,
+      "change": 0,
       "login": "vincent4j",
       "name": "四勾 4J",
       "location": "Beijing, China",
@@ -3994,7 +3994,7 @@
     },
     {
       "rank": 286,
-      "change": 1,
+      "change": 0,
       "login": "w4lle",
       "name": "w4lle",
       "location": "Hangzhou,China",
@@ -7074,7 +7074,7 @@
     },
     {
       "rank": 506,
-      "change": -1,
+      "change": 0,
       "login": "techGay",
       "name": "Liang",
       "location": "GuangZhou China",
@@ -7088,7 +7088,7 @@
     },
     {
       "rank": 507,
-      "change": 1,
+      "change": 0,
       "login": "ThirtyDegreesRay",
       "name": "30度的射线",
       "location": "NanJing,China",
@@ -8516,7 +8516,7 @@
     },
     {
       "rank": 609,
-      "change": -1,
+      "change": 0,
       "login": "wangbin579",
       "name": "Bin Wang",
       "location": "Beijing, China",
@@ -8530,7 +8530,7 @@
     },
     {
       "rank": 610,
-      "change": 1,
+      "change": 0,
       "login": "hooopo",
       "name": "Hooopo",
       "location": "Beijing, China",
@@ -9440,7 +9440,7 @@
     },
     {
       "rank": 675,
-      "change": -1,
+      "change": 0,
       "login": "liuling07",
       "name": "LiuLing",
       "location": "ShenZhen · China",
@@ -9454,7 +9454,7 @@
     },
     {
       "rank": 676,
-      "change": 1,
+      "change": 0,
       "login": "zyearn",
       "name": "Jiashun Zhu",
       "location": " Shanghai, China",
@@ -11568,21 +11568,7 @@
     },
     {
       "rank": 827,
-      "change": 0,
-      "login": "az0ne",
-      "name": "AZ0NE",
-      "location": "China",
-      "company": "ANTIY",
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/8131223?s=256&v=4",
-      "createdAt": "2014-07-11T03:19:17Z",
-      "followers": 372,
-      "following": 31,
-      "repositories": 314,
-      "organizations": 0
-    },
-    {
-      "rank": 828,
-      "change": 0,
+      "change": -1,
       "login": "CaledoniaProject",
       "name": "Aaron Lewis",
       "location": "BeiJing, China",
@@ -11592,6 +11578,20 @@
       "followers": 372,
       "following": 106,
       "repositories": 1281,
+      "organizations": 0
+    },
+    {
+      "rank": 828,
+      "change": 1,
+      "login": "az0ne",
+      "name": "AZ0NE",
+      "location": "China",
+      "company": "ANTIY",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/8131223?s=256&v=4",
+      "createdAt": "2014-07-11T03:19:17Z",
+      "followers": 372,
+      "following": 31,
+      "repositories": 314,
       "organizations": 0
     },
     {
@@ -13206,7 +13206,7 @@
     },
     {
       "rank": 944,
-      "change": -1,
+      "change": 0,
       "login": "TerrorJack",
       "name": "Shao Cheng",
       "location": "Beijing, China",
@@ -13220,7 +13220,7 @@
     },
     {
       "rank": 945,
-      "change": 1,
+      "change": 0,
       "login": "liumapp",
       "name": "我敬你是条汉子",
       "location": "Hangzhou, China",
@@ -13556,7 +13556,7 @@
     },
     {
       "rank": 969,
-      "change": -1,
+      "change": 0,
       "login": "jackeyGao",
       "name": "JG",
       "location": "ShangHai, China",
@@ -13570,7 +13570,7 @@
     },
     {
       "rank": 970,
-      "change": -2,
+      "change": 0,
       "login": "eggswift",
       "name": "Vincent Li",
       "location": "Beijing, China",
@@ -13584,7 +13584,7 @@
     },
     {
       "rank": 971,
-      "change": 2,
+      "change": 0,
       "login": "trotyl",
       "name": "Trotyl Yu",
       "location": "Chengdu, Sichuan, China",
@@ -13598,7 +13598,7 @@
     },
     {
       "rank": 972,
-      "change": 1,
+      "change": 0,
       "login": "9miao",
       "name": "9miao Mobile Game",
       "location": "Beijing ,China",

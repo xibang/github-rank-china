@@ -627,7 +627,7 @@
       "company": "Freedom and dreams",
       "avatarUrl": "https://avatars0.githubusercontent.com/u/4979648?s=256&v=4",
       "createdAt": "2013-07-10T07:23:28Z",
-      "followers": 5070,
+      "followers": 5071,
       "following": 29,
       "repositories": 20,
       "organizations": 0
@@ -2587,7 +2587,7 @@
       "company": "bilibili",
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1627804?s=256&v=4",
       "createdAt": "2012-04-10T02:55:54Z",
-      "followers": 1694,
+      "followers": 1695,
       "following": 29,
       "repositories": 33,
       "organizations": 0
@@ -3980,21 +3980,7 @@
     },
     {
       "rank": 285,
-      "change": 0,
-      "login": "vincent4j",
-      "name": "四勾 4J",
-      "location": "Beijing, China",
-      "company": "",
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/808989?s=256&v=4",
-      "createdAt": "2011-05-25T02:57:50Z",
-      "followers": 1097,
-      "following": 110,
-      "repositories": 32,
-      "organizations": 2
-    },
-    {
-      "rank": 286,
-      "change": 0,
+      "change": -1,
       "login": "w4lle",
       "name": "w4lle",
       "location": "Hangzhou,China",
@@ -4005,6 +3991,20 @@
       "following": 103,
       "repositories": 45,
       "organizations": 0
+    },
+    {
+      "rank": 286,
+      "change": 1,
+      "login": "vincent4j",
+      "name": "四勾 4J",
+      "location": "Beijing, China",
+      "company": "",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/808989?s=256&v=4",
+      "createdAt": "2011-05-25T02:57:50Z",
+      "followers": 1097,
+      "following": 110,
+      "repositories": 32,
+      "organizations": 2
     },
     {
       "rank": 287,
@@ -11568,7 +11568,7 @@
     },
     {
       "rank": 827,
-      "change": -1,
+      "change": 0,
       "login": "CaledoniaProject",
       "name": "Aaron Lewis",
       "location": "BeiJing, China",
@@ -11582,7 +11582,7 @@
     },
     {
       "rank": 828,
-      "change": 1,
+      "change": 0,
       "login": "az0ne",
       "name": "AZ0NE",
       "location": "China",

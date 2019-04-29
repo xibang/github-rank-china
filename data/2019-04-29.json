@@ -319,7 +319,7 @@
       "company": "",
       "avatarUrl": "https://avatars2.githubusercontent.com/u/779050?s=256&v=4",
       "createdAt": "2011-05-10T12:43:24Z",
-      "followers": 8267,
+      "followers": 8268,
       "following": 175,
       "repositories": 57,
       "organizations": 1
@@ -1565,7 +1565,7 @@
       "company": "",
       "avatarUrl": "https://avatars1.githubusercontent.com/u/1540855?s=256&v=4",
       "createdAt": "2012-03-15T15:29:19Z",
-      "followers": 2591,
+      "followers": 2592,
       "following": 16,
       "repositories": 19,
       "organizations": 0
@@ -2139,7 +2139,7 @@
       "company": "weibo.com",
       "avatarUrl": "https://avatars0.githubusercontent.com/u/865763?s=256&v=4",
       "createdAt": "2011-06-22T02:01:20Z",
-      "followers": 2012,
+      "followers": 2013,
       "following": 11,
       "repositories": 91,
       "organizations": 0
@@ -2867,7 +2867,7 @@
       "company": "@ServiceMesher @b3log @goniubi",
       "avatarUrl": "https://avatars0.githubusercontent.com/u/3785409?s=256&v=4",
       "createdAt": "2013-03-06T09:15:50Z",
-      "followers": 1533,
+      "followers": 1534,
       "following": 370,
       "repositories": 169,
       "organizations": 6
@@ -3651,7 +3651,7 @@
       "company": "",
       "avatarUrl": "https://avatars0.githubusercontent.com/u/15308811?s=256&v=4",
       "createdAt": "2015-10-25T10:55:50Z",
-      "followers": 1166,
+      "followers": 1167,
       "following": 12,
       "repositories": 79,
       "organizations": 0
@@ -3980,21 +3980,7 @@
     },
     {
       "rank": 285,
-      "change": 0,
-      "login": "w4lle",
-      "name": "w4lle",
-      "location": "Hangzhou,China",
-      "company": "@51nb",
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/7310246?s=256&v=4",
-      "createdAt": "2014-04-16T04:38:27Z",
-      "followers": 1097,
-      "following": 103,
-      "repositories": 45,
-      "organizations": 0
-    },
-    {
-      "rank": 286,
-      "change": 0,
+      "change": -1,
       "login": "vincent4j",
       "name": "四勾 4J",
       "location": "Beijing, China",
@@ -4005,6 +3991,20 @@
       "following": 110,
       "repositories": 32,
       "organizations": 2
+    },
+    {
+      "rank": 286,
+      "change": 1,
+      "login": "w4lle",
+      "name": "w4lle",
+      "location": "Hangzhou,China",
+      "company": "@51nb",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/7310246?s=256&v=4",
+      "createdAt": "2014-04-16T04:38:27Z",
+      "followers": 1097,
+      "following": 103,
+      "repositories": 45,
+      "organizations": 0
     },
     {
       "rank": 287,
@@ -9944,7 +9944,21 @@
     },
     {
       "rank": 711,
-      "change": 0,
+      "change": -3,
+      "login": "chemzqm",
+      "name": "Qiming zhao",
+      "location": "Beijing, China",
+      "company": "",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/251450?s=256&v=4",
+      "createdAt": "2010-04-24T14:05:55Z",
+      "followers": 433,
+      "following": 16,
+      "repositories": 215,
+      "organizations": 2
+    },
+    {
+      "rank": 712,
+      "change": 1,
       "login": "hyj1991",
       "name": "hyj1991",
       "location": "Nanjing, Jiangsu, China",
@@ -9957,8 +9971,8 @@
       "organizations": 1
     },
     {
-      "rank": 712,
-      "change": 0,
+      "rank": 713,
+      "change": 1,
       "login": "qmwu2000",
       "name": "Frankie Wu",
       "location": "Shanghai, China",
@@ -9971,8 +9985,8 @@
       "organizations": 0
     },
     {
-      "rank": 713,
-      "change": 0,
+      "rank": 714,
+      "change": 1,
       "login": "Rano1",
       "name": "Ra",
       "location": "China  Zhejiang",
@@ -9983,20 +9997,6 @@
       "following": 80,
       "repositories": 10,
       "organizations": 0
-    },
-    {
-      "rank": 714,
-      "change": 0,
-      "login": "chemzqm",
-      "name": "Qiming zhao",
-      "location": "Beijing, China",
-      "company": "",
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/251450?s=256&v=4",
-      "createdAt": "2010-04-24T14:05:55Z",
-      "followers": 432,
-      "following": 16,
-      "repositories": 215,
-      "organizations": 2
     },
     {
       "rank": 715,
@@ -10504,7 +10504,21 @@
     },
     {
       "rank": 751,
-      "change": 0,
+      "change": -2,
+      "login": "mritd",
+      "name": "mritd",
+      "location": "Beijing, China",
+      "company": "@Gozap @k8scn",
+      "avatarUrl": "https://avatars0.githubusercontent.com/u/13043245?s=256&v=4",
+      "createdAt": "2015-06-25T03:42:05Z",
+      "followers": 412,
+      "following": 1,
+      "repositories": 63,
+      "organizations": 2
+    },
+    {
+      "rank": 752,
+      "change": 1,
       "login": "lanbing510",
       "name": "",
       "location": "Beijing, China",
@@ -10517,8 +10531,8 @@
       "organizations": 0
     },
     {
-      "rank": 752,
-      "change": 0,
+      "rank": 753,
+      "change": 1,
       "login": "technologiclee",
       "name": "Lee Nelson",
       "location": "Shenzhen China",
@@ -10529,20 +10543,6 @@
       "following": 11814,
       "repositories": 157,
       "organizations": 0
-    },
-    {
-      "rank": 753,
-      "change": 0,
-      "login": "mritd",
-      "name": "mritd",
-      "location": "Beijing, China",
-      "company": "@Gozap @k8scn",
-      "avatarUrl": "https://avatars0.githubusercontent.com/u/13043245?s=256&v=4",
-      "createdAt": "2015-06-25T03:42:05Z",
-      "followers": 411,
-      "following": 1,
-      "repositories": 63,
-      "organizations": 2
     },
     {
       "rank": 754,
@@ -11568,21 +11568,7 @@
     },
     {
       "rank": 827,
-      "change": 0,
-      "login": "az0ne",
-      "name": "AZ0NE",
-      "location": "China",
-      "company": "ANTIY",
-      "avatarUrl": "https://avatars1.githubusercontent.com/u/8131223?s=256&v=4",
-      "createdAt": "2014-07-11T03:19:17Z",
-      "followers": 372,
-      "following": 31,
-      "repositories": 314,
-      "organizations": 0
-    },
-    {
-      "rank": 828,
-      "change": 0,
+      "change": -1,
       "login": "CaledoniaProject",
       "name": "Aaron Lewis",
       "location": "BeiJing, China",
@@ -11592,6 +11578,20 @@
       "followers": 372,
       "following": 106,
       "repositories": 1281,
+      "organizations": 0
+    },
+    {
+      "rank": 828,
+      "change": 1,
+      "login": "az0ne",
+      "name": "AZ0NE",
+      "location": "China",
+      "company": "ANTIY",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/8131223?s=256&v=4",
+      "createdAt": "2014-07-11T03:19:17Z",
+      "followers": 372,
+      "following": 31,
+      "repositories": 314,
       "organizations": 0
     },
     {
@@ -13206,21 +13206,7 @@
     },
     {
       "rank": 944,
-      "change": 0,
-      "login": "TerrorJack",
-      "name": "Shao Cheng",
-      "location": "Beijing, China",
-      "company": "@tweag",
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/3889585?s=256&v=4",
-      "createdAt": "2013-03-17T11:07:46Z",
-      "followers": 317,
-      "following": 191,
-      "repositories": 85,
-      "organizations": 9
-    },
-    {
-      "rank": 945,
-      "change": 0,
+      "change": -1,
       "login": "liumapp",
       "name": "我敬你是条汉子",
       "location": "Hangzhou, China",
@@ -13231,6 +13217,20 @@
       "following": 35,
       "repositories": 190,
       "organizations": 4
+    },
+    {
+      "rank": 945,
+      "change": 1,
+      "login": "TerrorJack",
+      "name": "Shao Cheng",
+      "location": "Beijing, China",
+      "company": "@tweag",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/3889585?s=256&v=4",
+      "createdAt": "2013-03-17T11:07:46Z",
+      "followers": 317,
+      "following": 191,
+      "repositories": 85,
+      "organizations": 9
     },
     {
       "rank": 946,
@@ -13556,35 +13556,7 @@
     },
     {
       "rank": 969,
-      "change": 0,
-      "login": "jackeyGao",
-      "name": "JG",
-      "location": "ShangHai, China",
-      "company": "@chinese-poetry ",
-      "avatarUrl": "https://avatars3.githubusercontent.com/u/2869650?s=256&v=4",
-      "createdAt": "2012-11-23T08:16:33Z",
-      "followers": 308,
-      "following": 33,
-      "repositories": 80,
-      "organizations": 1
-    },
-    {
-      "rank": 970,
-      "change": 0,
-      "login": "eggswift",
-      "name": "Vincent Li",
-      "location": "Beijing, China",
-      "company": "Tencent (0700.HK)",
-      "avatarUrl": "https://avatars2.githubusercontent.com/u/15206466?s=256&v=4",
-      "createdAt": "2015-10-20T02:53:56Z",
-      "followers": 308,
-      "following": 16,
-      "repositories": 13,
-      "organizations": 1
-    },
-    {
-      "rank": 971,
-      "change": 0,
+      "change": -2,
       "login": "trotyl",
       "name": "Trotyl Yu",
       "location": "Chengdu, Sichuan, China",
@@ -13597,8 +13569,22 @@
       "organizations": 3
     },
     {
-      "rank": 972,
-      "change": 0,
+      "rank": 970,
+      "change": 1,
+      "login": "jackeyGao",
+      "name": "JG",
+      "location": "ShangHai, China",
+      "company": "@chinese-poetry ",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/2869650?s=256&v=4",
+      "createdAt": "2012-11-23T08:16:33Z",
+      "followers": 308,
+      "following": 33,
+      "repositories": 80,
+      "organizations": 1
+    },
+    {
+      "rank": 971,
+      "change": -1,
       "login": "9miao",
       "name": "9miao Mobile Game",
       "location": "Beijing ,China",
@@ -13609,6 +13595,20 @@
       "following": 0,
       "repositories": 16,
       "organizations": 0
+    },
+    {
+      "rank": 972,
+      "change": 2,
+      "login": "eggswift",
+      "name": "Vincent Li",
+      "location": "Beijing, China",
+      "company": "Tencent (0700.HK)",
+      "avatarUrl": "https://avatars2.githubusercontent.com/u/15206466?s=256&v=4",
+      "createdAt": "2015-10-20T02:53:56Z",
+      "followers": 308,
+      "following": 16,
+      "repositories": 13,
+      "organizations": 1
     },
     {
       "rank": 973,

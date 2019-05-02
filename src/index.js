@@ -3,7 +3,7 @@ const { writeFileSync } = require('fs');
 const all = require('./rank/all');
 const { formatDate, nodeMap } = require('./lib/common');
 
-const FIRSTDAY = '2019-04-29';
+const FIRSTDAY = '2019-05-01';
 
 const main = async () => {
   const listAll = await all();

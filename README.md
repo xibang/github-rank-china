@@ -8,7 +8,7 @@ Github Rank of China Archives
 
 最新地址： <https://raw.githubusercontent.com/xibang/github-rank-china/master/data/0.json>
 
-按日期查询地址： <https://raw.githubusercontent.com/xibang/github-rank-china/master/data/2019-04-29.json>
+按日期查询地址： <https://raw.githubusercontent.com/xibang/github-rank-china/master/data/2019-05-01.json>
 
 
 ### 数据结构
@@ -16,7 +16,7 @@ Github Rank of China Archives
 ```js
 {
   total: 123644, // 中国总用户数
-  date: '2019-04-29', // 保存日期
+  date: '2019-05-01', // 保存日期
   list: [
     {
       rank: 1, // 排名
@@ -37,7 +37,7 @@ Github Rank of China Archives
 }
 ```
 
-Since: 2019-04-29
+Since: 2019-05-01
 
 ## LICENSE
 

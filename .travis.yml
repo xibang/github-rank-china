@@ -16,7 +16,7 @@ script: yarn start
 after_success:
   - git add -A .
   - git status
-  - git commit -a -m "Travis-CI Deployed to Github"
+  - git commit -a -m "[skip-ci] Travis-CI Deployed to Github"
   - git push origin master
   - echo -e "Done\n"
 env:

@@ -21,9 +21,10 @@ exports.nodeMap = (list, prev) => list.map((x, index) => {
   const { followers: { totalCount: followers }, following: { totalCount: following },
     repositories: { totalCount: repositories }, organizations: { totalCount: organizations },
     ...info } = x;
+  const lastIndex = prev.findIndex(node => node.login === info.login);
   return {
     rank: index + 1,
-    change: index - ~~prev.findIndex(node => node.login === info.login),
+    change: ~lastIndex ? index - lastIndex : (1000 - index),
     ...info,
     followers,
     following,

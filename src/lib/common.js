@@ -19,7 +19,7 @@ exports.formatDate = (inputPattern, inputDate) => {
 
 exports.nodeMap = (list, prev) =>
   list
-    .filter((x) => x !== null && x.followers.totalCount > 0)
+    .filter((x) => x !== null && x?.followers?.totalCount > 0)
     .map((x, index) => {
       const {
         followers: { totalCount: followers },

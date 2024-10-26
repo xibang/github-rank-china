@@ -3,7 +3,7 @@ const axiosRetry = require("axios-retry").default;
 
 axios.defaults.baseURL = "https://api.github.com";
 axios.defaults.headers.common.Authorization = `bearer ${
-	process.env.GH_TOKEN || ""
+	process.env.GITHUB_TOKEN || process.env.GH_TOKEN || ""
 }`;
 axios.defaults.headers.post["Content-Type"] = "application/json";
 axios.defaults.timeout = 10000;

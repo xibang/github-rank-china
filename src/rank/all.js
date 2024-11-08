@@ -7,7 +7,7 @@ module.exports = async () => {
 	let list = [];
 	let after = "";
 	for (let i = 0; i < 10; i += 1) {
-		await sleep(1024);
+		await sleep(2048);
 		// eslint-disable-next-line no-console
 		console.log(`Processing no.${i + 1} request.`);
 		// eslint-disable-next-line no-await-in-loop

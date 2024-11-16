@@ -20,11 +20,17 @@ jobs:
         with:
           path: "**/node_modules"
           key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
-      - name: Fetch events
-        run: |-
-          sudo timedatectl set-timezone Asia/Shanghai
-          yarn
-          yarn start
+
+      - uses: nick-fields/retry@v3
+        name: Fetch events
+        with:
+          timeout_seconds: 15
+          max_attempts: 3
+          retry_on: error
+          command: |-
+            sudo timedatectl set-timezone Asia/Shanghai
+            yarn
+            yarn start
 
       - name: Commit and push
         run: |-

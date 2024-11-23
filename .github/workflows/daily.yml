@@ -34,6 +34,6 @@ jobs:
 
       - name: Commit and push
         run: |-
-          git config --global user.email "bot@github.com" && git config --global user.name "Bot"
+          git config --global user.email "willin@willin.org" && git config --global user.name "Willin Bot"
           git add . && git commit -m ":memo: Update Data" || exit 0
           git push

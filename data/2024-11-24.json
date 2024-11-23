@@ -1,5 +1,5 @@
 {
-  "total": 225322,
+  "total": 225333,
   "date": "2024-11-24",
   "list": [
     {
@@ -11,7 +11,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/905434?s=256&v=4",
       "createdAt": "2011-07-10T01:07:17Z",
-      "followers": 79462,
+      "followers": 79463,
       "following": 0,
       "repositories": 75,
       "organizations": 0
@@ -25,7 +25,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/470058?s=256&u=dbf6227607a526980eda6d438a9b8126ac04974b&v=4",
       "createdAt": "2010-11-06T12:21:35Z",
-      "followers": 37309,
+      "followers": 37310,
       "following": 3,
       "repositories": 102,
       "organizations": 0
@@ -53,7 +53,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4027957?s=256&u=e630bf304844ff741944cfd50ae7420c229f47b1&v=4",
       "createdAt": "2013-04-01T15:34:44Z",
-      "followers": 21435,
+      "followers": 21437,
       "following": 0,
       "repositories": 5,
       "organizations": 0
@@ -95,7 +95,7 @@
       "company": "@thoughtworks",
       "avatarUrl": "https://avatars.githubusercontent.com/u/472311?s=256&u=3d7d46bf34e32449b1439178ae7652cf06d130f1&v=4",
       "createdAt": "2010-11-08T11:46:51Z",
-      "followers": 20088,
+      "followers": 20089,
       "following": 9,
       "repositories": 496,
       "organizations": 8
@@ -109,7 +109,7 @@
       "company": "编程学习公众号【程序员鱼皮】",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26037703?s=256&u=2e10561c66c1cd1b33119a5ba72881088d5bcc60&v=4",
       "createdAt": "2017-02-26T08:44:22Z",
-      "followers": 17667,
+      "followers": 17669,
       "following": 29,
       "repositories": 84,
       "organizations": 0
@@ -123,7 +123,7 @@
       "company": "@Kubeflow @CNCF",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10825609?s=256&u=03334ecb4f5215e795ed600b655acd597945d4f9&v=4",
       "createdAt": "2015-02-03T07:01:48Z",
-      "followers": 17073,
+      "followers": 17074,
       "following": 361,
       "repositories": 81,
       "organizations": 12
@@ -165,7 +165,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/97227?s=256&v=4",
       "createdAt": "2009-06-20T03:23:05Z",
-      "followers": 15867,
+      "followers": 15868,
       "following": 14,
       "repositories": 3,
       "organizations": 6
@@ -179,7 +179,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/7474657?s=256&u=902200c2389c203cf2139888e10314845edd2a2a&v=4",
       "createdAt": "2014-05-03T15:04:08Z",
-      "followers": 15726,
+      "followers": 15728,
       "following": 4,
       "repositories": 125,
       "organizations": 0
@@ -291,7 +291,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/26119052?s=256&u=64357994632ab7e6be27e8a6549727e5bee3c077&v=4",
       "createdAt": "2017-03-01T15:57:52Z",
-      "followers": 13288,
+      "followers": 13289,
       "following": 16,
       "repositories": 17,
       "organizations": 0
@@ -487,7 +487,7 @@
       "company": "@258ch @ApacheCN ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5080126?s=256&u=2d361d2615985d8e7c1535094cb521d43cba2ae0&v=4",
       "createdAt": "2013-07-24T09:40:02Z",
-      "followers": 9665,
+      "followers": 9666,
       "following": 658,
       "repositories": 773,
       "organizations": 17
@@ -543,7 +543,7 @@
       "company": "alibaba",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3118295?s=256&u=67261bebcad7ffcf24f2d84ff730397a9d5f61bf&v=4",
       "createdAt": "2012-12-24T23:28:15Z",
-      "followers": 9088,
+      "followers": 9089,
       "following": 1127,
       "repositories": 951,
       "organizations": 6
@@ -613,7 +613,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/15308811?s=256&u=de057d7742b3c51c5078e58008323702a941772b&v=4",
       "createdAt": "2015-10-25T10:55:50Z",
-      "followers": 8762,
+      "followers": 8763,
       "following": 11,
       "repositories": 88,
       "organizations": 0
@@ -753,7 +753,7 @@
       "company": "Peking University",
       "avatarUrl": "https://avatars.githubusercontent.com/u/60659728?s=256&u=6d9732dc87e3cf8d6952b25499519c2c3f289680&v=4",
       "createdAt": "2020-02-04T14:49:18Z",
-      "followers": 7557,
+      "followers": 7558,
       "following": 31,
       "repositories": 87,
       "organizations": 0
@@ -839,7 +839,7 @@
       "createdAt": "2010-12-03T06:35:28Z",
       "followers": 7077,
       "following": 457,
-      "repositories": 280,
+      "repositories": 281,
       "organizations": 7
     },
     {
@@ -893,7 +893,7 @@
       "company": "CVer",
       "avatarUrl": "https://avatars.githubusercontent.com/u/22436957?s=256&u=96a326f8d9c37e32abbc78f5dc872d3898a65f23&v=4",
       "createdAt": "2016-09-26T01:28:32Z",
-      "followers": 6829,
+      "followers": 6828,
       "following": 539,
       "repositories": 255,
       "organizations": 0
@@ -921,7 +921,7 @@
       "company": "Shenzhen BIQU Technology Co. ,Ltd.",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38851044?s=256&u=dbfcdc2252d600702d1060161f0ce6111e8e748b&v=4",
       "createdAt": "2018-04-30T06:58:05Z",
-      "followers": 6731,
+      "followers": 6733,
       "following": 4,
       "repositories": 141,
       "organizations": 0
@@ -1019,7 +1019,7 @@
       "company": "@Huawei",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5801867?s=256&u=ccbc01b9ecc808aed828b30b9d8d048dd543624d&v=4",
       "createdAt": "2013-10-29T08:44:51Z",
-      "followers": 5531,
+      "followers": 5532,
       "following": 4,
       "repositories": 19,
       "organizations": 0
@@ -1047,7 +1047,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/8736212?s=256&u=a86dc40fcce756cceb4252844b4175762fc14c79&v=4",
       "createdAt": "2014-09-11T11:54:35Z",
-      "followers": 5489,
+      "followers": 5490,
       "following": 13,
       "repositories": 30,
       "organizations": 4
@@ -1145,7 +1145,7 @@
       "company": "@microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6158206?s=256&v=4",
       "createdAt": "2013-12-11T05:42:20Z",
-      "followers": 5058,
+      "followers": 5059,
       "following": 33,
       "repositories": 68,
       "organizations": 0
@@ -1243,7 +1243,7 @@
       "company": "@zerocracy",
       "avatarUrl": "https://avatars.githubusercontent.com/u/526301?s=256&u=f5976db7f55b68ddd289b8dba2895527fb940c5a&v=4",
       "createdAt": "2010-12-16T20:09:39Z",
-      "followers": 4846,
+      "followers": 4847,
       "following": 1,
       "repositories": 206,
       "organizations": 9
@@ -1341,7 +1341,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/1540855?s=256&v=4",
       "createdAt": "2012-03-15T15:29:19Z",
-      "followers": 4626,
+      "followers": 4628,
       "following": 19,
       "repositories": 25,
       "organizations": 0
@@ -1369,7 +1369,7 @@
       "company": "@Tencent @element-plus",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25154432?s=256&u=09a07a252bd5c18cb1eacfe2b9aff66bd5149ad1&v=4",
       "createdAt": "2017-01-16T15:07:36Z",
-      "followers": 4603,
+      "followers": 4604,
       "following": 66,
       "repositories": 230,
       "organizations": 9
@@ -1537,7 +1537,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/384546?s=256&u=b9f101045b6b9c0322ed6a41aad316c4f2ac5704&v=4",
       "createdAt": "2010-09-02T02:12:50Z",
-      "followers": 4214,
+      "followers": 4215,
       "following": 144,
       "repositories": 192,
       "organizations": 0
@@ -1607,7 +1607,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/7604295?s=256&u=f7c06972e1f9eeb6085d367ad1376621c2d5402d&v=4",
       "createdAt": "2014-05-16T15:33:41Z",
-      "followers": 4028,
+      "followers": 4029,
       "following": 1,
       "repositories": 77,
       "organizations": 1
@@ -1733,7 +1733,7 @@
       "company": "Alibaba",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1166785?s=256&u=7c3281648b20f7a450b6f45d7904879c01dfff50&v=4",
       "createdAt": "2011-11-02T08:01:20Z",
-      "followers": 3833,
+      "followers": 3834,
       "following": 51,
       "repositories": 124,
       "organizations": 2
@@ -1775,7 +1775,7 @@
       "company": "Bytedance",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7970947?s=256&u=730a8387e8cd0725e005f4bedb868efdd627c06d&v=4",
       "createdAt": "2014-06-24T02:46:48Z",
-      "followers": 3770,
+      "followers": 3771,
       "following": 55,
       "repositories": 97,
       "organizations": 7
@@ -1971,7 +1971,7 @@
       "company": "Tencent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/17445847?s=256&u=dc0cf716873f6809f46f105917500699ae1aafd3&v=4",
       "createdAt": "2016-02-24T05:43:03Z",
-      "followers": 3518,
+      "followers": 3519,
       "following": 31,
       "repositories": 83,
       "organizations": 2
@@ -2027,7 +2027,7 @@
       "company": "@Kong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1726061?s=256&u=3490c34534d2a2a12e2e2221ffa2f476e1bbd77d&v=4",
       "createdAt": "2012-05-10T09:58:03Z",
-      "followers": 3423,
+      "followers": 3424,
       "following": 179,
       "repositories": 158,
       "organizations": 3
@@ -2181,7 +2181,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/7086966?s=256&u=ac53cc01d8798356e5702e8291cb7ddb838ee823&v=4",
       "createdAt": "2014-03-27T23:45:49Z",
-      "followers": 3260,
+      "followers": 3263,
       "following": 360,
       "repositories": 196,
       "organizations": 0
@@ -2293,7 +2293,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/13746731?s=256&u=e3f190153cdbb1354d598b95652a9eba9b5037c1&v=4",
       "createdAt": "2015-08-11T10:29:09Z",
-      "followers": 3113,
+      "followers": 3114,
       "following": 2,
       "repositories": 32,
       "organizations": 3
@@ -2475,7 +2475,7 @@
       "company": "@Microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/19531547?s=256&u=9bfa4b5f7256f64a05b280019f26a56319955cd0&v=4",
       "createdAt": "2016-05-23T11:54:05Z",
-      "followers": 2940,
+      "followers": 2941,
       "following": 277,
       "repositories": 83,
       "organizations": 3
@@ -2587,7 +2587,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/7778936?s=256&u=6523d65d6fe28e7f219b8775f2394697ee1f82ba&v=4",
       "createdAt": "2014-06-03T09:20:27Z",
-      "followers": 2777,
+      "followers": 2778,
       "following": 0,
       "repositories": 22,
       "organizations": 1
@@ -2811,7 +2811,7 @@
       "company": "Shenzhen Xunlong Software CO.,Limited",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10287101?s=256&u=fc735a84b3b8841f2c8091b2c5ac98d1cccafd69&v=4",
       "createdAt": "2014-12-24T06:21:27Z",
-      "followers": 2611,
+      "followers": 2610,
       "following": 0,
       "repositories": 44,
       "organizations": 1
@@ -2923,7 +2923,7 @@
       "company": "Dell",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12967000?s=256&u=e9540bf1b97ca3a195912f5ae3088c14f04f83e4&v=4",
       "createdAt": "2015-06-19T13:00:23Z",
-      "followers": 2509,
+      "followers": 2510,
       "following": 10,
       "repositories": 158,
       "organizations": 10
@@ -2993,7 +2993,7 @@
       "company": "Millennium Science School",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16256802?s=256&u=9622ad4c25aa0a0bfc6dfac3db6bd0d7732c0f1e&v=4",
       "createdAt": "2015-12-11T14:43:24Z",
-      "followers": 2475,
+      "followers": 2476,
       "following": 88,
       "repositories": 66,
       "organizations": 1
@@ -3259,7 +3259,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/1500781?s=256&u=39d7e9d3cc0d0a0799d3ceeb965e6b270d9f5d09&v=4",
       "createdAt": "2012-03-04T23:12:34Z",
-      "followers": 2229,
+      "followers": 2230,
       "following": 58,
       "repositories": 331,
       "organizations": 7
@@ -3315,7 +3315,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/16943353?s=256&u=0d82bb2e6e9538515c7606a4e7e39574fa56d765&v=4",
       "createdAt": "2016-01-28T18:17:08Z",
-      "followers": 2202,
+      "followers": 2203,
       "following": 1,
       "repositories": 56,
       "organizations": 3
@@ -3350,30 +3350,30 @@
     },
     {
       "rank": 240,
-      "change": 0,
-      "login": "gias-uddin-swe",
-      "name": "Gias Uddin",
-      "location": "Kunming, Yunnan, China",
-      "company": "https://gias-uddin.web.app/",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/75516131?s=256&u=0ba6d2fa193f404b0e52fbda52439ce0453cfb76&v=4",
-      "createdAt": "2020-12-05T05:19:47Z",
-      "followers": 2168,
-      "following": 4,
-      "repositories": 209,
-      "organizations": 1
-    },
-    {
-      "rank": 241,
-      "change": 0,
+      "change": -1,
       "login": "wong2",
       "name": "wong2",
       "location": "Shanghai, China",
       "company": "Jike",
       "avatarUrl": "https://avatars.githubusercontent.com/u/321947?s=256&u=a26f698acebb2666249e386d56d32b5d3ae04103&v=4",
       "createdAt": "2010-07-03T15:28:07Z",
-      "followers": 2167,
+      "followers": 2169,
       "following": 272,
       "repositories": 204,
+      "organizations": 1
+    },
+    {
+      "rank": 241,
+      "change": 1,
+      "login": "gias-uddin-swe",
+      "name": "Gias Uddin",
+      "location": "Kunming, Yunnan, China",
+      "company": "https://gias-uddin.web.app/",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75516131?s=256&u=0ba6d2fa193f404b0e52fbda52439ce0453cfb76&v=4",
+      "createdAt": "2020-12-05T05:19:47Z",
+      "followers": 2169,
+      "following": 4,
+      "repositories": 209,
       "organizations": 1
     },
     {
@@ -3406,21 +3406,7 @@
     },
     {
       "rank": 244,
-      "change": 0,
-      "login": "yanglbme",
-      "name": "Libin YANG",
-      "location": "Shenzhen, China",
-      "company": "@TheAlgorithms @Doocs",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/21008209?s=256&u=ddfd8ee373ff312abddd445c4d4d5398fdfe7b30&v=4",
-      "createdAt": "2016-08-13T12:43:32Z",
-      "followers": 2128,
-      "following": 9,
-      "repositories": 28,
-      "organizations": 2
-    },
-    {
-      "rank": 245,
-      "change": 0,
+      "change": -1,
       "login": "xiaoweiChen",
       "name": "xiaowei",
       "location": "China, Zhejiang, Hangzhou",
@@ -3431,6 +3417,20 @@
       "following": 0,
       "repositories": 39,
       "organizations": 0
+    },
+    {
+      "rank": 245,
+      "change": 1,
+      "login": "yanglbme",
+      "name": "Libin YANG",
+      "location": "Shenzhen, China",
+      "company": "@TheAlgorithms @Doocs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21008209?s=256&u=ddfd8ee373ff312abddd445c4d4d5398fdfe7b30&v=4",
+      "createdAt": "2016-08-13T12:43:32Z",
+      "followers": 2127,
+      "following": 9,
+      "repositories": 28,
+      "organizations": 2
     },
     {
       "rank": 246,
@@ -3539,7 +3539,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/16871545?s=256&u=8c1965dc6e0c9f6c1e2a688bdc54c05c76019d42&v=4",
       "createdAt": "2016-01-25T02:23:49Z",
-      "followers": 2048,
+      "followers": 2050,
       "following": 1,
       "repositories": 80,
       "organizations": 0
@@ -3889,7 +3889,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/19661255?s=256&u=5f753e9fd2f9b810c1f54483490112b561ce3c05&v=4",
       "createdAt": "2016-05-31T06:02:57Z",
-      "followers": 1867,
+      "followers": 1868,
       "following": 40,
       "repositories": 43,
       "organizations": 0
@@ -3945,7 +3945,7 @@
       "company": "Tsinghua University",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16917636?s=256&u=1d6d29e3194e666d922770512e7abd968c9b00a5&v=4",
       "createdAt": "2016-01-27T11:30:19Z",
-      "followers": 1847,
+      "followers": 1848,
       "following": 83,
       "repositories": 83,
       "organizations": 0
@@ -4162,7 +4162,21 @@
     },
     {
       "rank": 298,
-      "change": -1,
+      "change": -31,
+      "login": "sungeer",
+      "name": "Sun Geer",
+      "location": "Shanghai, China",
+      "company": "Tesla",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26924670?s=256&u=e81e6ceb5104290085d9f3828883f198ddd834c2&v=4",
+      "createdAt": "2017-04-05T11:02:37Z",
+      "followers": 1772,
+      "following": 6669,
+      "repositories": 7,
+      "organizations": 0
+    },
+    {
+      "rank": 299,
+      "change": 0,
       "login": "yanyiwu",
       "name": "Yanyi Wu",
       "location": "Beijing,China",
@@ -4175,8 +4189,8 @@
       "organizations": 2
     },
     {
-      "rank": 299,
-      "change": 1,
+      "rank": 300,
+      "change": 2,
       "login": "Jannchie",
       "name": "Jianqi Pan",
       "location": "Japan, Tokyo ⇄ China, Shanghai",
@@ -4189,8 +4203,8 @@
       "organizations": 8
     },
     {
-      "rank": 300,
-      "change": 0,
+      "rank": 301,
+      "change": 1,
       "login": "airyland",
       "name": "Airyland",
       "location": "China",
@@ -4203,8 +4217,8 @@
       "organizations": 2
     },
     {
-      "rank": 301,
-      "change": 0,
+      "rank": 302,
+      "change": 1,
       "login": "KunMinX",
       "name": "KunMinX",
       "location": "Hangzhou, China",
@@ -4217,8 +4231,8 @@
       "organizations": 1
     },
     {
-      "rank": 302,
-      "change": 0,
+      "rank": 303,
+      "change": 1,
       "login": "hluwa",
       "name": "葫芦娃",
       "location": "China, Swatow",
@@ -4231,36 +4245,36 @@
       "organizations": 0
     },
     {
-      "rank": 303,
-      "change": 0,
+      "rank": 304,
+      "change": 1,
       "login": "shuhuai007",
       "name": "Jie Zhou",
       "location": "Xian, Shaanxi, China",
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/1732566?s=256&u=b7da28c284c5acb1156b85221aa7ba115eb45487&v=4",
       "createdAt": "2012-05-12T11:38:41Z",
-      "followers": 1751,
+      "followers": 1752,
       "following": 21,
       "repositories": 63,
       "organizations": 0
     },
     {
-      "rank": 304,
-      "change": 0,
+      "rank": 305,
+      "change": 1,
       "login": "Menci",
       "name": "Menci",
       "location": "Suzhou, China",
       "company": "Microsoft",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11341955?s=256&u=4aed4baa1449f2d137eddc1614b6b4493832a9c1&v=4",
       "createdAt": "2015-03-06T00:47:36Z",
-      "followers": 1746,
+      "followers": 1748,
       "following": 35,
       "repositories": 147,
       "organizations": 8
     },
     {
-      "rank": 305,
-      "change": 0,
+      "rank": 306,
+      "change": 1,
       "login": "nanchen2251",
       "name": "LiuShilin",
       "location": "Chengdu,China",
@@ -4270,20 +4284,6 @@
       "followers": 1741,
       "following": 38,
       "repositories": 90,
-      "organizations": 0
-    },
-    {
-      "rank": 306,
-      "change": -23,
-      "login": "sungeer",
-      "name": "Sun Geer",
-      "location": "Shanghai, China",
-      "company": "Tesla",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/26924670?s=256&u=e81e6ceb5104290085d9f3828883f198ddd834c2&v=4",
-      "createdAt": "2017-04-05T11:02:37Z",
-      "followers": 1738,
-      "following": 6619,
-      "repositories": 7,
       "organizations": 0
     },
     {
@@ -4379,7 +4379,7 @@
       "company": "Netease",
       "avatarUrl": "https://avatars.githubusercontent.com/u/731333?s=256&u=13141d7c90ac44fcebd5e0865633b1ccca417226&v=4",
       "createdAt": "2011-04-15T11:10:48Z",
-      "followers": 1712,
+      "followers": 1713,
       "following": 49,
       "repositories": 70,
       "organizations": 2
@@ -4451,7 +4451,7 @@
       "createdAt": "2016-07-02T04:04:23Z",
       "followers": 1690,
       "following": 117,
-      "repositories": 37,
+      "repositories": 38,
       "organizations": 0
     },
     {
@@ -4547,7 +4547,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/23445047?s=256&u=8c74391c1f8985cfc2519f43e44428871c1677c3&v=4",
       "createdAt": "2016-11-14T05:03:13Z",
-      "followers": 1663,
+      "followers": 1664,
       "following": 0,
       "repositories": 10,
       "organizations": 0
@@ -4561,7 +4561,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/15783049?s=256&u=86f380636f7c09b86788a977ea96272cb7484a30&v=4",
       "createdAt": "2015-11-10T13:48:54Z",
-      "followers": 1661,
+      "followers": 1662,
       "following": 27,
       "repositories": 33,
       "organizations": 1
@@ -4652,7 +4652,21 @@
     },
     {
       "rank": 333,
-      "change": 0,
+      "change": -1,
+      "login": "nekohasekai",
+      "name": "世界",
+      "location": "China",
+      "company": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56506714?s=256&u=a440a5078afd05ca7b167d91e016987fef36575c&v=4",
+      "createdAt": "2019-10-13T11:37:03Z",
+      "followers": 1630,
+      "following": 55,
+      "repositories": 33,
+      "organizations": 4
+    },
+    {
+      "rank": 334,
+      "change": 1,
       "login": "glzjin",
       "name": "glzjin",
       "location": "Hangzhou, China",
@@ -4663,20 +4677,6 @@
       "following": 72,
       "repositories": 237,
       "organizations": 1
-    },
-    {
-      "rank": 334,
-      "change": 0,
-      "login": "nekohasekai",
-      "name": "世界",
-      "location": "China",
-      "company": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56506714?s=256&u=a440a5078afd05ca7b167d91e016987fef36575c&v=4",
-      "createdAt": "2019-10-13T11:37:03Z",
-      "followers": 1627,
-      "following": 55,
-      "repositories": 33,
-      "organizations": 4
     },
     {
       "rank": 335,
@@ -4701,7 +4701,7 @@
       "company": "@tensorchord ",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7054676?s=256&u=7fbe3b3b817c095b834fd06b7ba0e7fd7ac874dc&v=4",
       "createdAt": "2014-03-25T04:30:05Z",
-      "followers": 1621,
+      "followers": 1622,
       "following": 309,
       "repositories": 249,
       "organizations": 11
@@ -4911,7 +4911,7 @@
       "company": "@ByteDance",
       "avatarUrl": "https://avatars.githubusercontent.com/u/653844?s=256&u=11826bd413072a4e0950bc0f3308200865b8ad5d&v=4",
       "createdAt": "2011-03-06T12:11:44Z",
-      "followers": 1557,
+      "followers": 1558,
       "following": 18,
       "repositories": 22,
       "organizations": 0
@@ -5039,7 +5039,7 @@
       "createdAt": "2015-02-17T16:03:19Z",
       "followers": 1537,
       "following": 40,
-      "repositories": 106,
+      "repositories": 107,
       "organizations": 11
     },
     {
@@ -5051,7 +5051,7 @@
       "company": "家里蹲有限公司",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49217418?s=256&u=ecf9314d0f21b70cde7050509aaeb14d9acc393f&v=4",
       "createdAt": "2019-04-03T01:26:20Z",
-      "followers": 1531,
+      "followers": 1532,
       "following": 304,
       "repositories": 156,
       "organizations": 3
@@ -5065,7 +5065,7 @@
       "company": "Dromara",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1432613?s=256&u=3b5525987118c9a5f62d26d89701676ec390b284&v=4",
       "createdAt": "2012-02-13T07:56:42Z",
-      "followers": 1527,
+      "followers": 1528,
       "following": 147,
       "repositories": 19,
       "organizations": 2
@@ -5107,7 +5107,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/16559082?s=256&u=b131c8d2698e939476da7e919128a6b8553353ba&v=4",
       "createdAt": "2016-01-05T13:23:27Z",
-      "followers": 1504,
+      "followers": 1505,
       "following": 14,
       "repositories": 13,
       "organizations": 0
@@ -5310,7 +5310,21 @@
     },
     {
       "rank": 380,
-      "change": 0,
+      "change": -1,
+      "login": "hongqn",
+      "name": "Qiangning Hong",
+      "location": "Beijing, China",
+      "company": "雅识科技",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/405587?s=256&u=470b4c04832e45141fd5264d3354845cc9fc6466&v=4",
+      "createdAt": "2010-09-18T05:00:49Z",
+      "followers": 1448,
+      "following": 18,
+      "repositories": 85,
+      "organizations": 0
+    },
+    {
+      "rank": 381,
+      "change": 1,
       "login": "aylei",
       "name": "Aylei",
       "location": "Hangzhou China",
@@ -5321,20 +5335,6 @@
       "following": 35,
       "repositories": 214,
       "organizations": 1
-    },
-    {
-      "rank": 381,
-      "change": 0,
-      "login": "hongqn",
-      "name": "Qiangning Hong",
-      "location": "Beijing, China",
-      "company": "雅识科技",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/405587?s=256&u=470b4c04832e45141fd5264d3354845cc9fc6466&v=4",
-      "createdAt": "2010-09-18T05:00:49Z",
-      "followers": 1447,
-      "following": 18,
-      "repositories": 85,
-      "organizations": 0
     },
     {
       "rank": 382,
@@ -5541,7 +5541,7 @@
       "company": "Zhixinfuture",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1313947?s=256&u=435b7c727d6f276d039543eb6ccffdfe75d7d810&v=4",
       "createdAt": "2012-01-09T01:44:55Z",
-      "followers": 1395,
+      "followers": 1396,
       "following": 54,
       "repositories": 143,
       "organizations": 0
@@ -5667,7 +5667,7 @@
       "company": "@databendlabs",
       "avatarUrl": "https://avatars.githubusercontent.com/u/44069?s=256&u=e3f4726a625e9df31e5fb5dc8220833dfdb524c7&v=4",
       "createdAt": "2009-01-04T09:25:00Z",
-      "followers": 1379,
+      "followers": 1380,
       "following": 227,
       "repositories": 241,
       "organizations": 2
@@ -5765,7 +5765,7 @@
       "company": "@altstory",
       "avatarUrl": "https://avatars.githubusercontent.com/u/239739?s=256&u=78246de2c39a43d3a8cc9eab708f8ca483e3b985&v=4",
       "createdAt": "2010-04-08T18:29:13Z",
-      "followers": 1360,
+      "followers": 1361,
       "following": 36,
       "repositories": 59,
       "organizations": 0
@@ -5849,7 +5849,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/83575247?s=256&u=6896431ffc94cbdbc997a793acb715f7528956be&v=4",
       "createdAt": "2021-05-03T07:47:27Z",
-      "followers": 1346,
+      "followers": 1347,
       "following": 0,
       "repositories": 8,
       "organizations": 0
@@ -5891,7 +5891,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/31466456?s=256&u=036eaf15c5a8f3cd22bf00f32c9faae627e9e753&v=4",
       "createdAt": "2017-08-30T06:02:27Z",
-      "followers": 1339,
+      "followers": 1340,
       "following": 3,
       "repositories": 32,
       "organizations": 1
@@ -6108,7 +6108,21 @@
     },
     {
       "rank": 437,
-      "change": -1,
+      "change": 0,
+      "login": "netyouli",
+      "name": "吴海超(WHC)",
+      "location": "China WuHan",
+      "company": "WHC",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5723961?s=256&u=54ebd981dba21a8f2112ce20dfba13837deef2d6&v=4",
+      "createdAt": "2013-10-19T07:37:40Z",
+      "followers": 1293,
+      "following": 0,
+      "repositories": 51,
+      "organizations": 0
+    },
+    {
+      "rank": 438,
+      "change": 0,
       "login": "xingrz",
       "name": "XiNGRZ",
       "location": "Canton, China",
@@ -6121,20 +6135,6 @@
       "organizations": 10
     },
     {
-      "rank": 438,
-      "change": 1,
-      "login": "netyouli",
-      "name": "吴海超(WHC)",
-      "location": "China WuHan",
-      "company": "WHC",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5723961?s=256&u=54ebd981dba21a8f2112ce20dfba13837deef2d6&v=4",
-      "createdAt": "2013-10-19T07:37:40Z",
-      "followers": 1292,
-      "following": 0,
-      "repositories": 51,
-      "organizations": 0
-    },
-    {
       "rank": 439,
       "change": 0,
       "login": "GoSSIP-SJTU",
@@ -6143,7 +6143,7 @@
       "company": "Shanghai Jiao Tong University",
       "avatarUrl": "https://avatars.githubusercontent.com/u/29170562?s=256&u=13fc19e4bdf02a05106db4d31deab303c79beadb&v=4",
       "createdAt": "2017-06-04T03:18:25Z",
-      "followers": 1290,
+      "followers": 1291,
       "following": 0,
       "repositories": 11,
       "organizations": 0
@@ -6199,7 +6199,7 @@
       "company": "@alipay",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5378891?s=256&u=9ea2dcefb137c6f24b8edb001d42d6912225c89c&v=4",
       "createdAt": "2013-09-04T04:42:14Z",
-      "followers": 1281,
+      "followers": 1282,
       "following": 8,
       "repositories": 100,
       "organizations": 2
@@ -6411,7 +6411,7 @@
       "createdAt": "2013-11-11T08:12:57Z",
       "followers": 1250,
       "following": 138,
-      "repositories": 17,
+      "repositories": 18,
       "organizations": 0
     },
     {
@@ -6815,7 +6815,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/416130?s=256&u=8753e86600e300a9811cdc539aa158deec2e2724&v=4",
       "createdAt": "2010-09-26T05:37:23Z",
-      "followers": 1168,
+      "followers": 1169,
       "following": 30,
       "repositories": 36,
       "organizations": 0
@@ -7137,7 +7137,7 @@
       "company": "@vllm-project",
       "avatarUrl": "https://avatars.githubusercontent.com/u/23236638?s=256&u=396f884b5640eb64f3997a53be94a6332016cc96&v=4",
       "createdAt": "2016-11-03T11:27:18Z",
-      "followers": 1110,
+      "followers": 1111,
       "following": 4786,
       "repositories": 92,
       "organizations": 3
@@ -7277,7 +7277,7 @@
       "company": "WM",
       "avatarUrl": "https://avatars.githubusercontent.com/u/288367?s=256&v=4",
       "createdAt": "2010-05-27T06:31:20Z",
-      "followers": 1092,
+      "followers": 1093,
       "following": 50,
       "repositories": 147,
       "organizations": 0
@@ -7333,7 +7333,7 @@
       "company": "Home",
       "avatarUrl": "https://avatars.githubusercontent.com/u/93194?s=256&u=2340170b49be3fdb07f869753a2732486324c388&v=4",
       "createdAt": "2009-06-08T14:20:06Z",
-      "followers": 1084,
+      "followers": 1085,
       "following": 28,
       "repositories": 105,
       "organizations": 4
@@ -7641,7 +7641,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/6882794?s=256&u=7dbfe0911891a88e02e4c81e9bf856163d28914b&v=4",
       "createdAt": "2014-03-07T11:05:29Z",
-      "followers": 1042,
+      "followers": 1043,
       "following": 103,
       "repositories": 111,
       "organizations": 3
@@ -8117,7 +8117,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/11304944?s=256&u=ab6b838e024018127d41909a844adb74a10b68ff&v=4",
       "createdAt": "2015-03-04T01:15:08Z",
-      "followers": 988,
+      "followers": 989,
       "following": 24,
       "repositories": 215,
       "organizations": 2
@@ -8159,7 +8159,7 @@
       "company": "@tencent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/2666735?s=256&u=55713fa540d67bdaabb66e4ba642a1076c4ef5e8&v=4",
       "createdAt": "2012-10-28T01:58:59Z",
-      "followers": 983,
+      "followers": 985,
       "following": 100,
       "repositories": 74,
       "organizations": 3
@@ -8635,7 +8635,7 @@
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/5886475?s=256&u=0bb8a91371f68b88540442e0e339c9385c330b8e&v=4",
       "createdAt": "2013-11-08T08:02:11Z",
-      "followers": 937,
+      "followers": 938,
       "following": 364,
       "repositories": 174,
       "organizations": 10
@@ -8817,7 +8817,7 @@
       "company": "Nanjing University",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4124365?s=256&u=0060d887d99d0384730f9b7261e69dee7f3545f0&v=4",
       "createdAt": "2013-04-11T08:57:20Z",
-      "followers": 924,
+      "followers": 925,
       "following": 0,
       "repositories": 23,
       "organizations": 1
@@ -9006,7 +9006,21 @@
     },
     {
       "rank": 644,
-      "change": 0,
+      "change": -1,
+      "login": "wuyr",
+      "name": "陈小缘",
+      "location": "Zhaoqing, Guangdong, China",
+      "company": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/9758478?s=256&u=c2aaabcd63aa00101002d863783af7115e930fa4&v=4",
+      "createdAt": "2014-11-15T01:59:15Z",
+      "followers": 903,
+      "following": 0,
+      "repositories": 31,
+      "organizations": 1
+    },
+    {
+      "rank": 645,
+      "change": 1,
       "login": "qiuyuzhou",
       "name": "Qiu Yuzhou",
       "location": "ShenZhen, China",
@@ -9017,20 +9031,6 @@
       "following": 5,
       "repositories": 51,
       "organizations": 0
-    },
-    {
-      "rank": 645,
-      "change": 0,
-      "login": "wuyr",
-      "name": "陈小缘",
-      "location": "Zhaoqing, Guangdong, China",
-      "company": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/9758478?s=256&u=c2aaabcd63aa00101002d863783af7115e930fa4&v=4",
-      "createdAt": "2014-11-15T01:59:15Z",
-      "followers": 902,
-      "following": 0,
-      "repositories": 31,
-      "organizations": 1
     },
     {
       "rank": 646,
@@ -9104,7 +9104,21 @@
     },
     {
       "rank": 651,
-      "change": 0,
+      "change": -1,
+      "login": "lifa123",
+      "name": "muuk",
+      "location": "china",
+      "company": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16981248?s=256&u=1cef382e665c268d85f60fa9e864d2a5862b6575&v=4",
+      "createdAt": "2016-01-31T02:05:31Z",
+      "followers": 893,
+      "following": 16731,
+      "repositories": 422,
+      "organizations": 0
+    },
+    {
+      "rank": 652,
+      "change": 1,
       "login": "ezshine",
       "name": "大帅老猿",
       "location": "Beijing,China",
@@ -9114,20 +9128,6 @@
       "followers": 893,
       "following": 7,
       "repositories": 130,
-      "organizations": 0
-    },
-    {
-      "rank": 652,
-      "change": 0,
-      "login": "lifa123",
-      "name": "muuk",
-      "location": "china",
-      "company": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/16981248?s=256&u=1cef382e665c268d85f60fa9e864d2a5862b6575&v=4",
-      "createdAt": "2016-01-31T02:05:31Z",
-      "followers": 892,
-      "following": 16731,
-      "repositories": 422,
       "organizations": 0
     },
     {
@@ -9888,7 +9888,21 @@
     },
     {
       "rank": 707,
-      "change": 0,
+      "change": -1,
+      "login": "Gracker",
+      "name": "Jianwu Gao",
+      "location": "China",
+      "company": "Performance",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/2181004?s=256&v=4",
+      "createdAt": "2012-08-20T03:10:21Z",
+      "followers": 825,
+      "following": 290,
+      "repositories": 43,
+      "organizations": 0
+    },
+    {
+      "rank": 708,
+      "change": 1,
       "login": "watashi",
       "name": "Zejun Wu",
       "location": "Hangzhou, China",
@@ -9899,20 +9913,6 @@
       "following": 8,
       "repositories": 38,
       "organizations": 1
-    },
-    {
-      "rank": 708,
-      "change": 0,
-      "login": "Gracker",
-      "name": "Jianwu Gao",
-      "location": "China",
-      "company": "Performance",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2181004?s=256&v=4",
-      "createdAt": "2012-08-20T03:10:21Z",
-      "followers": 824,
-      "following": 290,
-      "repositories": 43,
-      "organizations": 0
     },
     {
       "rank": 709,
@@ -10056,7 +10056,21 @@
     },
     {
       "rank": 719,
-      "change": -1,
+      "change": -4,
+      "login": "ArgoZhang",
+      "name": "Argo Zhang",
+      "location": "China",
+      "company": "Longbow",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/22001478?s=256&u=afd3ca2939f25da50df8744612a2b5472340b6e6&v=4",
+      "createdAt": "2016-09-05T09:02:46Z",
+      "followers": 807,
+      "following": 3,
+      "repositories": 112,
+      "organizations": 0
+    },
+    {
+      "rank": 720,
+      "change": 0,
       "login": "WeActStudio",
       "name": "WeAct Studio",
       "location": "GuangDong,China",
@@ -10065,12 +10079,12 @@
       "createdAt": "2019-11-16T01:09:34Z",
       "followers": 805,
       "following": 0,
-      "repositories": 66,
+      "repositories": 67,
       "organizations": 0
     },
     {
-      "rank": 720,
-      "change": 1,
+      "rank": 721,
+      "change": 2,
       "login": "vivian8725118",
       "name": "Vivian",
       "location": "Beijing,China",
@@ -10080,20 +10094,6 @@
       "followers": 805,
       "following": 118,
       "repositories": 357,
-      "organizations": 0
-    },
-    {
-      "rank": 721,
-      "change": -2,
-      "login": "ArgoZhang",
-      "name": "Argo Zhang",
-      "location": "China",
-      "company": "Longbow",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/22001478?s=256&u=afd3ca2939f25da50df8744612a2b5472340b6e6&v=4",
-      "createdAt": "2016-09-05T09:02:46Z",
-      "followers": 804,
-      "following": 3,
-      "repositories": 112,
       "organizations": 0
     },
     {
@@ -10252,7 +10252,21 @@
     },
     {
       "rank": 733,
-      "change": 0,
+      "change": -2,
+      "login": "Kr1s77",
+      "name": "Kris Liang",
+      "location": "china",
+      "company": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29158759?s=256&u=05b3e627e7762661fbf819df8f07598f37e4db3a&v=4",
+      "createdAt": "2017-06-03T07:33:54Z",
+      "followers": 788,
+      "following": 0,
+      "repositories": 13,
+      "organizations": 0
+    },
+    {
+      "rank": 734,
+      "change": 1,
       "login": "hujiulong",
       "name": null,
       "location": "Beijing, China",
@@ -10265,8 +10279,8 @@
       "organizations": 0
     },
     {
-      "rank": 734,
-      "change": 0,
+      "rank": 735,
+      "change": 1,
       "login": "Sharpiless",
       "name": null,
       "location": "Beijing, China",
@@ -10276,20 +10290,6 @@
       "followers": 788,
       "following": 50,
       "repositories": 294,
-      "organizations": 0
-    },
-    {
-      "rank": 735,
-      "change": 0,
-      "login": "Kr1s77",
-      "name": "Kris Liang",
-      "location": "china",
-      "company": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29158759?s=256&u=05b3e627e7762661fbf819df8f07598f37e4db3a&v=4",
-      "createdAt": "2017-06-03T07:33:54Z",
-      "followers": 787,
-      "following": 0,
-      "repositories": 13,
       "organizations": 0
     },
     {
@@ -10336,7 +10336,21 @@
     },
     {
       "rank": 739,
-      "change": 0,
+      "change": -2,
+      "login": "sun0225SUN",
+      "name": "Guoqi Sun",
+      "location": "Shanghai China",
+      "company": "@Twilight-AI",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79169717?s=256&u=9b9642eeeab9917c0d0aa6b5754beade26ed3e93&v=4",
+      "createdAt": "2021-02-16T20:20:40Z",
+      "followers": 784,
+      "following": 132,
+      "repositories": 23,
+      "organizations": 2
+    },
+    {
+      "rank": 740,
+      "change": 1,
       "login": "mo-xiaoxi",
       "name": "moxiaoxi",
       "location": "China",
@@ -10349,8 +10363,8 @@
       "organizations": 0
     },
     {
-      "rank": 740,
-      "change": 0,
+      "rank": 741,
+      "change": 1,
       "login": "hongru",
       "name": "岑安",
       "location": "HangZhou China",
@@ -10363,8 +10377,8 @@
       "organizations": 0
     },
     {
-      "rank": 741,
-      "change": -1,
+      "rank": 742,
+      "change": 0,
       "login": "PhotonQuantum",
       "name": "LightQuantum",
       "location": "Shanghai, China",
@@ -10375,20 +10389,6 @@
       "following": 95,
       "repositories": 186,
       "organizations": 4
-    },
-    {
-      "rank": 742,
-      "change": 1,
-      "login": "sun0225SUN",
-      "name": "Guoqi Sun",
-      "location": "Shanghai China",
-      "company": "@Twilight-AI",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/79169717?s=256&u=9b9642eeeab9917c0d0aa6b5754beade26ed3e93&v=4",
-      "createdAt": "2021-02-16T20:20:40Z",
-      "followers": 783,
-      "following": 132,
-      "repositories": 23,
-      "organizations": 2
     },
     {
       "rank": 743,
@@ -10833,7 +10833,7 @@
       "company": "@xmindltd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/731424?s=256&v=4",
       "createdAt": "2011-04-15T12:08:21Z",
-      "followers": 738,
+      "followers": 739,
       "following": 75,
       "repositories": 133,
       "organizations": 1
@@ -11533,7 +11533,7 @@
       "company": "@automq",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3961183?s=256&u=01582e87de4eed440b07b84786cf348e731cb2b1&v=4",
       "createdAt": "2013-03-25T05:57:47Z",
-      "followers": 688,
+      "followers": 689,
       "following": 4676,
       "repositories": 19,
       "organizations": 3
@@ -11876,7 +11876,21 @@
     },
     {
       "rank": 849,
-      "change": -1,
+      "change": -2,
+      "login": "eseedo",
+      "name": "Han Wang",
+      "location": "China",
+      "company": "CylonSpace",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/716640?s=256&v=4",
+      "createdAt": "2011-04-08T03:04:54Z",
+      "followers": 666,
+      "following": 85,
+      "repositories": 36,
+      "organizations": 0
+    },
+    {
+      "rank": 850,
+      "change": 0,
       "login": "cpuimage",
       "name": "gaozhihan",
       "location": "Guangzhou, China",
@@ -11886,20 +11900,6 @@
       "followers": 665,
       "following": 58,
       "repositories": 96,
-      "organizations": 0
-    },
-    {
-      "rank": 850,
-      "change": -1,
-      "login": "eseedo",
-      "name": "Han Wang",
-      "location": "China",
-      "company": "CylonSpace",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/716640?s=256&v=4",
-      "createdAt": "2011-04-08T03:04:54Z",
-      "followers": 665,
-      "following": 85,
-      "repositories": 36,
       "organizations": 0
     },
     {
@@ -12079,7 +12079,7 @@
       "company": "@tencent",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5674678?s=256&u=99b0fdc4672a3daba6d58caf4d74c3afe07733d3&v=4",
       "createdAt": "2013-10-13T05:50:36Z",
-      "followers": 651,
+      "followers": 650,
       "following": 43,
       "repositories": 104,
       "organizations": 0
@@ -12156,7 +12156,21 @@
     },
     {
       "rank": 869,
-      "change": 0,
+      "change": -1,
+      "login": "ArthurChiao",
+      "name": "Arthur",
+      "location": "Shanghai, China",
+      "company": "Trip.com",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7912701?s=256&u=d849661de6cbef3c213a634355447ed80cfa2ac8&v=4",
+      "createdAt": "2014-06-17T12:29:39Z",
+      "followers": 645,
+      "following": 4,
+      "repositories": 25,
+      "organizations": 0
+    },
+    {
+      "rank": 870,
+      "change": 1,
       "login": "creeperyang",
       "name": "Creeper",
       "location": "Shanghai,China",
@@ -12167,20 +12181,6 @@
       "following": 30,
       "repositories": 60,
       "organizations": 2
-    },
-    {
-      "rank": 870,
-      "change": 0,
-      "login": "ArthurChiao",
-      "name": "Arthur",
-      "location": "Shanghai, China",
-      "company": "Trip.com",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7912701?s=256&u=d849661de6cbef3c213a634355447ed80cfa2ac8&v=4",
-      "createdAt": "2014-06-17T12:29:39Z",
-      "followers": 644,
-      "following": 4,
-      "repositories": 25,
-      "organizations": 0
     },
     {
       "rank": 871,
@@ -12478,35 +12478,49 @@
     },
     {
       "rank": 892,
-      "change": 0,
-      "login": "willin",
-      "name": "老王 Willin (v0)",
-      "location": "Nanjing, China",
-      "company": "Open Sources",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1890238?s=256&v=4",
-      "createdAt": "2012-06-25T15:33:06Z",
-      "followers": 634,
-      "following": 87,
-      "repositories": 185,
-      "organizations": 37
-    },
-    {
-      "rank": 893,
-      "change": -3,
+      "change": -4,
       "login": "magic-akari",
       "name": null,
       "location": "Beijing, China",
       "company": null,
       "avatarUrl": "https://avatars.githubusercontent.com/u/7829098?s=256&u=381b16ee46f6f8e653a74e5de17acc80d04e1ce0&v=4",
       "createdAt": "2014-06-08T07:59:42Z",
-      "followers": 632,
+      "followers": 633,
       "following": 120,
       "repositories": 75,
       "organizations": 2
     },
     {
-      "rank": 894,
+      "rank": 893,
       "change": 1,
+      "login": "willin",
+      "name": "老王 Willin (v0)",
+      "location": "Nanjing, China",
+      "company": "Open Sources",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1890238?s=256&v=4",
+      "createdAt": "2012-06-25T15:33:06Z",
+      "followers": 633,
+      "following": 87,
+      "repositories": 185,
+      "organizations": 37
+    },
+    {
+      "rank": 894,
+      "change": -3,
+      "login": "fankes",
+      "name": "Fankesyooni",
+      "location": "China",
+      "company": "@HighCapable",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/37344460?s=256&u=523bafec4d82df1e31b60f1cd411f72243c2ded8&v=4",
+      "createdAt": "2018-03-13T17:06:28Z",
+      "followers": 632,
+      "following": 77,
+      "repositories": 37,
+      "organizations": 0
+    },
+    {
+      "rank": 895,
+      "change": 2,
       "login": "Mrzeron",
       "name": "Binging",
       "location": "Bei jing China ",
@@ -12519,8 +12533,8 @@
       "organizations": 0
     },
     {
-      "rank": 895,
-      "change": 1,
+      "rank": 896,
+      "change": 2,
       "login": "cloud-fan",
       "name": "Wenchen Fan",
       "location": "Hangzhou, China",
@@ -12533,8 +12547,8 @@
       "organizations": 0
     },
     {
-      "rank": 896,
-      "change": 1,
+      "rank": 897,
+      "change": 2,
       "login": "MhLiao",
       "name": "Minghui Liao",
       "location": "Wuhan, China",
@@ -12544,20 +12558,6 @@
       "followers": 631,
       "following": 3,
       "repositories": 12,
-      "organizations": 0
-    },
-    {
-      "rank": 897,
-      "change": 0,
-      "login": "fankes",
-      "name": "Fankesyooni",
-      "location": "China",
-      "company": "@HighCapable",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/37344460?s=256&u=523bafec4d82df1e31b60f1cd411f72243c2ded8&v=4",
-      "createdAt": "2018-03-13T17:06:28Z",
-      "followers": 631,
-      "following": 77,
-      "repositories": 37,
       "organizations": 0
     },
     {
@@ -12716,7 +12716,21 @@
     },
     {
       "rank": 909,
-      "change": 0,
+      "change": -9,
+      "login": "libdriver",
+      "name": "LibDriver",
+      "location": "China",
+      "company": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/45958776?s=256&u=e055dfd2e38ffc5c46f3d1f110ca1cef07863607&v=4",
+      "createdAt": "2018-12-18T05:06:12Z",
+      "followers": 625,
+      "following": 0,
+      "repositories": 120,
+      "organizations": 0
+    },
+    {
+      "rank": 910,
+      "change": 1,
       "login": "zouxiaohang",
       "name": "邹晓航",
       "location": "China",
@@ -12726,20 +12740,6 @@
       "followers": 625,
       "following": 63,
       "repositories": 20,
-      "organizations": 0
-    },
-    {
-      "rank": 910,
-      "change": -8,
-      "login": "libdriver",
-      "name": "LibDriver",
-      "location": "China",
-      "company": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/45958776?s=256&u=e055dfd2e38ffc5c46f3d1f110ca1cef07863607&v=4",
-      "createdAt": "2018-12-18T05:06:12Z",
-      "followers": 623,
-      "following": 0,
-      "repositories": 120,
       "organizations": 0
     },
     {

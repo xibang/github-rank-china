@@ -4,7 +4,7 @@
   "list": [
     {
       "rank": 1,
-      "change": 1000,
+      "change": 0,
       "login": "ruanyf",
       "name": "Ruan YiFeng",
       "location": "Shanghai, China",
@@ -18,7 +18,7 @@
     },
     {
       "rank": 2,
-      "change": 999,
+      "change": 0,
       "login": "michaelliao",
       "name": "Crypto Michael",
       "location": "Beijing, China",
@@ -32,7 +32,7 @@
     },
     {
       "rank": 3,
-      "change": 998,
+      "change": 0,
       "login": "daimajia",
       "name": "代码家",
       "location": "Beijing, China",
@@ -46,7 +46,7 @@
     },
     {
       "rank": 4,
-      "change": 997,
+      "change": 0,
       "login": "programthink",
       "name": "编程随想",
       "location": "China",
@@ -60,7 +60,7 @@
     },
     {
       "rank": 5,
-      "change": 996,
+      "change": 0,
       "login": "JacksonTian",
       "name": "Jackson Tian",
       "location": "Hangzhou, China",
@@ -74,7 +74,7 @@
     },
     {
       "rank": 6,
-      "change": 995,
+      "change": 0,
       "login": "cloudwu",
       "name": "云风",
       "location": "China",
@@ -88,7 +88,7 @@
     },
     {
       "rank": 7,
-      "change": 994,
+      "change": 0,
       "login": "phodal",
       "name": "Fengda Huang",
       "location": "Shanghai / Hangzhou, China",
@@ -102,7 +102,7 @@
     },
     {
       "rank": 8,
-      "change": 993,
+      "change": 0,
       "login": "liyupi",
       "name": "程序员鱼皮",
       "location": "China Shanghai",
@@ -116,7 +116,7 @@
     },
     {
       "rank": 9,
-      "change": 992,
+      "change": 0,
       "login": "halfrost",
       "name": "halfrost",
       "location": "[California, Singapore, China]",
@@ -130,7 +130,7 @@
     },
     {
       "rank": 10,
-      "change": 991,
+      "change": 0,
       "login": "justjavac",
       "name": "迷渡",
       "location": "Tianjin, China",
@@ -144,7 +144,7 @@
     },
     {
       "rank": 11,
-      "change": 990,
+      "change": 0,
       "login": "jackfrued",
       "name": "骆昊",
       "location": "Chengdu Sichuan, China",
@@ -158,7 +158,7 @@
     },
     {
       "rank": 12,
-      "change": 989,
+      "change": 0,
       "login": "lifesinger",
       "name": "lifesinger",
       "location": "Hangzhou, China",
@@ -172,7 +172,7 @@
     },
     {
       "rank": 13,
-      "change": 988,
+      "change": 0,
       "login": "stormzhang",
       "name": "stormzhang",
       "location": "Shanghai, China",
@@ -186,7 +186,7 @@
     },
     {
       "rank": 14,
-      "change": 987,
+      "change": 0,
       "login": "Ovilia",
       "name": "Wenli Zhang",
       "location": "Shanghai, China",
@@ -200,7 +200,7 @@
     },
     {
       "rank": 15,
-      "change": 986,
+      "change": 0,
       "login": "onevcat",
       "name": "Wei Wang",
       "location": "Yokohama, Japan / China",
@@ -214,7 +214,7 @@
     },
     {
       "rank": 16,
-      "change": 985,
+      "change": 0,
       "login": "astaxie",
       "name": "astaxie",
       "location": "Shanghai, China",
@@ -228,7 +228,7 @@
     },
     {
       "rank": 17,
-      "change": 984,
+      "change": 0,
       "login": "RubyLouvre",
       "name": "司徒正美",
       "location": "China",
@@ -242,7 +242,7 @@
     },
     {
       "rank": 18,
-      "change": 983,
+      "change": 0,
       "login": "CyC2018",
       "name": null,
       "location": "Guangzhou, China",
@@ -256,7 +256,7 @@
     },
     {
       "rank": 19,
-      "change": 982,
+      "change": 0,
       "login": "sorrycc",
       "name": "chencheng (云谦)",
       "location": "HangZhou, China",
@@ -270,7 +270,7 @@
     },
     {
       "rank": 20,
-      "change": 981,
+      "change": 0,
       "login": "bailicangdu",
       "name": "cangdu",
       "location": "Shanghai, China",
@@ -284,7 +284,7 @@
     },
     {
       "rank": 21,
-      "change": 980,
+      "change": 0,
       "login": "fengdu78",
       "name": "Huang Haiguang",
       "location": "Qingdao,China",
@@ -298,7 +298,7 @@
     },
     {
       "rank": 22,
-      "change": 979,
+      "change": 0,
       "login": "PanJiaChen",
       "name": "花裤衩",
       "location": "Shanghai, China",
@@ -312,7 +312,7 @@
     },
     {
       "rank": 23,
-      "change": 978,
+      "change": 0,
       "login": "breakwa11",
       "name": "破娃酱",
       "location": "喵嗷污, China",
@@ -326,7 +326,7 @@
     },
     {
       "rank": 24,
-      "change": 977,
+      "change": 0,
       "login": "draveness",
       "name": "Draven",
       "location": "Beijing, China",
@@ -340,7 +340,7 @@
     },
     {
       "rank": 25,
-      "change": 976,
+      "change": 0,
       "login": "hongyangAndroid",
       "name": "张鸿洋",
       "location": "Beijing,China",
@@ -354,7 +354,7 @@
     },
     {
       "rank": 26,
-      "change": 975,
+      "change": 0,
       "login": "egoist",
       "name": "EGOIST",
       "location": "China",
@@ -368,7 +368,7 @@
     },
     {
       "rank": 27,
-      "change": 974,
+      "change": 0,
       "login": "YunaiV",
       "name": "芋道源码",
       "location": "Shanghai, China",
@@ -382,7 +382,7 @@
     },
     {
       "rank": 28,
-      "change": 973,
+      "change": 0,
       "login": "mqyqingfeng",
       "name": "冴羽",
       "location": "Hangzhou, China",
@@ -396,7 +396,7 @@
     },
     {
       "rank": 29,
-      "change": 972,
+      "change": 0,
       "login": "fouber",
       "name": "张云龙",
       "location": "China",
@@ -410,7 +410,7 @@
     },
     {
       "rank": 30,
-      "change": 971,
+      "change": 0,
       "login": "QianMo",
       "name": "浅墨（毛星云）",
       "location": "Shenzhen, China",
@@ -424,7 +424,7 @@
     },
     {
       "rank": 31,
-      "change": 970,
+      "change": 0,
       "login": "miloyip",
       "name": "Milo Yip",
       "location": "Hong Kong, China",
@@ -438,7 +438,7 @@
     },
     {
       "rank": 32,
-      "change": 969,
+      "change": 0,
       "login": "sofish",
       "name": "小鱼",
       "location": "Shanghai China",
@@ -452,7 +452,7 @@
     },
     {
       "rank": 33,
-      "change": 968,
+      "change": 0,
       "login": "easychen",
       "name": "Easy",
       "location": "Chongqing, China",
@@ -466,7 +466,7 @@
     },
     {
       "rank": 34,
-      "change": 967,
+      "change": 0,
       "login": "CoderMJLee",
       "name": "M了个J",
       "location": "Guangzhou, China",
@@ -480,7 +480,7 @@
     },
     {
       "rank": 35,
-      "change": 966,
+      "change": 0,
       "login": "wizardforcel",
       "name": "布客飞龙",
       "location": "Beijing, China",
@@ -494,7 +494,7 @@
     },
     {
       "rank": 36,
-      "change": 965,
+      "change": 0,
       "login": "ustbhuangyi",
       "name": "HuangYi",
       "location": "HeFei,China",
@@ -508,7 +508,7 @@
     },
     {
       "rank": 37,
-      "change": 964,
+      "change": 0,
       "login": "Jack-Cherish",
       "name": "Jack Cui",
       "location": "China",
@@ -522,7 +522,7 @@
     },
     {
       "rank": 38,
-      "change": 963,
+      "change": 0,
       "login": "521xueweihan",
       "name": "削微寒",
       "location": "Beijing, China",
@@ -536,7 +536,7 @@
     },
     {
       "rank": 39,
-      "change": 962,
+      "change": 0,
       "login": "wintercn",
       "name": "Shaofei Cheng",
       "location": "China",
@@ -550,7 +550,7 @@
     },
     {
       "rank": 40,
-      "change": 961,
+      "change": 0,
       "login": "i5ting",
       "name": "狼叔",
       "location": "china beijing",
@@ -564,7 +564,7 @@
     },
     {
       "rank": 41,
-      "change": 960,
+      "change": 0,
       "login": "dyc87112",
       "name": "程序猿DD",
       "location": "Shanghai, China",
@@ -578,7 +578,7 @@
     },
     {
       "rank": 42,
-      "change": 959,
+      "change": 0,
       "login": "macrozheng",
       "name": "macro",
       "location": "Wuxi,China",
@@ -592,7 +592,7 @@
     },
     {
       "rank": 43,
-      "change": 958,
+      "change": 0,
       "login": "MisterBooo",
       "name": "吴师兄学算法",
       "location": "Guangzhou, China",
@@ -606,7 +606,7 @@
     },
     {
       "rank": 44,
-      "change": 957,
+      "change": 0,
       "login": "ityouknow",
       "name": "纯洁的微笑",
       "location": "beijing,china",
@@ -620,7 +620,7 @@
     },
     {
       "rank": 45,
-      "change": 956,
+      "change": 0,
       "login": "Fndroid",
       "name": "Fndroid",
       "location": "China",
@@ -634,7 +634,7 @@
     },
     {
       "rank": 46,
-      "change": 955,
+      "change": 0,
       "login": "chokcoco",
       "name": "Coco",
       "location": "ShenZhen, China",
@@ -648,7 +648,7 @@
     },
     {
       "rank": 47,
-      "change": 954,
+      "change": 0,
       "login": "jaywcjlove",
       "name": "小弟调调",
       "location": "Suzhou, China",
@@ -662,7 +662,7 @@
     },
     {
       "rank": 48,
-      "change": 953,
+      "change": 0,
       "login": "fengmk2",
       "name": "fengmk2",
       "location": "Hangzhou, China",
@@ -676,7 +676,7 @@
     },
     {
       "rank": 49,
-      "change": 952,
+      "change": 0,
       "login": "mercyblitz",
       "name": "Mercy Ma",
       "location": "Hangzhou, China",
@@ -690,7 +690,7 @@
     },
     {
       "rank": 50,
-      "change": 951,
+      "change": 0,
       "login": "PKUFlyingPig",
       "name": "Yinmin Zhong",
       "location": "Beijing, China",
@@ -704,7 +704,7 @@
     },
     {
       "rank": 51,
-      "change": 950,
+      "change": 0,
       "login": "drakeet",
       "name": "Drakeet",
       "location": "Suzhou, China",
@@ -718,7 +718,7 @@
     },
     {
       "rank": 52,
-      "change": 949,
+      "change": 0,
       "login": "rengwuxian",
       "name": "Kai Zhu",
       "location": "Zhengzhou, China",
@@ -732,7 +732,7 @@
     },
     {
       "rank": 53,
-      "change": 948,
+      "change": 0,
       "login": "CarGuo",
       "name": "Shuyu Guo",
       "location": "China 广东 珠海",
@@ -746,7 +746,7 @@
     },
     {
       "rank": 54,
-      "change": 947,
+      "change": 0,
       "login": "liuyubobobo",
       "name": "Yubo Liu",
       "location": "USA / China",
@@ -760,7 +760,7 @@
     },
     {
       "rank": 55,
-      "change": 946,
+      "change": 0,
       "login": "skyzh",
       "name": "Alex Chi Z.",
       "location": "Pittsburgh, PA, USA ⇌ Shanghai, China",
@@ -774,7 +774,7 @@
     },
     {
       "rank": 56,
-      "change": 945,
+      "change": 0,
       "login": "singwhatiwanna",
       "name": "singwhatiwanna",
       "location": "Beijing, China",
@@ -788,7 +788,7 @@
     },
     {
       "rank": 57,
-      "change": 944,
+      "change": 0,
       "login": "tiann",
       "name": "weishu",
       "location": "China",
@@ -802,7 +802,7 @@
     },
     {
       "rank": 58,
-      "change": 943,
+      "change": 0,
       "login": "Huxpro",
       "name": "Xuan Huang (黄玄)",
       "location": "[NY, CA, ...China]",
@@ -816,7 +816,7 @@
     },
     {
       "rank": 59,
-      "change": 942,
+      "change": 0,
       "login": "afc163",
       "name": "afc163",
       "location": "Hangzhou, China",
@@ -830,7 +830,7 @@
     },
     {
       "rank": 60,
-      "change": 941,
+      "change": 0,
       "login": "overtrue",
       "name": "安正超",
       "location": "Shenzhen,China",
@@ -844,7 +844,7 @@
     },
     {
       "rank": 61,
-      "change": 940,
+      "change": 0,
       "login": "tangqiaoboy",
       "name": "Tang Qiao",
       "location": "Beijing, China",
@@ -858,7 +858,7 @@
     },
     {
       "rank": 62,
-      "change": 939,
+      "change": 0,
       "login": "hehonghui",
       "name": "Mr.Simple",
       "location": "china",
@@ -872,7 +872,7 @@
     },
     {
       "rank": 63,
-      "change": 938,
+      "change": 0,
       "login": "bigtreetech",
       "name": "BIGTREETECH",
       "location": "Shenzhen, China",
@@ -886,7 +886,7 @@
     },
     {
       "rank": 64,
-      "change": 937,
+      "change": 0,
       "login": "oldratlee",
       "name": "李鼎",
       "location": "Shanghai ⇌ Hangzhou Zhejiang, China",
@@ -900,7 +900,7 @@
     },
     {
       "rank": 65,
-      "change": 936,
+      "change": 0,
       "login": "amusi",
       "name": "Amusi",
       "location": "Shanghai, China",
@@ -914,7 +914,7 @@
     },
     {
       "rank": 66,
-      "change": 935,
+      "change": 0,
       "login": "xufei",
       "name": "xufei",
       "location": "Shanghai, China",
@@ -928,7 +928,7 @@
     },
     {
       "rank": 67,
-      "change": 934,
+      "change": 0,
       "login": "liuhuanyong",
       "name": "liuhuanyong",
       "location": "Beijing, China",
@@ -942,7 +942,7 @@
     },
     {
       "rank": 68,
-      "change": 933,
+      "change": 0,
       "login": "guolindev",
       "name": "Lin Guo",
       "location": "Suzhou, China",
@@ -956,7 +956,7 @@
     },
     {
       "rank": 69,
-      "change": 932,
+      "change": 0,
       "login": "qiwsir",
       "name": "老齐",
       "location": "Suzhou China",
@@ -970,7 +970,7 @@
     },
     {
       "rank": 70,
-      "change": 931,
+      "change": 0,
       "login": "yihong0618",
       "name": "yihong",
       "location": "China",
@@ -984,7 +984,7 @@
     },
     {
       "rank": 71,
-      "change": 930,
+      "change": 0,
       "login": "xuxueli",
       "name": "许雪里",
       "location": "Shanghai, China",
@@ -998,7 +998,7 @@
     },
     {
       "rank": 72,
-      "change": 929,
+      "change": 0,
       "login": "tw93",
       "name": "Tw93",
       "location": "HangZhou, China",
@@ -1012,7 +1012,7 @@
     },
     {
       "rank": 73,
-      "change": 928,
+      "change": 0,
       "login": "crossoverJie",
       "name": "crossoverJie",
       "location": "CHONGQING,CHINA",
@@ -1026,7 +1026,7 @@
     },
     {
       "rank": 74,
-      "change": 927,
+      "change": 0,
       "login": "fenixsoft",
       "name": "IcyFenix",
       "location": "China, Shenzhen ⇄ Zhuhai",
@@ -1040,7 +1040,7 @@
     },
     {
       "rank": 75,
-      "change": 926,
+      "change": 0,
       "login": "yanhaijing",
       "name": "颜海镜",
       "location": "Beijing,China",
@@ -1054,7 +1054,7 @@
     },
     {
       "rank": 76,
-      "change": 925,
+      "change": 0,
       "login": "jinzhu",
       "name": "Jinzhu",
       "location": "HangZhou China",
@@ -1068,7 +1068,7 @@
     },
     {
       "rank": 77,
-      "change": 924,
+      "change": 0,
       "login": "Yidadaa",
       "name": "Yifei Zhang",
       "location": "China",
@@ -1082,7 +1082,7 @@
     },
     {
       "rank": 78,
-      "change": 923,
+      "change": 0,
       "login": "alsotang",
       "name": "alsotang",
       "location": "ShenZhen, China",
@@ -1096,7 +1096,7 @@
     },
     {
       "rank": 79,
-      "change": 922,
+      "change": 0,
       "login": "HcySunYang",
       "name": "Chunyang Huo",
       "location": "Beijing, China",
@@ -1110,7 +1110,7 @@
     },
     {
       "rank": 80,
-      "change": 921,
+      "change": 0,
       "login": "sungeer",
       "name": "Sun Geer",
       "location": "Shanghai, China",
@@ -1124,7 +1124,7 @@
     },
     {
       "rank": 81,
-      "change": 920,
+      "change": 0,
       "login": "jindongwang",
       "name": "Jindong Wang",
       "location": "Beijing, China",
@@ -1138,7 +1138,7 @@
     },
     {
       "rank": 82,
-      "change": 919,
+      "change": 0,
       "login": "huangzworks",
       "name": "宏图书社 | 黄健宏",
       "location": "China",
@@ -1152,7 +1152,7 @@
     },
     {
       "rank": 83,
-      "change": 918,
+      "change": 0,
       "login": "julycoding",
       "name": "July",
       "location": "Beijing, China",
@@ -1166,7 +1166,7 @@
     },
     {
       "rank": 84,
-      "change": 917,
+      "change": 0,
       "login": "tshemsedinov",
       "name": "Timur Shemsedinov",
       "location": "Earth, Europe, Ukraine, Kiev, Kyiv, USA, Spain, Germany, Italy, China",
@@ -1180,7 +1180,7 @@
     },
     {
       "rank": 85,
-      "change": 916,
+      "change": 0,
       "login": "rfyiamcool",
       "name": "fengyun.rui",
       "location": "China / BeiJing",
@@ -1194,7 +1194,7 @@
     },
     {
       "rank": 86,
-      "change": 915,
+      "change": 0,
       "login": "huacnlee",
       "name": "Jason Lee",
       "location": "Chengdu, China",
@@ -1208,7 +1208,7 @@
     },
     {
       "rank": 87,
-      "change": 914,
+      "change": 0,
       "login": "yetone",
       "name": "yetone",
       "location": "China",
@@ -1222,7 +1222,7 @@
     },
     {
       "rank": 88,
-      "change": 913,
+      "change": 0,
       "login": "yegor256",
       "name": "Yegor Bugayenko",
       "location": "China",
@@ -1236,7 +1236,7 @@
     },
     {
       "rank": 89,
-      "change": 912,
+      "change": 0,
       "login": "wepe",
       "name": "wepon",
       "location": "China Hangzhou",
@@ -1250,7 +1250,7 @@
     },
     {
       "rank": 90,
-      "change": 911,
+      "change": 0,
       "login": "Dreamacro",
       "name": "Dreamacro",
       "location": "Amoy, China",
@@ -1264,7 +1264,7 @@
     },
     {
       "rank": 91,
-      "change": 910,
+      "change": 0,
       "login": "chai2010",
       "name": "柴树杉",
       "location": "Hangzhou, China",
@@ -1278,7 +1278,7 @@
     },
     {
       "rank": 92,
-      "change": 909,
+      "change": 0,
       "login": "atian25",
       "name": "TZ | 天猪",
       "location": "GuangZhou, China",
@@ -1292,7 +1292,7 @@
     },
     {
       "rank": 93,
-      "change": 908,
+      "change": 0,
       "login": "smallnest",
       "name": "smallnest",
       "location": "China",
@@ -1306,7 +1306,7 @@
     },
     {
       "rank": 94,
-      "change": 907,
+      "change": 0,
       "login": "madeye",
       "name": "Max Lv",
       "location": "Shanghai, China",
@@ -1320,7 +1320,7 @@
     },
     {
       "rank": 95,
-      "change": 906,
+      "change": 0,
       "login": "YunYouJun",
       "name": "云游君",
       "location": "Guangzhou, China",
@@ -1334,7 +1334,7 @@
     },
     {
       "rank": 96,
-      "change": 905,
+      "change": 0,
       "login": "hax",
       "name": "HE Shi-Jun",
       "location": "Shanghai, China",
@@ -1348,7 +1348,7 @@
     },
     {
       "rank": 97,
-      "change": 904,
+      "change": 0,
       "login": "oschina",
       "name": "开源中国",
       "location": "SZ China",
@@ -1362,7 +1362,7 @@
     },
     {
       "rank": 98,
-      "change": 903,
+      "change": 0,
       "login": "azl397985856",
       "name": "lucifer",
       "location": "China",
@@ -1376,7 +1376,7 @@
     },
     {
       "rank": 99,
-      "change": 902,
+      "change": 0,
       "login": "pissang",
       "name": "Yi Shen",
       "location": "Shanghai, China",
@@ -1390,7 +1390,7 @@
     },
     {
       "rank": 100,
-      "change": 901,
+      "change": 0,
       "login": "barretlee",
       "name": "Barret李靖",
       "location": "Hangzhou,China",
@@ -1404,7 +1404,7 @@
     },
     {
       "rank": 101,
-      "change": 900,
+      "change": 0,
       "login": "doodlewind",
       "name": "Yifeng Wang",
       "location": "China ⇔ Singapore",
@@ -1418,7 +1418,7 @@
     },
     {
       "rank": 102,
-      "change": 899,
+      "change": 0,
       "login": "Terry-Mao",
       "name": "Terry.Mao",
       "location": "China, BeiJing",
@@ -1432,7 +1432,7 @@
     },
     {
       "rank": 103,
-      "change": 898,
+      "change": 0,
       "login": "dead-horse",
       "name": "Yiyu He",
       "location": "Hangzhou, China",
@@ -1446,7 +1446,7 @@
     },
     {
       "rank": 104,
-      "change": 897,
+      "change": 0,
       "login": "leixiaohua1020",
       "name": "Lei Xiaohua",
       "location": "China",
@@ -1460,7 +1460,7 @@
     },
     {
       "rank": 105,
-      "change": 896,
+      "change": 0,
       "login": "answershuto",
       "name": "染陌同学",
       "location": "HangZhou, China",
@@ -1474,7 +1474,7 @@
     },
     {
       "rank": 106,
-      "change": 895,
+      "change": 0,
       "login": "kesenhoo",
       "name": "HuKai",
       "location": "Shanghai , China",
@@ -1488,7 +1488,7 @@
     },
     {
       "rank": 107,
-      "change": 894,
+      "change": 0,
       "login": "chyyuu",
       "name": "chyyuu",
       "location": "Beijing, China",
@@ -1502,7 +1502,7 @@
     },
     {
       "rank": 108,
-      "change": 893,
+      "change": 0,
       "login": "xpqiu",
       "name": "Xipeng Qiu",
       "location": "Shanghai, China",
@@ -1516,7 +1516,7 @@
     },
     {
       "rank": 109,
-      "change": 892,
+      "change": 0,
       "login": "hustcc",
       "name": "hustcc",
       "location": "HangZhou, China",
@@ -1530,7 +1530,7 @@
     },
     {
       "rank": 110,
-      "change": 891,
+      "change": 0,
       "login": "cch123",
       "name": "Xargin",
       "location": "Beijing, China, Singapore",
@@ -1544,7 +1544,7 @@
     },
     {
       "rank": 111,
-      "change": 890,
+      "change": 0,
       "login": "JeffLi1993",
       "name": "程序员泥瓦匠",
       "location": "HangZhou, China",
@@ -1558,7 +1558,7 @@
     },
     {
       "rank": 112,
-      "change": 889,
+      "change": 0,
       "login": "vinceliuice",
       "name": "Vince",
       "location": "PingXiang / JiangXi / China",
@@ -1572,7 +1572,7 @@
     },
     {
       "rank": 113,
-      "change": 888,
+      "change": 0,
       "login": "biaochenxuying",
       "name": "夜尽天明",
       "location": "Guangzhou China",
@@ -1586,7 +1586,7 @@
     },
     {
       "rank": 114,
-      "change": 887,
+      "change": 0,
       "login": "JessYanCoding",
       "name": "JessYan",
       "location": "Chengdu,China",
@@ -1600,7 +1600,7 @@
     },
     {
       "rank": 115,
-      "change": 886,
+      "change": 0,
       "login": "getActivity",
       "name": "Android轮子哥",
       "location": "Guangzhou,China",
@@ -1614,7 +1614,7 @@
     },
     {
       "rank": 116,
-      "change": 885,
+      "change": 0,
       "login": "sxzz",
       "name": "Kevin Deng 三咲智子",
       "location": "NaN, China",
@@ -1628,7 +1628,7 @@
     },
     {
       "rank": 117,
-      "change": 884,
+      "change": 0,
       "login": "ring04h",
       "name": null,
       "location": "China",
@@ -1642,7 +1642,7 @@
     },
     {
       "rank": 118,
-      "change": 883,
+      "change": 0,
       "login": "xcatliu",
       "name": "xcatliu",
       "location": "Shenzhen, China",
@@ -1656,7 +1656,7 @@
     },
     {
       "rank": 119,
-      "change": 882,
+      "change": 0,
       "login": "jmzeng1314",
       "name": "jimmy_zeng",
       "location": "Shanghai-China",
@@ -1670,7 +1670,7 @@
     },
     {
       "rank": 120,
-      "change": 881,
+      "change": 0,
       "login": "bingoogolapple",
       "name": "王浩",
       "location": "Chengdu, China",
@@ -1684,7 +1684,7 @@
     },
     {
       "rank": 121,
-      "change": 880,
+      "change": 0,
       "login": "jawil",
       "name": "微醺岁月",
       "location": "Hangzhou, China",
@@ -1698,7 +1698,7 @@
     },
     {
       "rank": 122,
-      "change": 879,
+      "change": 0,
       "login": "camsong",
       "name": "Shaoyin Song",
       "location": "Hangzhou, China",
@@ -1712,7 +1712,7 @@
     },
     {
       "rank": 123,
-      "change": 878,
+      "change": 0,
       "login": "XadillaX",
       "name": "Khaidi Chu",
       "location": "Hángzhōu, China",
@@ -1726,7 +1726,7 @@
     },
     {
       "rank": 124,
-      "change": 877,
+      "change": 0,
       "login": "EndlessCheng",
       "name": "灵茶山艾府 [0x3F]",
       "location": "Hangzhou, China",
@@ -1740,7 +1740,7 @@
     },
     {
       "rank": 125,
-      "change": 876,
+      "change": 0,
       "login": "rootsongjc",
       "name": "Jimmy Song",
       "location": "Beijing, China",
@@ -1754,7 +1754,7 @@
     },
     {
       "rank": 126,
-      "change": 875,
+      "change": 0,
       "login": "wenshao",
       "name": "Shaojin Wen",
       "location": "Hangzhou, Zhejiang, China",
@@ -1768,7 +1768,7 @@
     },
     {
       "rank": 127,
-      "change": 874,
+      "change": 0,
       "login": "berwin",
       "name": "博文（玖五）",
       "location": "Hangzhou, China",
@@ -1782,7 +1782,7 @@
     },
     {
       "rank": 128,
-      "change": 873,
+      "change": 0,
       "login": "ascoders",
       "name": "黄子毅",
       "location": "Hangzhou, China",
@@ -1796,7 +1796,7 @@
     },
     {
       "rank": 129,
-      "change": 872,
+      "change": 0,
       "login": "yiminghe",
       "name": "yiminghe",
       "location": "China, Shanghai",
@@ -1810,7 +1810,7 @@
     },
     {
       "rank": 130,
-      "change": 871,
+      "change": 0,
       "login": "lexrus",
       "name": "Lex Tang",
       "location": "Shanghai, China",
@@ -1824,7 +1824,7 @@
     },
     {
       "rank": 131,
-      "change": 870,
+      "change": 0,
       "login": "code4craft",
       "name": "Yihua Huang",
       "location": "Shanghai, China",
@@ -1838,7 +1838,7 @@
     },
     {
       "rank": 132,
-      "change": 869,
+      "change": 0,
       "login": "casatwy",
       "name": "Casa Taloyum",
       "location": "shanghai, china",
@@ -1852,7 +1852,7 @@
     },
     {
       "rank": 133,
-      "change": 868,
+      "change": 0,
       "login": "wangshub",
       "name": "Wason",
       "location": "Suzhou, China",
@@ -1866,7 +1866,7 @@
     },
     {
       "rank": 134,
-      "change": 867,
+      "change": 0,
       "login": "codefollower",
       "name": "codefollower",
       "location": "Gui Lin, China",
@@ -1880,7 +1880,7 @@
     },
     {
       "rank": 135,
-      "change": 866,
+      "change": 0,
       "login": "hzlzh",
       "name": "hzlzh",
       "location": "Shenzhen, China",
@@ -1894,7 +1894,7 @@
     },
     {
       "rank": 136,
-      "change": 865,
+      "change": 0,
       "login": "cssmagic",
       "name": "CSS魔法",
       "location": "SH, China",
@@ -1908,7 +1908,7 @@
     },
     {
       "rank": 137,
-      "change": 864,
+      "change": 0,
       "login": "xinntao",
       "name": "Xintao",
       "location": "Shenzhen, China",
@@ -1922,7 +1922,7 @@
     },
     {
       "rank": 138,
-      "change": 863,
+      "change": 0,
       "login": "ymcui",
       "name": "Yiming Cui",
       "location": "Beijing, China",
@@ -1936,7 +1936,7 @@
     },
     {
       "rank": 139,
-      "change": 862,
+      "change": 0,
       "login": "candycat1992",
       "name": "Feng Lele",
       "location": "Shanghai, China",
@@ -1950,7 +1950,7 @@
     },
     {
       "rank": 140,
-      "change": 861,
+      "change": 0,
       "login": "zdaxie",
       "name": "Zhenda Xie",
       "location": "Beijing, China",
@@ -1964,7 +1964,7 @@
     },
     {
       "rank": 141,
-      "change": 860,
+      "change": 0,
       "login": "SukkaW",
       "name": "Sukka",
       "location": "City of Science which is not in China",
@@ -1978,7 +1978,7 @@
     },
     {
       "rank": 142,
-      "change": 859,
+      "change": 0,
       "login": "markzhai",
       "name": "markzhai",
       "location": "Shanghai China",
@@ -1992,7 +1992,7 @@
     },
     {
       "rank": 143,
-      "change": 858,
+      "change": 0,
       "login": "matyhtf",
       "name": "Tianfeng.Han",
       "location": "Shanghai, China",
@@ -2006,7 +2006,7 @@
     },
     {
       "rank": 144,
-      "change": 857,
+      "change": 0,
       "login": "brightmart",
       "name": "brightmart",
       "location": "hangzhou,china",
@@ -2020,7 +2020,7 @@
     },
     {
       "rank": 145,
-      "change": 856,
+      "change": 0,
       "login": "TideSec",
       "name": "重剑无锋",
       "location": "China",
@@ -2034,7 +2034,7 @@
     },
     {
       "rank": 146,
-      "change": 855,
+      "change": 0,
       "login": "binjie09",
       "name": null,
       "location": "Shanghai, China",
@@ -2048,7 +2048,7 @@
     },
     {
       "rank": 147,
-      "change": 854,
+      "change": 0,
       "login": "windiest",
       "name": "Winds",
       "location": "Forever in your heart, China",
@@ -2062,7 +2062,7 @@
     },
     {
       "rank": 148,
-      "change": 853,
+      "change": 0,
       "login": "daliansky",
       "name": "daliansky",
       "location": "Dalian,China",
@@ -2076,7 +2076,7 @@
     },
     {
       "rank": 149,
-      "change": 852,
+      "change": 0,
       "login": "Justineo",
       "name": "GU Yiling",
       "location": "Shanghai, China",
@@ -2090,7 +2090,7 @@
     },
     {
       "rank": 150,
-      "change": 851,
+      "change": 0,
       "login": "shenweichen",
       "name": "浅梦",
       "location": "Hangzhou, Zhejiang, China",
@@ -2104,7 +2104,7 @@
     },
     {
       "rank": 151,
-      "change": 850,
+      "change": 0,
       "login": "gsdios",
       "name": "高少东",
       "location": "ShangHai, China",
@@ -2118,7 +2118,7 @@
     },
     {
       "rank": 152,
-      "change": 849,
+      "change": 0,
       "login": "dongweiming",
       "name": "Weiming Dong",
       "location": "Beijing, China",
@@ -2132,7 +2132,7 @@
     },
     {
       "rank": 153,
-      "change": 848,
+      "change": 0,
       "login": "hiyouga",
       "name": "hoshi-hiyouga",
       "location": "Beijing, China",
@@ -2146,7 +2146,7 @@
     },
     {
       "rank": 154,
-      "change": 847,
+      "change": 0,
       "login": "zce",
       "name": "Lei",
       "location": "Beijing, China",
@@ -2160,7 +2160,7 @@
     },
     {
       "rank": 155,
-      "change": 846,
+      "change": 0,
       "login": "wu-sheng",
       "name": "吴晟 Wu Sheng",
       "location": "Beijing(China), SF(US)",
@@ -2174,7 +2174,7 @@
     },
     {
       "rank": 156,
-      "change": 845,
+      "change": 0,
       "login": "sentsim",
       "name": "贤心",
       "location": "Hangzhou, China",
@@ -2188,7 +2188,7 @@
     },
     {
       "rank": 157,
-      "change": 844,
+      "change": 0,
       "login": "binarywang",
       "name": "Binary Wang",
       "location": "China",
@@ -2202,7 +2202,7 @@
     },
     {
       "rank": 158,
-      "change": 843,
+      "change": 0,
       "login": "GcsSloop",
       "name": "sloop",
       "location": "MagicLab,Shanghai, China",
@@ -2216,7 +2216,7 @@
     },
     {
       "rank": 159,
-      "change": 842,
+      "change": 0,
       "login": "chloerei",
       "name": "Rei",
       "location": "Shenzhen, China",
@@ -2230,7 +2230,7 @@
     },
     {
       "rank": 160,
-      "change": 841,
+      "change": 0,
       "login": "ventoy",
       "name": "longpanda",
       "location": "China",
@@ -2244,7 +2244,7 @@
     },
     {
       "rank": 161,
-      "change": 840,
+      "change": 0,
       "login": "geekan",
       "name": "Alexander Wu",
       "location": "Shenzhen, China",
@@ -2258,7 +2258,7 @@
     },
     {
       "rank": 162,
-      "change": 839,
+      "change": 0,
       "login": "digoal",
       "name": "Digoal.zhou",
       "location": "Hangzhou@China",
@@ -2272,7 +2272,7 @@
     },
     {
       "rank": 163,
-      "change": 838,
+      "change": 0,
       "login": "FrankFang",
       "name": "Frank Fang",
       "location": "Hangzhou, China",
@@ -2286,7 +2286,7 @@
     },
     {
       "rank": 164,
-      "change": 837,
+      "change": 0,
       "login": "felixonmars",
       "name": "Felix Yan",
       "location": "Wuhan, China",
@@ -2300,7 +2300,7 @@
     },
     {
       "rank": 165,
-      "change": 836,
+      "change": 0,
       "login": "extreme-assistant",
       "name": "CVMart",
       "location": "Shenzhen,china",
@@ -2314,7 +2314,7 @@
     },
     {
       "rank": 166,
-      "change": 835,
+      "change": 0,
       "login": "eddycjy",
       "name": "煎鱼",
       "location": "Shenzhen, China",
@@ -2328,7 +2328,7 @@
     },
     {
       "rank": 167,
-      "change": 834,
+      "change": 0,
       "login": "FeeiCN",
       "name": "Feei",
       "location": "Hangzhou, China",
@@ -2342,7 +2342,7 @@
     },
     {
       "rank": 168,
-      "change": 833,
+      "change": 0,
       "login": "cuixiaorui",
       "name": "阿崔cxr",
       "location": "China",
@@ -2356,7 +2356,7 @@
     },
     {
       "rank": 169,
-      "change": 832,
+      "change": 0,
       "login": "airen",
       "name": "Airen",
       "location": "China",
@@ -2370,7 +2370,7 @@
     },
     {
       "rank": 170,
-      "change": 831,
+      "change": 0,
       "login": "CHYbeta",
       "name": "chybeta",
       "location": "China",
@@ -2384,7 +2384,7 @@
     },
     {
       "rank": 171,
-      "change": 830,
+      "change": 0,
       "login": "summerblue",
       "name": "Summer",
       "location": "ShenZhen China",
@@ -2398,7 +2398,7 @@
     },
     {
       "rank": 172,
-      "change": 829,
+      "change": 0,
       "login": "lanxuezaipiao",
       "name": "敏敏Alexia",
       "location": "China",
@@ -2412,7 +2412,7 @@
     },
     {
       "rank": 173,
-      "change": 828,
+      "change": 0,
       "login": "kymjs",
       "name": "张涛",
       "location": "ShangHai, China",
@@ -2426,7 +2426,7 @@
     },
     {
       "rank": 174,
-      "change": 827,
+      "change": 0,
       "login": "Mr-xn",
       "name": "东方有鱼名为咸",
       "location": "China",
@@ -2440,7 +2440,7 @@
     },
     {
       "rank": 175,
-      "change": 826,
+      "change": 0,
       "login": "GuangchuangYu",
       "name": "Guangchuang Yu",
       "location": "Guangzhou, China",
@@ -2454,7 +2454,7 @@
     },
     {
       "rank": 176,
-      "change": 825,
+      "change": 0,
       "login": "aui",
       "name": "糖饼",
       "location": "Xiamen, China",
@@ -2468,7 +2468,7 @@
     },
     {
       "rank": 177,
-      "change": 824,
+      "change": 0,
       "login": "Anduin2017",
       "name": "Anduin Xue",
       "location": "Suzhou, Jiangsu, China",
@@ -2482,7 +2482,7 @@
     },
     {
       "rank": 178,
-      "change": 823,
+      "change": 0,
       "login": "johnlui",
       "name": "吕文翰",
       "location": "Beijing, China",
@@ -2496,7 +2496,7 @@
     },
     {
       "rank": 179,
-      "change": 822,
+      "change": 0,
       "login": "djyde",
       "name": "Randy",
       "location": "Guangzhou, China",
@@ -2510,7 +2510,7 @@
     },
     {
       "rank": 180,
-      "change": 821,
+      "change": 0,
       "login": "sl1673495",
       "name": "ssh",
       "location": "Shanghai, China",
@@ -2524,7 +2524,7 @@
     },
     {
       "rank": 181,
-      "change": 820,
+      "change": 0,
       "login": "aceld",
       "name": "刘丹冰",
       "location": "China",
@@ -2538,7 +2538,7 @@
     },
     {
       "rank": 182,
-      "change": 819,
+      "change": 0,
       "login": "Wscats",
       "name": "enoyao",
       "location": "ShenZhen, China",
@@ -2552,7 +2552,7 @@
     },
     {
       "rank": 183,
-      "change": 818,
+      "change": 0,
       "login": "lilydjwg",
       "name": "依云",
       "location": "Beijing, China",
@@ -2566,7 +2566,7 @@
     },
     {
       "rank": 184,
-      "change": 817,
+      "change": 0,
       "login": "formulahendry",
       "name": "Jun Han",
       "location": "Shanghai, China",
@@ -2580,7 +2580,7 @@
     },
     {
       "rank": 185,
-      "change": 816,
+      "change": 0,
       "login": "AloneMonkey",
       "name": "Alone_Monkey",
       "location": "HangZhou, China",
@@ -2594,7 +2594,7 @@
     },
     {
       "rank": 186,
-      "change": 815,
+      "change": 0,
       "login": "makerbase-mks",
       "name": "makerbase",
       "location": "guangdong china",
@@ -2608,7 +2608,7 @@
     },
     {
       "rank": 187,
-      "change": 814,
+      "change": 0,
       "login": "tiye",
       "name": "题叶",
       "location": "Shanghai, China",
@@ -2622,7 +2622,7 @@
     },
     {
       "rank": 188,
-      "change": 813,
+      "change": 0,
       "login": "bang590",
       "name": "bang",
       "location": "Guangdong, China",
@@ -2636,7 +2636,7 @@
     },
     {
       "rank": 189,
-      "change": 812,
+      "change": 0,
       "login": "manateelazycat",
       "name": "Andy Stewart",
       "location": "China",
@@ -2650,7 +2650,7 @@
     },
     {
       "rank": 190,
-      "change": 811,
+      "change": 0,
       "login": "tencent-wechat",
       "name": "WeChat",
       "location": "China",
@@ -2664,7 +2664,7 @@
     },
     {
       "rank": 191,
-      "change": 810,
+      "change": 0,
       "login": "orangepi-xunlong",
       "name": "Orange Pi",
       "location": "shenzhen,guangdong,china ",
@@ -2678,7 +2678,7 @@
     },
     {
       "rank": 192,
-      "change": 809,
+      "change": 0,
       "login": "woai3c",
       "name": "谭光志",
       "location": "Tianjin, China",
@@ -2692,7 +2692,7 @@
     },
     {
       "rank": 193,
-      "change": 808,
+      "change": 0,
       "login": "yulingtianxia",
       "name": "杨萧玉",
       "location": "Shenzhen,China",
@@ -2706,7 +2706,7 @@
     },
     {
       "rank": 194,
-      "change": 807,
+      "change": 0,
       "login": "chenjiandongx",
       "name": "dongdong",
       "location": "China",
@@ -2720,7 +2720,7 @@
     },
     {
       "rank": 195,
-      "change": 806,
+      "change": 0,
       "login": "judasn",
       "name": "Judas.n",
       "location": "GuangZhou,China",
@@ -2734,7 +2734,7 @@
     },
     {
       "rank": 196,
-      "change": 805,
+      "change": 0,
       "login": "xhzengAIB",
       "name": "曾宪华",
       "location": "Guangzhou, China",
@@ -2748,7 +2748,7 @@
     },
     {
       "rank": 197,
-      "change": 804,
+      "change": 0,
       "login": "Perfare",
       "name": "Perfare",
       "location": "China",
@@ -2762,7 +2762,7 @@
     },
     {
       "rank": 198,
-      "change": 803,
+      "change": 0,
       "login": "abel533",
       "name": "Liuzh",
       "location": "China",
@@ -2776,7 +2776,7 @@
     },
     {
       "rank": 199,
-      "change": 802,
+      "change": 0,
       "login": "vczero",
       "name": "vczero",
       "location": "Macau, China",
@@ -2790,7 +2790,7 @@
     },
     {
       "rank": 200,
-      "change": 801,
+      "change": 0,
       "login": "crazycodeboy",
       "name": "geekailab",
       "location": "China",
@@ -2804,7 +2804,7 @@
     },
     {
       "rank": 201,
-      "change": 800,
+      "change": 0,
       "login": "kujian",
       "name": "前端开发博客",
       "location": "Guangzhou,China",
@@ -2818,7 +2818,7 @@
     },
     {
       "rank": 202,
-      "change": 799,
+      "change": 0,
       "login": "riusksk",
       "name": "泉哥",
       "location": "China",
@@ -2832,7 +2832,7 @@
     },
     {
       "rank": 203,
-      "change": 798,
+      "change": 0,
       "login": "fengyuanchen",
       "name": "Fengyuan Chen",
       "location": "China",
@@ -2846,7 +2846,7 @@
     },
     {
       "rank": 204,
-      "change": 797,
+      "change": 0,
       "login": "wendux",
       "name": "duwen",
       "location": "China Beijing",
@@ -2860,7 +2860,7 @@
     },
     {
       "rank": 205,
-      "change": 796,
+      "change": 0,
       "login": "gh0stkey",
       "name": "EvilChen",
       "location": "China",
@@ -2874,7 +2874,7 @@
     },
     {
       "rank": 206,
-      "change": 795,
+      "change": 0,
       "login": "baoyongzhang",
       "name": "星一",
       "location": "Beijing, China",
@@ -2888,7 +2888,7 @@
     },
     {
       "rank": 207,
-      "change": 794,
+      "change": 0,
       "login": "greyli",
       "name": "Grey Li",
       "location": "Shanghai, China",
@@ -2902,7 +2902,7 @@
     },
     {
       "rank": 208,
-      "change": 793,
+      "change": 0,
       "login": "Skykai521",
       "name": "SkyKai",
       "location": "Shanghai, China",
@@ -2916,7 +2916,7 @@
     },
     {
       "rank": 209,
-      "change": 792,
+      "change": 0,
       "login": "wenzhixin",
       "name": "文翼",
       "location": "Guangzhou, China",
@@ -2930,7 +2930,7 @@
     },
     {
       "rank": 210,
-      "change": 791,
+      "change": 0,
       "login": "xudafeng",
       "name": "达峰的夏天",
       "location": "Hangzhou, China",
@@ -2944,7 +2944,7 @@
     },
     {
       "rank": 211,
-      "change": 790,
+      "change": 0,
       "login": "Binaryify",
       "name": "binaryify",
       "location": "ShenZhen, China",
@@ -2958,7 +2958,7 @@
     },
     {
       "rank": 212,
-      "change": 789,
+      "change": 0,
       "login": "polaris1119",
       "name": "polarisxu",
       "location": "Beijing, China",
@@ -2972,7 +2972,7 @@
     },
     {
       "rank": 213,
-      "change": 788,
+      "change": 0,
       "login": "dexteryy",
       "name": "Dexter Yang",
       "location": "Beijing, China",
@@ -2986,7 +2986,7 @@
     },
     {
       "rank": 214,
-      "change": 787,
+      "change": 0,
       "login": "fool2fish",
       "name": "Zhouxuan Yang",
       "location": "Hangzhou, China",
@@ -3000,7 +3000,7 @@
     },
     {
       "rank": 215,
-      "change": 786,
+      "change": 0,
       "login": "ShiqiYu",
       "name": "Shiqi Yu",
       "location": "Shenzhen, Guangdong Province, China",
@@ -3014,7 +3014,7 @@
     },
     {
       "rank": 216,
-      "change": 785,
+      "change": 0,
       "login": "wuchong",
       "name": "Jark Wu",
       "location": "Hangzhou China",
@@ -3028,7 +3028,7 @@
     },
     {
       "rank": 217,
-      "change": 784,
+      "change": 0,
       "login": "livoras",
       "name": "Livoras Dai",
       "location": "Guangzhou, Guangdong, China",
@@ -3042,7 +3042,7 @@
     },
     {
       "rank": 218,
-      "change": 783,
+      "change": 0,
       "login": "archibate",
       "name": "彭于斌",
       "location": "Shanghai, China",
@@ -3056,7 +3056,7 @@
     },
     {
       "rank": 219,
-      "change": 782,
+      "change": 0,
       "login": "lotem",
       "name": "居戎氏",
       "location": "Beijing, China",
@@ -3070,7 +3070,7 @@
     },
     {
       "rank": 220,
-      "change": 781,
+      "change": 0,
       "login": "geektutu",
       "name": "Dai Jie",
       "location": "Shanghai,China",
@@ -3084,7 +3084,7 @@
     },
     {
       "rank": 221,
-      "change": 780,
+      "change": 0,
       "login": "yisibl",
       "name": "一丝",
       "location": "China",
@@ -3098,7 +3098,7 @@
     },
     {
       "rank": 222,
-      "change": 779,
+      "change": 0,
       "login": "ZHO-ZHO-ZHO",
       "name": null,
       "location": "China",
@@ -3112,7 +3112,7 @@
     },
     {
       "rank": 223,
-      "change": 778,
+      "change": 0,
       "login": "android-cjj",
       "name": "陈继军",
       "location": "guangzhou,China",
@@ -3126,7 +3126,7 @@
     },
     {
       "rank": 224,
-      "change": 777,
+      "change": 0,
       "login": "gias-uddin-swe",
       "name": "Gias Uddin",
       "location": "Kunming, Yunnan, China",
@@ -3140,7 +3140,7 @@
     },
     {
       "rank": 225,
-      "change": 776,
+      "change": 0,
       "login": "timqian",
       "name": "Tim Qian",
       "location": "ChongQing, China",
@@ -3154,7 +3154,7 @@
     },
     {
       "rank": 226,
-      "change": 775,
+      "change": 0,
       "login": "Lucifier129",
       "name": "工业聚",
       "location": "shanghai, china",
@@ -3168,7 +3168,7 @@
     },
     {
       "rank": 227,
-      "change": 774,
+      "change": 0,
       "login": "soulteary",
       "name": "Su Yang",
       "location": "Beijing, China",
@@ -3182,7 +3182,7 @@
     },
     {
       "rank": 228,
-      "change": 773,
+      "change": 0,
       "login": "yichengchen",
       "name": "Yicheng",
       "location": "China, Amoy",
@@ -3196,7 +3196,7 @@
     },
     {
       "rank": 229,
-      "change": 772,
+      "change": 0,
       "login": "DjangoPeng",
       "name": "Jingtian Peng",
       "location": "Shanghai, China",
@@ -3210,7 +3210,7 @@
     },
     {
       "rank": 230,
-      "change": 771,
+      "change": 0,
       "login": "Piasy",
       "name": "Piasy",
       "location": "Shenzhen, China",
@@ -3224,7 +3224,7 @@
     },
     {
       "rank": 231,
-      "change": 770,
+      "change": 0,
       "login": "lizongying",
       "name": "李宗英",
       "location": "China",
@@ -3238,7 +3238,7 @@
     },
     {
       "rank": 232,
-      "change": 769,
+      "change": 0,
       "login": "madawei2699",
       "name": "Dawei Ma",
       "location": "China",
@@ -3252,7 +3252,7 @@
     },
     {
       "rank": 233,
-      "change": 768,
+      "change": 0,
       "login": "tangly1024",
       "name": "tangly1024",
       "location": "Fujian,China",
@@ -3266,7 +3266,7 @@
     },
     {
       "rank": 234,
-      "change": 767,
+      "change": 0,
       "login": "SpikeKing",
       "name": "C. L. Wang",
       "location": "China",
@@ -3280,7 +3280,7 @@
     },
     {
       "rank": 235,
-      "change": 766,
+      "change": 0,
       "login": "davies",
       "name": "Davies Liu",
       "location": "Hangzhou, China",
@@ -3294,7 +3294,7 @@
     },
     {
       "rank": 236,
-      "change": 765,
+      "change": 0,
       "login": "zzz40500",
       "name": "轻微",
       "location": "Shanghai China",
@@ -3308,7 +3308,7 @@
     },
     {
       "rank": 237,
-      "change": 764,
+      "change": 0,
       "login": "lexburner",
       "name": "xujingfeng",
       "location": "Hangzhou, China",
@@ -3322,7 +3322,7 @@
     },
     {
       "rank": 238,
-      "change": 763,
+      "change": 0,
       "login": "wong2",
       "name": "wong2",
       "location": "Shanghai, China",
@@ -3336,7 +3336,7 @@
     },
     {
       "rank": 239,
-      "change": 762,
+      "change": 0,
       "login": "JsAaron",
       "name": "艾伦 Aaron",
       "location": "ChangSha,China",
@@ -3350,7 +3350,7 @@
     },
     {
       "rank": 240,
-      "change": 761,
+      "change": 0,
       "login": "mmin18",
       "name": "Tu Yimin",
       "location": "Shanghai, China",
@@ -3364,7 +3364,7 @@
     },
     {
       "rank": 241,
-      "change": 760,
+      "change": 0,
       "login": "xiaoweiChen",
       "name": "xiaowei",
       "location": "China, Zhejiang, Hangzhou",
@@ -3378,7 +3378,7 @@
     },
     {
       "rank": 242,
-      "change": 759,
+      "change": 0,
       "login": "DHDAXCW",
       "name": "骷髅头",
       "location": "China",
@@ -3392,7 +3392,7 @@
     },
     {
       "rank": 243,
-      "change": 758,
+      "change": 0,
       "login": "yanglbme",
       "name": "Libin YANG",
       "location": "Shenzhen, China",
@@ -3406,7 +3406,7 @@
     },
     {
       "rank": 244,
-      "change": 757,
+      "change": 0,
       "login": "Richasy",
       "name": "Richasy",
       "location": "Suzhou, China",
@@ -3420,7 +3420,7 @@
     },
     {
       "rank": 245,
-      "change": 756,
+      "change": 0,
       "login": "forezp",
       "name": "方志朋",
       "location": "ShenZhen,China",
@@ -3434,7 +3434,7 @@
     },
     {
       "rank": 246,
-      "change": 755,
+      "change": 0,
       "login": "youngwind",
       "name": "梁少峰",
       "location": "Shenzhen,China",
@@ -3448,7 +3448,7 @@
     },
     {
       "rank": 247,
-      "change": 754,
+      "change": 0,
       "login": "HenJigg",
       "name": "痕迹",
       "location": "China",
@@ -3462,7 +3462,7 @@
     },
     {
       "rank": 248,
-      "change": 753,
+      "change": 0,
       "login": "leizongmin",
       "name": "LEI Zongmin",
       "location": "Canton, China",
@@ -3476,7 +3476,7 @@
     },
     {
       "rank": 249,
-      "change": 752,
+      "change": 0,
       "login": "geffzhang",
       "name": "geffzhang",
       "location": "Shenzhen,China",
@@ -3490,7 +3490,7 @@
     },
     {
       "rank": 250,
-      "change": 751,
+      "change": 0,
       "login": "armink",
       "name": "朱天龙 (Armink)",
       "location": "Shanghai, China",
@@ -3504,7 +3504,7 @@
     },
     {
       "rank": 251,
-      "change": 750,
+      "change": 0,
       "login": "shibing624",
       "name": "Ming Xu (徐明)",
       "location": "Beijing, China",
@@ -3518,7 +3518,7 @@
     },
     {
       "rank": 252,
-      "change": 749,
+      "change": 0,
       "login": "ouyangzhiping",
       "name": "Zhiping Yang",
       "location": "beijing,china",
@@ -3532,7 +3532,7 @@
     },
     {
       "rank": 253,
-      "change": 748,
+      "change": 0,
       "login": "Yixiaohan",
       "name": "易枭寒",
       "location": "China,Beijing",
@@ -3546,7 +3546,7 @@
     },
     {
       "rank": 254,
-      "change": 747,
+      "change": 0,
       "login": "island205",
       "name": "Zhi Cun",
       "location": "Shanghai China",
@@ -3560,7 +3560,7 @@
     },
     {
       "rank": 255,
-      "change": 746,
+      "change": 0,
       "login": "MaxwellGengYF",
       "name": "Maxwell Geng",
       "location": "ShangHai, China",
@@ -3574,7 +3574,7 @@
     },
     {
       "rank": 256,
-      "change": 745,
+      "change": 0,
       "login": "ideawu",
       "name": "吴祖洋",
       "location": "Beijing, China",
@@ -3588,7 +3588,7 @@
     },
     {
       "rank": 257,
-      "change": 744,
+      "change": 0,
       "login": "chaoslawful",
       "name": "Wang, Xiaozhe",
       "location": "Beijing, China",
@@ -3602,7 +3602,7 @@
     },
     {
       "rank": 258,
-      "change": 743,
+      "change": 0,
       "login": "limboy",
       "name": "Limboy",
       "location": "Hangzhou, China",
@@ -3616,7 +3616,7 @@
     },
     {
       "rank": 259,
-      "change": 742,
+      "change": 0,
       "login": "bestswifter",
       "name": "Kt Zhang",
       "location": "Beijing，China",
@@ -3630,7 +3630,7 @@
     },
     {
       "rank": 260,
-      "change": 741,
+      "change": 0,
       "login": "layumi",
       "name": "Zhedong Zheng",
       "location": "Macau, China",
@@ -3644,7 +3644,7 @@
     },
     {
       "rank": 261,
-      "change": 740,
+      "change": 0,
       "login": "firmianay",
       "name": "一蓑烟雨",
       "location": "China",
@@ -3658,7 +3658,7 @@
     },
     {
       "rank": 262,
-      "change": 739,
+      "change": 0,
       "login": "ljpzzz",
       "name": "刘建平(Pinard Liu)",
       "location": "Guangzhou, China",
@@ -3672,7 +3672,7 @@
     },
     {
       "rank": 263,
-      "change": 738,
+      "change": 0,
       "login": "L1aoXingyu",
       "name": "Xingyu",
       "location": "Beijing, China",
@@ -3686,7 +3686,7 @@
     },
     {
       "rank": 264,
-      "change": 737,
+      "change": 0,
       "login": "chenzomi12",
       "name": "ZOMI",
       "location": "China",
@@ -3700,7 +3700,7 @@
     },
     {
       "rank": 265,
-      "change": 736,
+      "change": 0,
       "login": "hyper0x",
       "name": "HaoLin",
       "location": "Beijing, China",
@@ -3714,7 +3714,7 @@
     },
     {
       "rank": 266,
-      "change": 735,
+      "change": 0,
       "login": "kevwan",
       "name": "Kevin Wan",
       "location": "Hong Kong, China",
@@ -3728,7 +3728,7 @@
     },
     {
       "rank": 267,
-      "change": 734,
+      "change": 0,
       "login": "eacdy",
       "name": "程序员大目",
       "location": "Hangzhou, China",
@@ -3742,7 +3742,7 @@
     },
     {
       "rank": 268,
-      "change": 733,
+      "change": 0,
       "login": "JackyAndroid",
       "name": "Jacky",
       "location": "Shenzhen China",
@@ -3756,7 +3756,7 @@
     },
     {
       "rank": 269,
-      "change": 732,
+      "change": 0,
       "login": "nilaoda",
       "name": "nilaoda",
       "location": "China",
@@ -3770,7 +3770,7 @@
     },
     {
       "rank": 270,
-      "change": 731,
+      "change": 0,
       "login": "terrymanu",
       "name": "Liang Zhang",
       "location": "Beijing China",
@@ -3784,7 +3784,7 @@
     },
     {
       "rank": 271,
-      "change": 730,
+      "change": 0,
       "login": "iamkun",
       "name": null,
       "location": "Shanghai, China",
@@ -3798,7 +3798,7 @@
     },
     {
       "rank": 272,
-      "change": 729,
+      "change": 0,
       "login": "dunwu",
       "name": "钝悟",
       "location": "China, Nanjing",
@@ -3812,7 +3812,7 @@
     },
     {
       "rank": 273,
-      "change": 728,
+      "change": 0,
       "login": "lin-xin",
       "name": "林鑫",
       "location": "Dongguan, China",
@@ -3826,7 +3826,7 @@
     },
     {
       "rank": 274,
-      "change": 727,
+      "change": 0,
       "login": "icarusion",
       "name": "Aresn",
       "location": "BeiJing, China",
@@ -3840,7 +3840,7 @@
     },
     {
       "rank": 275,
-      "change": 726,
+      "change": 0,
       "login": "WangXuan95",
       "name": "Dr.W.X",
       "location": "China",
@@ -3854,7 +3854,7 @@
     },
     {
       "rank": 276,
-      "change": 725,
+      "change": 0,
       "login": "zangqilong198812",
       "name": "Yegucheng",
       "location": "China",
@@ -3868,7 +3868,7 @@
     },
     {
       "rank": 277,
-      "change": 724,
+      "change": 0,
       "login": "Nealyang",
       "name": "Nealyang",
       "location": "HangZhou, China",
@@ -3882,7 +3882,7 @@
     },
     {
       "rank": 278,
-      "change": 723,
+      "change": 0,
       "login": "MartinRGB",
       "name": "MartinRGB",
       "location": "Beijing,China",
@@ -3896,7 +3896,7 @@
     },
     {
       "rank": 279,
-      "change": 722,
+      "change": 0,
       "login": "Vanessa219",
       "name": "V",
       "location": "Kunming, China",
@@ -3910,7 +3910,7 @@
     },
     {
       "rank": 280,
-      "change": 721,
+      "change": 0,
       "login": "88250",
       "name": "D",
       "location": "Kunming, China",
@@ -3924,7 +3924,7 @@
     },
     {
       "rank": 281,
-      "change": 720,
+      "change": 0,
       "login": "ikew0ng",
       "name": "ike_w0ng",
       "location": "China",
@@ -3938,7 +3938,7 @@
     },
     {
       "rank": 282,
-      "change": 719,
+      "change": 0,
       "login": "WangYihang",
       "name": "Yihang Wang",
       "location": "Beijing, China",
@@ -3952,7 +3952,7 @@
     },
     {
       "rank": 283,
-      "change": 718,
+      "change": 0,
       "login": "tobegit3hub",
       "name": "tobe",
       "location": "China",
@@ -3966,7 +3966,7 @@
     },
     {
       "rank": 284,
-      "change": 717,
+      "change": 0,
       "login": "popomore",
       "name": "Haoliang Gao",
       "location": "Hangzhou China",
@@ -3980,7 +3980,7 @@
     },
     {
       "rank": 285,
-      "change": 716,
+      "change": 0,
       "login": "brickspert",
       "name": "砖家",
       "location": "Hangzhou, China",
@@ -3994,7 +3994,7 @@
     },
     {
       "rank": 286,
-      "change": 715,
+      "change": 0,
       "login": "Xyntax",
       "name": "cdxy",
       "location": "Beijing,China",
@@ -4008,7 +4008,7 @@
     },
     {
       "rank": 287,
-      "change": 714,
+      "change": 0,
       "login": "xiaojue",
       "name": "xiaojue",
       "location": "Beijing China",
@@ -4022,7 +4022,7 @@
     },
     {
       "rank": 288,
-      "change": 713,
+      "change": 0,
       "login": "Aufree",
       "name": "Aufree",
       "location": "ShenZhen, China",
@@ -4036,7 +4036,7 @@
     },
     {
       "rank": 289,
-      "change": 712,
+      "change": 0,
       "login": "CoderJackyHuang",
       "name": "JackyHuang",
       "location": "Shen Zhen, China",
@@ -4050,7 +4050,7 @@
     },
     {
       "rank": 290,
-      "change": 711,
+      "change": 0,
       "login": "Molunerfinn",
       "name": "PiEgg",
       "location": "China",
@@ -4064,7 +4064,7 @@
     },
     {
       "rank": 291,
-      "change": 710,
+      "change": 0,
       "login": "jayli",
       "name": "lijing00333",
       "location": "Beijing China",
@@ -4078,7 +4078,7 @@
     },
     {
       "rank": 292,
-      "change": 709,
+      "change": 0,
       "login": "JsonChao",
       "name": "JsonChao",
       "location": "Shenzhen,China",
@@ -4092,7 +4092,7 @@
     },
     {
       "rank": 293,
-      "change": 708,
+      "change": 0,
       "login": "beupgo",
       "name": "舒克·贝塔",
       "location": "China",
@@ -4106,7 +4106,7 @@
     },
     {
       "rank": 294,
-      "change": 707,
+      "change": 0,
       "login": "doyoe",
       "name": "杜瑶",
       "location": "Beijing, China",
@@ -4120,7 +4120,7 @@
     },
     {
       "rank": 295,
-      "change": 706,
+      "change": 0,
       "login": "huiyadanli",
       "name": "辉鸭蛋",
       "location": "Hangzhou, China",
@@ -4134,7 +4134,7 @@
     },
     {
       "rank": 296,
-      "change": 705,
+      "change": 0,
       "login": "ashawkey",
       "name": "kiui",
       "location": "Beijing, China",
@@ -4148,7 +4148,7 @@
     },
     {
       "rank": 297,
-      "change": 704,
+      "change": 0,
       "login": "hluwa",
       "name": "葫芦娃",
       "location": "China, Swatow",
@@ -4162,7 +4162,7 @@
     },
     {
       "rank": 298,
-      "change": 703,
+      "change": 0,
       "login": "Menci",
       "name": "Menci",
       "location": "Suzhou, China",
@@ -4176,7 +4176,7 @@
     },
     {
       "rank": 299,
-      "change": 702,
+      "change": 0,
       "login": "Nightonke",
       "name": "黄伟平",
       "location": "Shenzhen, China",
@@ -4190,7 +4190,7 @@
     },
     {
       "rank": 300,
-      "change": 701,
+      "change": 0,
       "login": "Jannchie",
       "name": "Jianqi Pan",
       "location": "Japan, Tokyo ⇄ China, Shanghai",
@@ -4204,7 +4204,7 @@
     },
     {
       "rank": 301,
-      "change": 700,
+      "change": 0,
       "login": "yanyiwu",
       "name": "Yanyi Wu",
       "location": "Beijing,China",
@@ -4218,7 +4218,7 @@
     },
     {
       "rank": 302,
-      "change": 699,
+      "change": 0,
       "login": "ksky521",
       "name": "三水清",
       "location": "Beijing China",
@@ -4232,7 +4232,7 @@
     },
     {
       "rank": 303,
-      "change": 698,
+      "change": 0,
       "login": "KunMinX",
       "name": "KunMinX",
       "location": "Hangzhou, China",
@@ -4246,7 +4246,7 @@
     },
     {
       "rank": 304,
-      "change": 697,
+      "change": 0,
       "login": "airyland",
       "name": "Airyland",
       "location": "China",
@@ -4260,7 +4260,7 @@
     },
     {
       "rank": 305,
-      "change": 696,
+      "change": 0,
       "login": "shuhuai007",
       "name": "Jie Zhou",
       "location": "Xian, Shaanxi, China",
@@ -4274,7 +4274,7 @@
     },
     {
       "rank": 306,
-      "change": 695,
+      "change": 0,
       "login": "xiaolincoder",
       "name": "小林coding",
       "location": "ShenZhen,  China",
@@ -4288,7 +4288,7 @@
     },
     {
       "rank": 307,
-      "change": 694,
+      "change": 0,
       "login": "bigwhite",
       "name": "Tony Bai",
       "location": "P.R. China",
@@ -4302,7 +4302,7 @@
     },
     {
       "rank": 308,
-      "change": 693,
+      "change": 0,
       "login": "inferjay",
       "name": "脉脉不得语",
       "location": "China",
@@ -4316,7 +4316,7 @@
     },
     {
       "rank": 309,
-      "change": 692,
+      "change": 0,
       "login": "andeya",
       "name": "Andeya",
       "location": "Shenzhen, China",
@@ -4330,7 +4330,7 @@
     },
     {
       "rank": 310,
-      "change": 691,
+      "change": 0,
       "login": "nanchen2251",
       "name": "LiuShilin",
       "location": "Chengdu,China",
@@ -4344,7 +4344,7 @@
     },
     {
       "rank": 311,
-      "change": 690,
+      "change": 0,
       "login": "jiangyy",
       "name": "Yanyan Jiang",
       "location": "Nanjing, China",
@@ -4358,7 +4358,7 @@
     },
     {
       "rank": 312,
-      "change": 689,
+      "change": 0,
       "login": "ctiao",
       "name": "ctiao",
       "location": "Shanghai, China",
@@ -4372,7 +4372,7 @@
     },
     {
       "rank": 313,
-      "change": 688,
+      "change": 0,
       "login": "nekohasekai",
       "name": "世界",
       "location": "China",
@@ -4386,7 +4386,7 @@
     },
     {
       "rank": 314,
-      "change": 687,
+      "change": 0,
       "login": "monkeyWie",
       "name": "Levi",
       "location": "Shenzhen, China",
@@ -4400,7 +4400,7 @@
     },
     {
       "rank": 315,
-      "change": 686,
+      "change": 0,
       "login": "su37josephxia",
       "name": "全栈然叔",
       "location": "China",
@@ -4414,7 +4414,7 @@
     },
     {
       "rank": 316,
-      "change": 685,
+      "change": 0,
       "login": "leeluolee",
       "name": "ZhengHaibo",
       "location": "china",
@@ -4428,7 +4428,7 @@
     },
     {
       "rank": 317,
-      "change": 684,
+      "change": 0,
       "login": "qiurunze123",
       "name": "Geek.Q",
       "location": "hangzhou china",
@@ -4442,7 +4442,7 @@
     },
     {
       "rank": 318,
-      "change": 683,
+      "change": 0,
       "login": "JeffreySu",
       "name": "Jeffrey Su",
       "location": "Suzhou, China",
@@ -4456,7 +4456,7 @@
     },
     {
       "rank": 319,
-      "change": 682,
+      "change": 0,
       "login": "Lucifer1993",
       "name": null,
       "location": "China",
@@ -4470,7 +4470,7 @@
     },
     {
       "rank": 320,
-      "change": 681,
+      "change": 0,
       "login": "ljianshu",
       "name": "浪里行舟",
       "location": "Xiamen,China",
@@ -4484,7 +4484,7 @@
     },
     {
       "rank": 321,
-      "change": 680,
+      "change": 0,
       "login": "QingWei-Li",
       "name": "cinwell.li",
       "location": "China",
@@ -4498,7 +4498,7 @@
     },
     {
       "rank": 322,
-      "change": 679,
+      "change": 0,
       "login": "kuitos",
       "name": "Kuitos",
       "location": "Shanghai China",
@@ -4512,7 +4512,7 @@
     },
     {
       "rank": 323,
-      "change": 678,
+      "change": 0,
       "login": "Zheaoli",
       "name": "Nadeshiko Manju",
       "location": "Beijing, China",
@@ -4526,7 +4526,7 @@
     },
     {
       "rank": 324,
-      "change": 677,
+      "change": 0,
       "login": "begeekmyfriend",
       "name": "Leo Ma",
       "location": "Shanghai, China",
@@ -4540,7 +4540,7 @@
     },
     {
       "rank": 325,
-      "change": 676,
+      "change": 0,
       "login": "ulivz",
       "name": "ULIVZ",
       "location": "Hangzhou, China",
@@ -4554,7 +4554,7 @@
     },
     {
       "rank": 326,
-      "change": 675,
+      "change": 0,
       "login": "mocheng",
       "name": "Morgan Cheng",
       "location": "Beijing, China",
@@ -4568,7 +4568,7 @@
     },
     {
       "rank": 327,
-      "change": 674,
+      "change": 0,
       "login": "liuxinyu95",
       "name": "Liu Xinyu",
       "location": "Beijing, China",
@@ -4582,7 +4582,7 @@
     },
     {
       "rank": 328,
-      "change": 673,
+      "change": 0,
       "login": "huanglong-zz",
       "name": "Scott Dong",
       "location": "HangZhou China",
@@ -4596,7 +4596,7 @@
     },
     {
       "rank": 329,
-      "change": 672,
+      "change": 0,
       "login": "HeYijia",
       "name": null,
       "location": "BeiJing,China",
@@ -4610,7 +4610,7 @@
     },
     {
       "rank": 330,
-      "change": 671,
+      "change": 0,
       "login": "yidao620c",
       "name": "XiongNeng",
       "location": "Xi'an China",
@@ -4624,7 +4624,7 @@
     },
     {
       "rank": 331,
-      "change": 670,
+      "change": 0,
       "login": "glzjin",
       "name": "glzjin",
       "location": "Hangzhou, China",
@@ -4638,7 +4638,7 @@
     },
     {
       "rank": 332,
-      "change": 669,
+      "change": 0,
       "login": "guofei9987",
       "name": "郭飞",
       "location": "China",
@@ -4652,7 +4652,7 @@
     },
     {
       "rank": 333,
-      "change": 668,
+      "change": 0,
       "login": "kyze8439690",
       "name": "Yang Hui",
       "location": "Guangzhou China ",
@@ -4666,7 +4666,7 @@
     },
     {
       "rank": 334,
-      "change": 667,
+      "change": 0,
       "login": "AabyssZG",
       "name": "曾哥",
       "location": "China",
@@ -4680,7 +4680,7 @@
     },
     {
       "rank": 335,
-      "change": 666,
+      "change": 0,
       "login": "piglei",
       "name": "piglei",
       "location": "ShenZhen, China",
@@ -4694,7 +4694,7 @@
     },
     {
       "rank": 336,
-      "change": 665,
+      "change": 0,
       "login": "chenjiahan",
       "name": "neverland",
       "location": "Hangzhou, China",
@@ -4708,7 +4708,7 @@
     },
     {
       "rank": 337,
-      "change": 664,
+      "change": 0,
       "login": "shuzheng",
       "name": "张恕征",
       "location": "Beijing, China",
@@ -4722,7 +4722,7 @@
     },
     {
       "rank": 338,
-      "change": 663,
+      "change": 0,
       "login": "hollischuang",
       "name": "Hollis",
       "location": "Hangzhou, China",
@@ -4736,7 +4736,7 @@
     },
     {
       "rank": 339,
-      "change": 662,
+      "change": 0,
       "login": "Bypass007",
       "name": "Bypass007",
       "location": "Xiamen, China",
@@ -4750,7 +4750,7 @@
     },
     {
       "rank": 340,
-      "change": 661,
+      "change": 0,
       "login": "xiaoyaocz",
       "name": null,
       "location": "China",
@@ -4764,7 +4764,7 @@
     },
     {
       "rank": 341,
-      "change": 660,
+      "change": 0,
       "login": "DefTruth",
       "name": "DefTruth",
       "location": "Guangzhou, China",
@@ -4778,7 +4778,7 @@
     },
     {
       "rank": 342,
-      "change": 659,
+      "change": 0,
       "login": "leichunfeng",
       "name": "leichunfeng",
       "location": "Hangzhou, Zhejiang, China",
@@ -4792,7 +4792,7 @@
     },
     {
       "rank": 343,
-      "change": 658,
+      "change": 0,
       "login": "li-jia-nan",
       "name": "lijianan",
       "location": "Hangzhou, China",
@@ -4806,7 +4806,7 @@
     },
     {
       "rank": 344,
-      "change": 657,
+      "change": 0,
       "login": "airuikun",
       "name": "第一名的小蝌蚪",
       "location": "China",
@@ -4820,7 +4820,7 @@
     },
     {
       "rank": 345,
-      "change": 656,
+      "change": 0,
       "login": "lecepin",
       "name": "乐平",
       "location": "Hangzhou China",
@@ -4834,7 +4834,7 @@
     },
     {
       "rank": 346,
-      "change": 655,
+      "change": 0,
       "login": "willard-yuan",
       "name": "Yong Yuan",
       "location": "Beijing, China",
@@ -4848,7 +4848,7 @@
     },
     {
       "rank": 347,
-      "change": 654,
+      "change": 0,
       "login": "Kenshin",
       "name": "Kenshin Wang",
       "location": "China",
@@ -4862,7 +4862,7 @@
     },
     {
       "rank": 348,
-      "change": 653,
+      "change": 0,
       "login": "liuchengxu",
       "name": "Liu-Cheng Xu",
       "location": "Hangzhou, China",
@@ -4876,7 +4876,7 @@
     },
     {
       "rank": 349,
-      "change": 652,
+      "change": 0,
       "login": "yutiansut",
       "name": "Vincent yu",
       "location": "Hangzhou, China",
@@ -4890,7 +4890,7 @@
     },
     {
       "rank": 350,
-      "change": 651,
+      "change": 0,
       "login": "iosre",
       "name": "iOSRE",
       "location": "China",
@@ -4904,7 +4904,7 @@
     },
     {
       "rank": 351,
-      "change": 650,
+      "change": 0,
       "login": "anbgsl1110",
       "name": "jiayongliang",
       "location": " Hangzhou, China",
@@ -4918,7 +4918,7 @@
     },
     {
       "rank": 352,
-      "change": 649,
+      "change": 0,
       "login": "lcxfs1991",
       "name": "heyli",
       "location": "Hong Kong - Shenzhen, China",
@@ -4932,7 +4932,7 @@
     },
     {
       "rank": 353,
-      "change": 648,
+      "change": 0,
       "login": "HFO4",
       "name": "AaronLiu",
       "location": "Suzhou, China",
@@ -4946,7 +4946,7 @@
     },
     {
       "rank": 354,
-      "change": 647,
+      "change": 0,
       "login": "ericzhang-cn",
       "name": "Eric Zhang",
       "location": "Beijing, China",
@@ -4960,7 +4960,7 @@
     },
     {
       "rank": 355,
-      "change": 646,
+      "change": 0,
       "login": "canyie",
       "name": "残页",
       "location": "China",
@@ -4974,7 +4974,7 @@
     },
     {
       "rank": 356,
-      "change": 645,
+      "change": 0,
       "login": "404notf0und",
       "name": "404notfound",
       "location": "Hangzhou,China ",
@@ -4988,7 +4988,7 @@
     },
     {
       "rank": 357,
-      "change": 644,
+      "change": 0,
       "login": "hotoo",
       "name": "闲耘™",
       "location": "Hangzhou, China",
@@ -5002,7 +5002,7 @@
     },
     {
       "rank": 358,
-      "change": 643,
+      "change": 0,
       "login": "csvwolf",
       "name": "SkyAo",
       "location": "Shanghai, China",
@@ -5016,7 +5016,7 @@
     },
     {
       "rank": 359,
-      "change": 642,
+      "change": 0,
       "login": "spencerwooo",
       "name": "Shangbo Wu",
       "location": "Beijing, China",
@@ -5030,7 +5030,7 @@
     },
     {
       "rank": 360,
-      "change": 641,
+      "change": 0,
       "login": "teaey",
       "name": "frey",
       "location": "HangZhou, China",
@@ -5044,7 +5044,7 @@
     },
     {
       "rank": 361,
-      "change": 640,
+      "change": 0,
       "login": "youxiachai",
       "name": "youxiachai",
       "location": "China Canton Guangzhou",
@@ -5058,7 +5058,7 @@
     },
     {
       "rank": 362,
-      "change": 639,
+      "change": 0,
       "login": "qii",
       "name": "qiibeta",
       "location": "China Shanghai",
@@ -5072,7 +5072,7 @@
     },
     {
       "rank": 363,
-      "change": 638,
+      "change": 0,
       "login": "Ubpa",
       "name": "Ubpa",
       "location": "Shenzhen, China",
@@ -5086,7 +5086,7 @@
     },
     {
       "rank": 364,
-      "change": 637,
+      "change": 0,
       "login": "looly",
       "name": "Golden Looly",
       "location": "Beijing,China",
@@ -5100,7 +5100,7 @@
     },
     {
       "rank": 365,
-      "change": 636,
+      "change": 0,
       "login": "Peng-YM",
       "name": "Peng-YM",
       "location": "China",
@@ -5114,7 +5114,7 @@
     },
     {
       "rank": 366,
-      "change": 635,
+      "change": 0,
       "login": "nuysoft",
       "name": "高云 墨智",
       "location": "HangZhou, China",
@@ -5128,7 +5128,7 @@
     },
     {
       "rank": 367,
-      "change": 634,
+      "change": 0,
       "login": "ddiu8081",
       "name": "Diu",
       "location": "Beijing, China",
@@ -5142,7 +5142,7 @@
     },
     {
       "rank": 368,
-      "change": 633,
+      "change": 0,
       "login": "ShaoqingRen",
       "name": "Shaoqing Ren",
       "location": "China",
@@ -5156,7 +5156,7 @@
     },
     {
       "rank": 369,
-      "change": 632,
+      "change": 0,
       "login": "lihengming",
       "name": "土豆",
       "location": "China",
@@ -5170,7 +5170,7 @@
     },
     {
       "rank": 370,
-      "change": 631,
+      "change": 0,
       "login": "tualatrix",
       "name": "Tualatrix Chou",
       "location": "Hangzhou, China",
@@ -5184,7 +5184,7 @@
     },
     {
       "rank": 371,
-      "change": 630,
+      "change": 0,
       "login": "H07000223",
       "name": "Flyco",
       "location": "China",
@@ -5198,7 +5198,7 @@
     },
     {
       "rank": 372,
-      "change": 629,
+      "change": 0,
       "login": "JimmyLv",
       "name": "JimmyLv_吕立青",
       "location": "Chengdu, China",
@@ -5212,7 +5212,7 @@
     },
     {
       "rank": 373,
-      "change": 628,
+      "change": 0,
       "login": "javayhu",
       "name": "javayhu",
       "location": "GuangDong, China",
@@ -5226,7 +5226,7 @@
     },
     {
       "rank": 374,
-      "change": 627,
+      "change": 0,
       "login": "Kingwl",
       "name": "Wenlu Wang",
       "location": "China",
@@ -5240,7 +5240,7 @@
     },
     {
       "rank": 375,
-      "change": 626,
+      "change": 0,
       "login": "zhisheng17",
       "name": "zhisheng",
       "location": "hangzhou China",
@@ -5254,7 +5254,7 @@
     },
     {
       "rank": 376,
-      "change": 625,
+      "change": 0,
       "login": "yangwenmai",
       "name": "maiyang",
       "location": "Shenzhen, China",
@@ -5268,7 +5268,7 @@
     },
     {
       "rank": 377,
-      "change": 624,
+      "change": 0,
       "login": "lyhue1991",
       "name": "一个有毅力的吃货",
       "location": "Beijing China",
@@ -5282,7 +5282,7 @@
     },
     {
       "rank": 378,
-      "change": 623,
+      "change": 0,
       "login": "aylei",
       "name": "Aylei",
       "location": "Hangzhou China",
@@ -5296,7 +5296,7 @@
     },
     {
       "rank": 379,
-      "change": 622,
+      "change": 0,
       "login": "brianway",
       "name": " brianway",
       "location": "Hangzhou, China",
@@ -5310,7 +5310,7 @@
     },
     {
       "rank": 380,
-      "change": 621,
+      "change": 0,
       "login": "songquanpeng",
       "name": "JustSong",
       "location": "Shanghai, China",
@@ -5324,7 +5324,7 @@
     },
     {
       "rank": 381,
-      "change": 620,
+      "change": 0,
       "login": "ruochuan12",
       "name": "若川",
       "location": "Hangzhou,China",
@@ -5338,7 +5338,7 @@
     },
     {
       "rank": 382,
-      "change": 619,
+      "change": 0,
       "login": "hongqn",
       "name": "Qiangning Hong",
       "location": "Beijing, China",
@@ -5352,7 +5352,7 @@
     },
     {
       "rank": 383,
-      "change": 618,
+      "change": 0,
       "login": "ZhangHanDong",
       "name": "Alex",
       "location": "Beijing, China",
@@ -5366,7 +5366,7 @@
     },
     {
       "rank": 384,
-      "change": 617,
+      "change": 0,
       "login": "damoqiongqiu",
       "name": "大漠穷秋",
       "location": "Nanjing, China",
@@ -5380,7 +5380,7 @@
     },
     {
       "rank": 385,
-      "change": 616,
+      "change": 0,
       "login": "heqin-zhu",
       "name": "Heqin Zhu",
       "location": "Suzhou, China",
@@ -5394,7 +5394,7 @@
     },
     {
       "rank": 386,
-      "change": 615,
+      "change": 0,
       "login": "frostming",
       "name": "Frost Ming",
       "location": "Shenzhen, China",
@@ -5408,7 +5408,7 @@
     },
     {
       "rank": 387,
-      "change": 614,
+      "change": 0,
       "login": "bestony",
       "name": "白宦成",
       "location": "Tianjin，China",
@@ -5422,7 +5422,7 @@
     },
     {
       "rank": 388,
-      "change": 613,
+      "change": 0,
       "login": "nekocode",
       "name": "nekocode",
       "location": "Guangdong, China",
@@ -5436,7 +5436,7 @@
     },
     {
       "rank": 389,
-      "change": 612,
+      "change": 0,
       "login": "zhiwehu",
       "name": "Jeffrey Hu",
       "location": "Hefei, Anhui, China",
@@ -5450,7 +5450,7 @@
     },
     {
       "rank": 390,
-      "change": 611,
+      "change": 0,
       "login": "ThirtyDegreesRay",
       "name": "30度的射线",
       "location": "NanJing, China",
@@ -5464,7 +5464,7 @@
     },
     {
       "rank": 391,
-      "change": 610,
+      "change": 0,
       "login": "safe6Sec",
       "name": "safe6",
       "location": "kunming,China",
@@ -5478,7 +5478,7 @@
     },
     {
       "rank": 392,
-      "change": 609,
+      "change": 0,
       "login": "ShowMeAI-Hub",
       "name": "ShowMeAI",
       "location": "BeiJing, China",
@@ -5492,7 +5492,7 @@
     },
     {
       "rank": 393,
-      "change": 608,
+      "change": 0,
       "login": "allencloud",
       "name": "Allen Sun",
       "location": "Hangzhou, China",
@@ -5506,7 +5506,7 @@
     },
     {
       "rank": 394,
-      "change": 607,
+      "change": 0,
       "login": "hilongjw",
       "name": "Awe",
       "location": "Chengdu, China",
@@ -5520,7 +5520,7 @@
     },
     {
       "rank": 395,
-      "change": 606,
+      "change": 0,
       "login": "Bin-Huang",
       "name": "Benn Huang",
       "location": "Shenzhen, China",
@@ -5534,7 +5534,7 @@
     },
     {
       "rank": 396,
-      "change": 605,
+      "change": 0,
       "login": "drmingdrmer",
       "name": "张炎泼",
       "location": "Beijing China",
@@ -5548,7 +5548,7 @@
     },
     {
       "rank": 397,
-      "change": 604,
+      "change": 0,
       "login": "huihut",
       "name": "huihut",
       "location": "Guangzhou, China",
@@ -5562,7 +5562,7 @@
     },
     {
       "rank": 398,
-      "change": 603,
+      "change": 0,
       "login": "lijin-THU",
       "name": "Jin Li",
       "location": "Beijing, China",
@@ -5576,7 +5576,7 @@
     },
     {
       "rank": 399,
-      "change": 602,
+      "change": 0,
       "login": "coolnameismy",
       "name": "刘彦玮",
       "location": "hangzhou china",
@@ -5590,7 +5590,7 @@
     },
     {
       "rank": 400,
-      "change": 601,
+      "change": 0,
       "login": "wklken",
       "name": "wklken",
       "location": "ShenZhen China",
@@ -5604,7 +5604,7 @@
     },
     {
       "rank": 401,
-      "change": 600,
+      "change": 0,
       "login": "youngsoft",
       "name": "欧阳大哥2013",
       "location": "Beijing China",
@@ -5618,7 +5618,7 @@
     },
     {
       "rank": 402,
-      "change": 599,
+      "change": 0,
       "login": "SharingSource",
       "name": null,
       "location": "China",
@@ -5632,7 +5632,7 @@
     },
     {
       "rank": 403,
-      "change": 598,
+      "change": 0,
       "login": "electech6",
       "name": "chengxiaoliu",
       "location": "Shanghai, CHINA",
@@ -5646,7 +5646,7 @@
     },
     {
       "rank": 404,
-      "change": 597,
+      "change": 0,
       "login": "hellock",
       "name": "Kai Chen",
       "location": "China",
@@ -5660,7 +5660,7 @@
     },
     {
       "rank": 405,
-      "change": 596,
+      "change": 0,
       "login": "ilanyu",
       "name": "lanyu",
       "location": "China",
@@ -5674,7 +5674,7 @@
     },
     {
       "rank": 406,
-      "change": 595,
+      "change": 0,
       "login": "starkwang",
       "name": "Weijia Wang",
       "location": "Shenzhen, China",
@@ -5688,7 +5688,7 @@
     },
     {
       "rank": 407,
-      "change": 594,
+      "change": 0,
       "login": "hantsy",
       "name": "Hantsy Bai",
       "location": "China",
@@ -5702,7 +5702,7 @@
     },
     {
       "rank": 408,
-      "change": 593,
+      "change": 0,
       "login": "skyao",
       "name": "Sky Ao",
       "location": "Guangzhou, China",
@@ -5716,7 +5716,7 @@
     },
     {
       "rank": 409,
-      "change": 592,
+      "change": 0,
       "login": "HanXiaoyang",
       "name": "寒小阳",
       "location": "Beijing, China",
@@ -5730,7 +5730,7 @@
     },
     {
       "rank": 410,
-      "change": 591,
+      "change": 0,
       "login": "huandu",
       "name": "Huan Du",
       "location": "Beijing, China",
@@ -5744,7 +5744,7 @@
     },
     {
       "rank": 411,
-      "change": 590,
+      "change": 0,
       "login": "youkaichao",
       "name": "youkaichao",
       "location": "Beijing, China",
@@ -5758,7 +5758,7 @@
     },
     {
       "rank": 412,
-      "change": 589,
+      "change": 0,
       "login": "Juude",
       "name": "J.D.Song",
       "location": "HangZhou,China",
@@ -5772,7 +5772,7 @@
     },
     {
       "rank": 413,
-      "change": 588,
+      "change": 0,
       "login": "codeskyblue",
       "name": "codeskyblue",
       "location": "Hangzhou China",
@@ -5786,7 +5786,7 @@
     },
     {
       "rank": 414,
-      "change": 587,
+      "change": 0,
       "login": "daquexian",
       "name": "daquexian",
       "location": "China",
@@ -5800,7 +5800,7 @@
     },
     {
       "rank": 415,
-      "change": 586,
+      "change": 0,
       "login": "zhanxiaokai",
       "name": "music-video-guide",
       "location": "Beijing China",
@@ -5814,7 +5814,7 @@
     },
     {
       "rank": 416,
-      "change": 585,
+      "change": 0,
       "login": "ethan-li-coding",
       "name": "Ethan",
       "location": "Wuhan, China",
@@ -5828,7 +5828,7 @@
     },
     {
       "rank": 417,
-      "change": 584,
+      "change": 0,
       "login": "XINCGer",
       "name": "马三小伙儿",
       "location": "Shanghai,China",
@@ -5842,7 +5842,7 @@
     },
     {
       "rank": 418,
-      "change": 583,
+      "change": 0,
       "login": "LyricZhao",
       "name": "Chenggang Zhao",
       "location": "Hangzhou, China",
@@ -5856,7 +5856,7 @@
     },
     {
       "rank": 419,
-      "change": 582,
+      "change": 0,
       "login": "BaronZ88",
       "name": "张磊",
       "location": "Shanghai, China",
@@ -5870,7 +5870,7 @@
     },
     {
       "rank": 420,
-      "change": 581,
+      "change": 0,
       "login": "gavinkwoe",
       "name": "Gavin.Kwoe",
       "location": "Beijing, china",
@@ -5884,7 +5884,7 @@
     },
     {
       "rank": 421,
-      "change": 580,
+      "change": 0,
       "login": "zombieJ",
       "name": "二货爱吃白萝卜",
       "location": "Shanghai, China",
@@ -5898,7 +5898,7 @@
     },
     {
       "rank": 422,
-      "change": 579,
+      "change": 0,
       "login": "sunnyyoung",
       "name": "Sunny Young",
       "location": "Guangzhou, China",
@@ -5912,7 +5912,7 @@
     },
     {
       "rank": 423,
-      "change": 578,
+      "change": 0,
       "login": "ZhaoKaiQiang",
       "name": "ZhaoKaiQiang",
       "location": "BeiJing China",
@@ -5926,7 +5926,7 @@
     },
     {
       "rank": 424,
-      "change": 577,
+      "change": 0,
       "login": "ConnersHua",
       "name": "Conners Hua",
       "location": "China",
@@ -5940,7 +5940,7 @@
     },
     {
       "rank": 425,
-      "change": 576,
+      "change": 0,
       "login": "liangfei0201",
       "name": "梁飞",
       "location": "Hangzhou, China",
@@ -5954,7 +5954,7 @@
     },
     {
       "rank": 426,
-      "change": 575,
+      "change": 0,
       "login": "shenwei356",
       "name": "Wei Shen",
       "location": "Chongqing, China",
@@ -5968,7 +5968,7 @@
     },
     {
       "rank": 427,
-      "change": 574,
+      "change": 0,
       "login": "LeoMobileDeveloper",
       "name": "Leo",
       "location": "Shanghai,China",
@@ -5982,7 +5982,7 @@
     },
     {
       "rank": 428,
-      "change": 573,
+      "change": 0,
       "login": "owenliang",
       "name": "owenliang",
       "location": "china",
@@ -5996,7 +5996,7 @@
     },
     {
       "rank": 429,
-      "change": 572,
+      "change": 0,
       "login": "wangrunji0408",
       "name": "Runji Wang",
       "location": "Beijing, China",
@@ -6010,7 +6010,7 @@
     },
     {
       "rank": 430,
-      "change": 571,
+      "change": 0,
       "login": "AlanCheen",
       "name": "程序亦非猿",
       "location": "HangZhou,China",
@@ -6024,7 +6024,7 @@
     },
     {
       "rank": 431,
-      "change": 570,
+      "change": 0,
       "login": "coderyi",
       "name": "coderyi",
       "location": "Hangzhou, China",
@@ -6038,7 +6038,7 @@
     },
     {
       "rank": 432,
-      "change": 569,
+      "change": 0,
       "login": "pcqpcq",
       "name": "Joker",
       "location": "Fuzhou, China",
@@ -6052,7 +6052,7 @@
     },
     {
       "rank": 433,
-      "change": 568,
+      "change": 0,
       "login": "GoSSIP-SJTU",
       "name": "GoSSIP@SJTU",
       "location": "Shanghai, China",
@@ -6066,7 +6066,7 @@
     },
     {
       "rank": 434,
-      "change": 567,
+      "change": 0,
       "login": "knightliao",
       "name": "Qiqi Liao",
       "location": "Shanghai, China",
@@ -6080,7 +6080,7 @@
     },
     {
       "rank": 435,
-      "change": 566,
+      "change": 0,
       "login": "roseduan",
       "name": "roseduan",
       "location": "Shenzhen, China",
@@ -6094,7 +6094,7 @@
     },
     {
       "rank": 436,
-      "change": 565,
+      "change": 0,
       "login": "YunYang1994",
       "name": null,
       "location": "GuangZhou, China",
@@ -6108,7 +6108,7 @@
     },
     {
       "rank": 437,
-      "change": 564,
+      "change": 0,
       "login": "cyndibaby905",
       "name": "Fred Chen",
       "location": "Beijing, China",
@@ -6122,7 +6122,7 @@
     },
     {
       "rank": 438,
-      "change": 563,
+      "change": 0,
       "login": "EspressifApp",
       "name": null,
       "location": "Shanghai, China",
@@ -6136,7 +6136,7 @@
     },
     {
       "rank": 439,
-      "change": 562,
+      "change": 0,
       "login": "crifan",
       "name": "Crifan Li",
       "location": "Suzhou, China",
@@ -6150,7 +6150,7 @@
     },
     {
       "rank": 440,
-      "change": 561,
+      "change": 0,
       "login": "xingrz",
       "name": "XiNGRZ",
       "location": "Canton, China",
@@ -6164,7 +6164,7 @@
     },
     {
       "rank": 441,
-      "change": 560,
+      "change": 0,
       "login": "JellyBool",
       "name": "JellyBool",
       "location": "Shenzhen China",
@@ -6178,7 +6178,7 @@
     },
     {
       "rank": 442,
-      "change": 559,
+      "change": 0,
       "login": "agapple",
       "name": "agapple",
       "location": "china",
@@ -6192,7 +6192,7 @@
     },
     {
       "rank": 443,
-      "change": 558,
+      "change": 0,
       "login": "netyouli",
       "name": "吴海超(WHC)",
       "location": "China WuHan",
@@ -6206,7 +6206,7 @@
     },
     {
       "rank": 444,
-      "change": 557,
+      "change": 0,
       "login": "YoKeyword",
       "name": "YoKey",
       "location": "Hangzhou, China",
@@ -6220,7 +6220,7 @@
     },
     {
       "rank": 445,
-      "change": 556,
+      "change": 0,
       "login": "scwang90",
       "name": "树朾",
       "location": "China Gui Yang",
@@ -6234,7 +6234,7 @@
     },
     {
       "rank": 446,
-      "change": 555,
+      "change": 0,
       "login": "hexiangnan",
       "name": "He Xiangnan",
       "location": "China",
@@ -6248,7 +6248,7 @@
     },
     {
       "rank": 447,
-      "change": 554,
+      "change": 0,
       "login": "yaoweibin",
       "name": "Weibin Yao(姚伟斌)",
       "location": "Hangzhou, China",
@@ -6262,7 +6262,7 @@
     },
     {
       "rank": 448,
-      "change": 553,
+      "change": 0,
       "login": "xiaoweiruby",
       "name": "肖威（xiaowei）",
       "location": "beijing,China",
@@ -6276,7 +6276,7 @@
     },
     {
       "rank": 449,
-      "change": 552,
+      "change": 0,
       "login": "zhw2590582",
       "name": "Harvey Zhao",
       "location": "Shenzhen, China",
@@ -6290,7 +6290,7 @@
     },
     {
       "rank": 450,
-      "change": 551,
+      "change": 0,
       "login": "LilyGO",
       "name": "LILYGO",
       "location": "Shenzhen,China",
@@ -6304,7 +6304,7 @@
     },
     {
       "rank": 451,
-      "change": 550,
+      "change": 0,
       "login": "hedengcheng",
       "name": "hedengcheng",
       "location": "hangzhou,china",
@@ -6318,7 +6318,7 @@
     },
     {
       "rank": 452,
-      "change": 549,
+      "change": 0,
       "login": "maotoumao",
       "name": "猫头猫",
       "location": "Beijing, China",
@@ -6332,7 +6332,7 @@
     },
     {
       "rank": 453,
-      "change": 548,
+      "change": 0,
       "login": "cyfdecyf",
       "name": "Chen Yufei",
       "location": "Shanghai, China",
@@ -6346,7 +6346,7 @@
     },
     {
       "rank": 454,
-      "change": 547,
+      "change": 0,
       "login": "whyour",
       "name": "whyour",
       "location": "Beijing, China",
@@ -6360,7 +6360,7 @@
     },
     {
       "rank": 455,
-      "change": 546,
+      "change": 0,
       "login": "hyj1991",
       "name": "易容 (hyj1991)",
       "location": "Nanjing, Jiangsu, China",
@@ -6374,7 +6374,7 @@
     },
     {
       "rank": 456,
-      "change": 545,
+      "change": 0,
       "login": "seisman",
       "name": "Dongdong Tian",
       "location": "Wuhan, China",
@@ -6388,7 +6388,7 @@
     },
     {
       "rank": 457,
-      "change": 544,
+      "change": 0,
       "login": "xkcoding",
       "name": "Yangkai.Shen",
       "location": "Hangzhou, China",
@@ -6402,7 +6402,7 @@
     },
     {
       "rank": 458,
-      "change": 543,
+      "change": 0,
       "login": "57code",
       "name": "村长",
       "location": "China",
@@ -6416,7 +6416,7 @@
     },
     {
       "rank": 459,
-      "change": 542,
+      "change": 0,
       "login": "07akioni",
       "name": "07akioni",
       "location": "China",
@@ -6430,7 +6430,7 @@
     },
     {
       "rank": 460,
-      "change": 541,
+      "change": 0,
       "login": "houbb",
       "name": "老马啸西风",
       "location": "shanghai@china",
@@ -6444,7 +6444,7 @@
     },
     {
       "rank": 461,
-      "change": 540,
+      "change": 0,
       "login": "feifeibear",
       "name": "Jiarui Fang（方佳瑞）",
       "location": "Shanghai, China",
@@ -6458,7 +6458,7 @@
     },
     {
       "rank": 462,
-      "change": 539,
+      "change": 0,
       "login": "ZoomQuiet",
       "name": "Zoom.Quiet",
       "location": "ZhuHai,China,Earth",
@@ -6472,7 +6472,7 @@
     },
     {
       "rank": 463,
-      "change": 538,
+      "change": 0,
       "login": "Chanzhaoyu",
       "name": "Redon",
       "location": "DongGuan, China",
@@ -6486,7 +6486,7 @@
     },
     {
       "rank": 464,
-      "change": 537,
+      "change": 0,
       "login": "jkpang",
       "name": "Fance Pang",
       "location": "Shenzhen, China",
@@ -6500,7 +6500,7 @@
     },
     {
       "rank": 465,
-      "change": 536,
+      "change": 0,
       "login": "sunfusheng",
       "name": "孙福生",
       "location": "Beijing, China",
@@ -6514,7 +6514,7 @@
     },
     {
       "rank": 466,
-      "change": 535,
+      "change": 0,
       "login": "USTfgaoaa",
       "name": "Fei Gao",
       "location": "Hangzhou, Zhejiang, China",
@@ -6528,7 +6528,7 @@
     },
     {
       "rank": 467,
-      "change": 534,
+      "change": 0,
       "login": "adad184",
       "name": "Ralph Li",
       "location": "China, Hunan, Changsha",
@@ -6542,7 +6542,7 @@
     },
     {
       "rank": 468,
-      "change": 533,
+      "change": 0,
       "login": "shrekshrek",
       "name": "Shrek.Wang",
       "location": "Shanghai,China",
@@ -6556,7 +6556,7 @@
     },
     {
       "rank": 469,
-      "change": 532,
+      "change": 0,
       "login": "sczyh30",
       "name": "Eric Zhao",
       "location": "Hangzhou, China",
@@ -6570,7 +6570,7 @@
     },
     {
       "rank": 470,
-      "change": 531,
+      "change": 0,
       "login": "githubwing",
       "name": "androidwing",
       "location": "guangzhou,China",
@@ -6584,7 +6584,7 @@
     },
     {
       "rank": 471,
-      "change": 530,
+      "change": 0,
       "login": "lipengzhou",
       "name": "LPZ",
       "location": "Beijing, China",
@@ -6598,7 +6598,7 @@
     },
     {
       "rank": 472,
-      "change": 529,
+      "change": 0,
       "login": "lightningMan",
       "name": "the_flash",
       "location": "ShangHai China ",
@@ -6612,7 +6612,7 @@
     },
     {
       "rank": 473,
-      "change": 528,
+      "change": 0,
       "login": "xuexiangjys",
       "name": "薛翔",
       "location": "Nanjing,China",
@@ -6626,7 +6626,7 @@
     },
     {
       "rank": 474,
-      "change": 527,
+      "change": 0,
       "login": "sendya",
       "name": "言肆",
       "location": "Xiamen, China",
@@ -6640,7 +6640,7 @@
     },
     {
       "rank": 475,
-      "change": 526,
+      "change": 0,
       "login": "reeze",
       "name": "Reeze Xia",
       "location": "Beijing, China",
@@ -6654,7 +6654,7 @@
     },
     {
       "rank": 476,
-      "change": 525,
+      "change": 0,
       "login": "wnzhang",
       "name": "Weinan Zhang",
       "location": "Shanghai, China",
@@ -6668,7 +6668,7 @@
     },
     {
       "rank": 477,
-      "change": 524,
+      "change": 0,
       "login": "xmuSistone",
       "name": "stone",
       "location": "Hangzhou, Zhejiang, China",
@@ -6682,7 +6682,7 @@
     },
     {
       "rank": 478,
-      "change": 523,
+      "change": 0,
       "login": "DianQK",
       "name": "DianQK",
       "location": "Beijing, China",
@@ -6696,7 +6696,7 @@
     },
     {
       "rank": 479,
-      "change": 522,
+      "change": 0,
       "login": "oldj",
       "name": "oldj",
       "location": "Hangzhou, China",
@@ -6710,7 +6710,7 @@
     },
     {
       "rank": 480,
-      "change": 521,
+      "change": 0,
       "login": "L-M-Sherlock",
       "name": "Jarrett Ye",
       "location": "Qingyuan, Guangdong, China",
@@ -6724,7 +6724,7 @@
     },
     {
       "rank": 481,
-      "change": 520,
+      "change": 0,
       "login": "fangjian0423",
       "name": "Jimmy Fang",
       "location": "Hangzhou, China",
@@ -6738,7 +6738,7 @@
     },
     {
       "rank": 482,
-      "change": 519,
+      "change": 0,
       "login": "liu21st",
       "name": "ThinkPHP",
       "location": "ShangHai,China",
@@ -6752,7 +6752,7 @@
     },
     {
       "rank": 483,
-      "change": 518,
+      "change": 0,
       "login": "runningcheese",
       "name": "RunningChese",
       "location": "GuangZhou,China",
@@ -6766,7 +6766,7 @@
     },
     {
       "rank": 484,
-      "change": 517,
+      "change": 0,
       "login": "benjycui",
       "name": "Xiaobin Cui",
       "location": "China",
@@ -6780,7 +6780,7 @@
     },
     {
       "rank": 485,
-      "change": 516,
+      "change": 0,
       "login": "h2pl",
       "name": "江小湖",
       "location": "China",
@@ -6794,7 +6794,7 @@
     },
     {
       "rank": 486,
-      "change": 515,
+      "change": 0,
       "login": "w4lle",
       "name": "w4lle",
       "location": "Hangzhou,China",
@@ -6808,7 +6808,7 @@
     },
     {
       "rank": 487,
-      "change": 514,
+      "change": 0,
       "login": "OpenGithubs",
       "name": "OpenGithubs",
       "location": "China",
@@ -6822,7 +6822,7 @@
     },
     {
       "rank": 488,
-      "change": 513,
+      "change": 0,
       "login": "DingXiaoH",
       "name": "Xiaohan Ding",
       "location": "Shenzhen, China",
@@ -6836,7 +6836,7 @@
     },
     {
       "rank": 489,
-      "change": 512,
+      "change": 0,
       "login": "pezy",
       "name": "pezy",
       "location": "Beijing, China",
@@ -6850,7 +6850,7 @@
     },
     {
       "rank": 490,
-      "change": 511,
+      "change": 0,
       "login": "liangfeidotme",
       "name": "Fei Liang",
       "location": "Hangzhou, Zhejiang, China",
@@ -6864,7 +6864,7 @@
     },
     {
       "rank": 491,
-      "change": 510,
+      "change": 0,
       "login": "wfnuser",
       "name": "Qinghao Huang",
       "location": "Beijing, China",
@@ -6878,7 +6878,7 @@
     },
     {
       "rank": 492,
-      "change": 509,
+      "change": 0,
       "login": "anjoy8",
       "name": "ansonzhang",
       "location": "Beijing China",
@@ -6892,7 +6892,7 @@
     },
     {
       "rank": 493,
-      "change": 508,
+      "change": 0,
       "login": "huchunxu",
       "name": "Chunxu Hu",
       "location": "Shenzhen,China",
@@ -6906,7 +6906,7 @@
     },
     {
       "rank": 494,
-      "change": 507,
+      "change": 0,
       "login": "shakilahmedatik",
       "name": "Shakil Ahmed Atik",
       "location": "Yangzhou, China",
@@ -6920,7 +6920,7 @@
     },
     {
       "rank": 495,
-      "change": 506,
+      "change": 0,
       "login": "huxiaoman7",
       "name": "Charlotte",
       "location": "Beijing, China",
@@ -6934,7 +6934,7 @@
     },
     {
       "rank": 496,
-      "change": 505,
+      "change": 0,
       "login": "xiaoxian521",
       "name": "xiaoming",
       "location": "Xinyang City, Henan Province, China",
@@ -6948,7 +6948,7 @@
     },
     {
       "rank": 497,
-      "change": 504,
+      "change": 0,
       "login": "markyun",
       "name": "云云酱",
       "location": "Nanjing, China",
@@ -6962,7 +6962,7 @@
     },
     {
       "rank": 498,
-      "change": 503,
+      "change": 0,
       "login": "12207480",
       "name": "yeBlue",
       "location": "Changsha ,China",
@@ -6976,7 +6976,7 @@
     },
     {
       "rank": 499,
-      "change": 502,
+      "change": 0,
       "login": "solenovex",
       "name": "Dave Young",
       "location": "China",
@@ -6990,7 +6990,7 @@
     },
     {
       "rank": 500,
-      "change": 501,
+      "change": 0,
       "login": "h2y",
       "name": "胡中元",
       "location": "China",
@@ -7004,7 +7004,7 @@
     },
     {
       "rank": 501,
-      "change": 500,
+      "change": 0,
       "login": "cfc4n",
       "name": "CFC4N",
       "location": "上海(ShangHai,China)",
@@ -7018,7 +7018,7 @@
     },
     {
       "rank": 502,
-      "change": 499,
+      "change": 0,
       "login": "aa65535",
       "name": "Jian Chang",
       "location": "Beijing, China",
@@ -7032,7 +7032,7 @@
     },
     {
       "rank": 503,
-      "change": 498,
+      "change": 0,
       "login": "welefen",
       "name": null,
       "location": "Beijing, China",
@@ -7046,7 +7046,7 @@
     },
     {
       "rank": 504,
-      "change": 497,
+      "change": 0,
       "login": "msnh2012",
       "name": "msnh2012",
       "location": "Beijing,China",
@@ -7060,7 +7060,7 @@
     },
     {
       "rank": 505,
-      "change": 496,
+      "change": 0,
       "login": "vincent4j",
       "name": "四勾 4J",
       "location": "Beijing, China",
@@ -7074,7 +7074,7 @@
     },
     {
       "rank": 506,
-      "change": 495,
+      "change": 0,
       "login": "ZigaoWang",
       "name": "Zigao Wang",
       "location": "Shanghai, China",
@@ -7088,7 +7088,7 @@
     },
     {
       "rank": 507,
-      "change": 494,
+      "change": 0,
       "login": "Naituw",
       "name": "Wutian",
       "location": "Beijing, China",
@@ -7102,7 +7102,7 @@
     },
     {
       "rank": 508,
-      "change": 493,
+      "change": 0,
       "login": "journey-ad",
       "name": "Jad",
       "location": "Shanghai, China",
@@ -7116,7 +7116,7 @@
     },
     {
       "rank": 509,
-      "change": 492,
+      "change": 0,
       "login": "poetries",
       "name": "程序员poetry",
       "location": "Shenzhen China",
@@ -7130,7 +7130,7 @@
     },
     {
       "rank": 510,
-      "change": 491,
+      "change": 0,
       "login": "karminski",
       "name": "张旭红 (karminski-牙医)",
       "location": "Beijing, China",
@@ -7144,7 +7144,7 @@
     },
     {
       "rank": 511,
-      "change": 490,
+      "change": 0,
       "login": "tristaZero",
       "name": "Trista Pan",
       "location": "Beijing, China",
@@ -7158,7 +7158,7 @@
     },
     {
       "rank": 512,
-      "change": 489,
+      "change": 0,
       "login": "kasuganosoras",
       "name": "Akkariin Meiko",
       "location": "China",
@@ -7172,7 +7172,7 @@
     },
     {
       "rank": 513,
-      "change": 488,
+      "change": 0,
       "login": "chemzqm",
       "name": "Qiming zhao",
       "location": "Beijing, China",
@@ -7186,7 +7186,7 @@
     },
     {
       "rank": 514,
-      "change": 487,
+      "change": 0,
       "login": "smartyuge",
       "name": "鱼哥",
       "location": "ShenZhen, China",
@@ -7200,7 +7200,7 @@
     },
     {
       "rank": 515,
-      "change": 486,
+      "change": 0,
       "login": "leeight",
       "name": "Li YuBei",
       "location": "Shanghai, China",
@@ -7214,7 +7214,7 @@
     },
     {
       "rank": 516,
-      "change": 485,
+      "change": 0,
       "login": "Urinx",
       "name": "Urinx",
       "location": "Wuhan, China",
@@ -7228,7 +7228,7 @@
     },
     {
       "rank": 517,
-      "change": 484,
+      "change": 0,
       "login": "wwj718",
       "name": null,
       "location": "Sanya, China",
@@ -7242,7 +7242,7 @@
     },
     {
       "rank": 518,
-      "change": 483,
+      "change": 0,
       "login": "wulabing",
       "name": null,
       "location": "China",
@@ -7256,7 +7256,7 @@
     },
     {
       "rank": 519,
-      "change": 482,
+      "change": 0,
       "login": "mcxtzhang",
       "name": "张旭童",
       "location": "Shanghai,China",
@@ -7270,7 +7270,7 @@
     },
     {
       "rank": 520,
-      "change": 481,
+      "change": 0,
       "login": "tao12345666333",
       "name": "Jintao Zhang",
       "location": "Beijing, China",
@@ -7284,7 +7284,7 @@
     },
     {
       "rank": 521,
-      "change": 480,
+      "change": 0,
       "login": "wingjay",
       "name": "wingjay",
       "location": "Shanghai, China",
@@ -7298,7 +7298,7 @@
     },
     {
       "rank": 522,
-      "change": 479,
+      "change": 0,
       "login": "finscn",
       "name": "finscn",
       "location": "China",
@@ -7312,7 +7312,7 @@
     },
     {
       "rank": 523,
-      "change": 478,
+      "change": 0,
       "login": "kbengine",
       "name": "kbengine",
       "location": "Shenzhen, China",
@@ -7326,7 +7326,7 @@
     },
     {
       "rank": 524,
-      "change": 477,
+      "change": 0,
       "login": "phobal",
       "name": "phobal",
       "location": "China, Chengdu",
@@ -7340,7 +7340,7 @@
     },
     {
       "rank": 525,
-      "change": 476,
+      "change": 0,
       "login": "Sky24n",
       "name": null,
       "location": "China Chengdu",
@@ -7354,7 +7354,7 @@
     },
     {
       "rank": 526,
-      "change": 475,
+      "change": 0,
       "login": "MistEO",
       "name": "MistEO",
       "location": "HangZhou, China",
@@ -7368,7 +7368,7 @@
     },
     {
       "rank": 527,
-      "change": 474,
+      "change": 0,
       "login": "weihuoya",
       "name": "zhang wei",
       "location": "China",
@@ -7382,7 +7382,7 @@
     },
     {
       "rank": 528,
-      "change": 473,
+      "change": 0,
       "login": "zhuangbiaowei",
       "name": "庄表伟",
       "location": "Shanghai, China",
@@ -7396,7 +7396,7 @@
     },
     {
       "rank": 529,
-      "change": 472,
+      "change": 0,
       "login": "lining0806",
       "name": "宁哥",
       "location": "Tianjin, China",
@@ -7410,7 +7410,7 @@
     },
     {
       "rank": 530,
-      "change": 471,
+      "change": 0,
       "login": "ty4z2008",
       "name": "Jun Liao",
       "location": "Shenzhen, China ",
@@ -7424,7 +7424,7 @@
     },
     {
       "rank": 531,
-      "change": 470,
+      "change": 0,
       "login": "Becavalier",
       "name": "Jason Yu",
       "location": "Shanghai, China",
@@ -7438,7 +7438,7 @@
     },
     {
       "rank": 532,
-      "change": 469,
+      "change": 0,
       "login": "xmu-xiaoma666",
       "name": "xmu-xiaoma666",
       "location": "Xiamen, China",
@@ -7452,7 +7452,7 @@
     },
     {
       "rank": 533,
-      "change": 468,
+      "change": 0,
       "login": "Freelander",
       "name": "高军 (GoJun)",
       "location": "Guangzhou, China",
@@ -7466,7 +7466,7 @@
     },
     {
       "rank": 534,
-      "change": 467,
+      "change": 0,
       "login": "cnych",
       "name": "阳明",
       "location": "China, Chengdu",
@@ -7480,7 +7480,7 @@
     },
     {
       "rank": 535,
-      "change": 466,
+      "change": 0,
       "login": "flyerhzm",
       "name": "Richard Huang",
       "location": "Shanghai, China",
@@ -7494,7 +7494,7 @@
     },
     {
       "rank": 536,
-      "change": 465,
+      "change": 0,
       "login": "ycjcl868",
       "name": "Charles",
       "location": "Hangzhou, China",
@@ -7508,7 +7508,7 @@
     },
     {
       "rank": 537,
-      "change": 464,
+      "change": 0,
       "login": "LyleMi",
       "name": "Lyle",
       "location": "China",
@@ -7522,7 +7522,7 @@
     },
     {
       "rank": 538,
-      "change": 463,
+      "change": 0,
       "login": "mxdldev",
       "name": "门心叼龙",
       "location": "Beijing,China",
@@ -7536,7 +7536,7 @@
     },
     {
       "rank": 539,
-      "change": 462,
+      "change": 0,
       "login": "ouuan",
       "name": "Yufan You",
       "location": "Beijing, China",
@@ -7550,7 +7550,7 @@
     },
     {
       "rank": 540,
-      "change": 461,
+      "change": 0,
       "login": "xiaoluoboding",
       "name": "Robert Shaw",
       "location": "Dali, China",
@@ -7564,7 +7564,7 @@
     },
     {
       "rank": 541,
-      "change": 460,
+      "change": 0,
       "login": "crimx",
       "name": "CRIMX",
       "location": "Hangzhou, China",
@@ -7578,7 +7578,7 @@
     },
     {
       "rank": 542,
-      "change": 459,
+      "change": 0,
       "login": "cipchk",
       "name": "卡色",
       "location": "ShangHai, China",
@@ -7592,7 +7592,7 @@
     },
     {
       "rank": 543,
-      "change": 458,
+      "change": 0,
       "login": "100mango",
       "name": null,
       "location": "China",
@@ -7606,7 +7606,7 @@
     },
     {
       "rank": 544,
-      "change": 457,
+      "change": 0,
       "login": "githubhaohao",
       "name": "字节流动",
       "location": "Beijing, China",
@@ -7620,7 +7620,7 @@
     },
     {
       "rank": 545,
-      "change": 456,
+      "change": 0,
       "login": "hawx1993",
       "name": "trigkit4",
       "location": "Hangzhou,China",
@@ -7634,7 +7634,7 @@
     },
     {
       "rank": 546,
-      "change": 455,
+      "change": 0,
       "login": "zwxs",
       "name": "zhengwei",
       "location": "ShenZhen , China",
@@ -7648,7 +7648,7 @@
     },
     {
       "rank": 547,
-      "change": 454,
+      "change": 0,
       "login": "FranzKafkaYu",
       "name": "Yu FranzKafka",
       "location": "China",
@@ -7662,7 +7662,7 @@
     },
     {
       "rank": 548,
-      "change": 453,
+      "change": 0,
       "login": "CarpenterLee",
       "name": "Carpenter Lee",
       "location": "Hangzhou, China",
@@ -7676,7 +7676,7 @@
     },
     {
       "rank": 549,
-      "change": 452,
+      "change": 0,
       "login": "triaquae",
       "name": null,
       "location": "Beijing, China",
@@ -7690,7 +7690,7 @@
     },
     {
       "rank": 550,
-      "change": 451,
+      "change": 0,
       "login": "michuanhaohao",
       "name": "Hao Luo",
       "location": "Hangzhou, China",
@@ -7704,7 +7704,7 @@
     },
     {
       "rank": 551,
-      "change": 450,
+      "change": 0,
       "login": "HotBitmapGG",
       "name": "Hcc",
       "location": "Wuhan China",
@@ -7718,7 +7718,7 @@
     },
     {
       "rank": 552,
-      "change": 449,
+      "change": 0,
       "login": "Creality3DPrinting",
       "name": "Shenzhen Creality 3D Technology Co., Ltd",
       "location": "Shenzhen, China",
@@ -7732,7 +7732,7 @@
     },
     {
       "rank": 553,
-      "change": 448,
+      "change": 0,
       "login": "henrymorgen",
       "name": "刘望舒",
       "location": "Beijing, China",
@@ -7746,7 +7746,7 @@
     },
     {
       "rank": 554,
-      "change": 447,
+      "change": 0,
       "login": "guobinhit",
       "name": "GUO BIN",
       "location": "Beijing, China",
@@ -7760,7 +7760,7 @@
     },
     {
       "rank": 555,
-      "change": 446,
+      "change": 0,
       "login": "the5fire",
       "name": null,
       "location": "Beijing, China",
@@ -7774,7 +7774,7 @@
     },
     {
       "rank": 556,
-      "change": 445,
+      "change": 0,
       "login": "RealKai42",
       "name": "Kai",
       "location": "China",
@@ -7788,7 +7788,7 @@
     },
     {
       "rank": 557,
-      "change": 444,
+      "change": 0,
       "login": "mumuy",
       "name": "路人甲",
       "location": "Xiamen,China",
@@ -7802,7 +7802,7 @@
     },
     {
       "rank": 558,
-      "change": 443,
+      "change": 0,
       "login": "linyiqun",
       "name": "Yiqun Lin",
       "location": "Shanghai, China",
@@ -7816,7 +7816,7 @@
     },
     {
       "rank": 559,
-      "change": 442,
+      "change": 0,
       "login": "mashirozx",
       "name": "Mashiro",
       "location": "Shanghai, China",
@@ -7830,7 +7830,7 @@
     },
     {
       "rank": 560,
-      "change": 441,
+      "change": 0,
       "login": "EZLippi",
       "name": "Lippi",
       "location": "China",
@@ -7844,7 +7844,7 @@
     },
     {
       "rank": 561,
-      "change": 440,
+      "change": 0,
       "login": "mozillazg",
       "name": "Huang Huang",
       "location": "Beijing, China",
@@ -7858,7 +7858,7 @@
     },
     {
       "rank": 562,
-      "change": 439,
+      "change": 0,
       "login": "wangrongding",
       "name": "荣顶",
       "location": "Beijing, China",
@@ -7872,7 +7872,7 @@
     },
     {
       "rank": 563,
-      "change": 438,
+      "change": 0,
       "login": "metowolf",
       "name": "METO",
       "location": "Shenzhen, China",
@@ -7886,7 +7886,7 @@
     },
     {
       "rank": 564,
-      "change": 437,
+      "change": 0,
       "login": "bh-lay",
       "name": "剧中人",
       "location": "Hefei China",
@@ -7900,7 +7900,7 @@
     },
     {
       "rank": 565,
-      "change": 436,
+      "change": 0,
       "login": "dongyuanxin",
       "name": "YuanXin",
       "location": "Hangzhou, China",
@@ -7914,7 +7914,7 @@
     },
     {
       "rank": 566,
-      "change": 435,
+      "change": 0,
       "login": "AlexV525",
       "name": "Alex Li",
       "location": "China, Shanghai",
@@ -7928,7 +7928,7 @@
     },
     {
       "rank": 567,
-      "change": 434,
+      "change": 0,
       "login": "ysc",
       "name": "杨尚川",
       "location": "Beijing, China",
@@ -7942,7 +7942,7 @@
     },
     {
       "rank": 568,
-      "change": 433,
+      "change": 0,
       "login": "yuanxiaosc",
       "name": "袁宵",
       "location": "Bei Jing, China",
@@ -7956,7 +7956,7 @@
     },
     {
       "rank": 569,
-      "change": 432,
+      "change": 0,
       "login": "coocood",
       "name": "Evan Zhou",
       "location": "Beijing, China",
@@ -7970,7 +7970,7 @@
     },
     {
       "rank": 570,
-      "change": 431,
+      "change": 0,
       "login": "D-clock",
       "name": "D_clock爱吃葱花",
       "location": "GuangZhou,China",
@@ -7984,7 +7984,7 @@
     },
     {
       "rank": 571,
-      "change": 430,
+      "change": 0,
       "login": "GeekZooStudio",
       "name": "GeekZooStudio Products",
       "location": "Beijing, China",
@@ -7998,7 +7998,7 @@
     },
     {
       "rank": 572,
-      "change": 429,
+      "change": 0,
       "login": "r0eXpeR",
       "name": "r0eXpeR",
       "location": "China,ShangHai",
@@ -8012,7 +8012,7 @@
     },
     {
       "rank": 573,
-      "change": 428,
+      "change": 0,
       "login": "mingcheng",
       "name": "明城",
       "location": "Hangzhou, China",
@@ -8026,7 +8026,7 @@
     },
     {
       "rank": 574,
-      "change": 427,
+      "change": 0,
       "login": "1715173329",
       "name": "Tianling Shen",
       "location": "Chongqing, China",
@@ -8040,7 +8040,7 @@
     },
     {
       "rank": 575,
-      "change": 426,
+      "change": 0,
       "login": "al0ne",
       "name": "al0ne",
       "location": "China",
@@ -8054,7 +8054,7 @@
     },
     {
       "rank": 576,
-      "change": 425,
+      "change": 0,
       "login": "khotyn",
       "name": "Khotyn Huang",
       "location": "HangZhou, ZheJiang, China",
@@ -8068,7 +8068,7 @@
     },
     {
       "rank": 577,
-      "change": 424,
+      "change": 0,
       "login": "iawia002",
       "name": "Xinzhao Xu",
       "location": "Chengdu, China",
@@ -8082,7 +8082,7 @@
     },
     {
       "rank": 578,
-      "change": 423,
+      "change": 0,
       "login": "aozhimin",
       "name": "Alex Ao",
       "location": "Shanghai, China",
@@ -8096,7 +8096,7 @@
     },
     {
       "rank": 579,
-      "change": 422,
+      "change": 0,
       "login": "HuangCongQing",
       "name": "双愚",
       "location": "Beijing, China",
@@ -8110,7 +8110,7 @@
     },
     {
       "rank": 580,
-      "change": 421,
+      "change": 0,
       "login": "zhouguangming",
       "name": "zhouguangming",
       "location": "Shanghai China",
@@ -8124,7 +8124,7 @@
     },
     {
       "rank": 581,
-      "change": 420,
+      "change": 0,
       "login": "Xunzhuo",
       "name": "Xunzhuo",
       "location": "China ",
@@ -8138,7 +8138,7 @@
     },
     {
       "rank": 582,
-      "change": 419,
+      "change": 0,
       "login": "z-song",
       "name": "Song",
       "location": "Shanghai,China",
@@ -8152,7 +8152,7 @@
     },
     {
       "rank": 583,
-      "change": 418,
+      "change": 0,
       "login": "Spground",
       "name": "JieWu",
       "location": "Hangzhou, China ",
@@ -8166,7 +8166,7 @@
     },
     {
       "rank": 584,
-      "change": 417,
+      "change": 0,
       "login": "ShusenTang",
       "name": null,
       "location": "Peking University, China",
@@ -8180,7 +8180,7 @@
     },
     {
       "rank": 585,
-      "change": 416,
+      "change": 0,
       "login": "unix",
       "name": "witt",
       "location": "China Shanghai",
@@ -8194,7 +8194,7 @@
     },
     {
       "rank": 586,
-      "change": 415,
+      "change": 0,
       "login": "halzhang",
       "name": "zhang",
       "location": "China,GuangZhou",
@@ -8208,7 +8208,7 @@
     },
     {
       "rank": 587,
-      "change": 414,
+      "change": 0,
       "login": "eisneim",
       "name": "Eisneim Terry",
       "location": "Shenzhen China",
@@ -8222,7 +8222,7 @@
     },
     {
       "rank": 588,
-      "change": 413,
+      "change": 0,
       "login": "stulzq",
       "name": "Zhiqiang Li",
       "location": "Chengdu,China",
@@ -8236,7 +8236,7 @@
     },
     {
       "rank": 589,
-      "change": 412,
+      "change": 0,
       "login": "kaleai",
       "name": "Kale",
       "location": "Shanghai, China",
@@ -8250,7 +8250,7 @@
     },
     {
       "rank": 590,
-      "change": 411,
+      "change": 0,
       "login": "kiral",
       "name": "清英",
       "location": "china",
@@ -8264,7 +8264,7 @@
     },
     {
       "rank": 591,
-      "change": 410,
+      "change": 0,
       "login": "TonyCrane",
       "name": "鹤翔万里",
       "location": "Hangzhou, China",
@@ -8278,7 +8278,7 @@
     },
     {
       "rank": 592,
-      "change": 409,
+      "change": 0,
       "login": "cleardusk",
       "name": "Jianzhu Guo",
       "location": "Beijing, China",
@@ -8292,7 +8292,7 @@
     },
     {
       "rank": 593,
-      "change": 408,
+      "change": 0,
       "login": "JokerJohn",
       "name": "Catalina",
       "location": "Hong Kong SAR, China",
@@ -8306,7 +8306,7 @@
     },
     {
       "rank": 594,
-      "change": 407,
+      "change": 0,
       "login": "whxaxes",
       "name": "吖猩",
       "location": "Guangzhou, China",
@@ -8320,7 +8320,7 @@
     },
     {
       "rank": 595,
-      "change": 406,
+      "change": 0,
       "login": "cloudsec",
       "name": "wzt",
       "location": "China",
@@ -8334,7 +8334,7 @@
     },
     {
       "rank": 596,
-      "change": 405,
+      "change": 0,
       "login": "0x5e",
       "name": "gaosen",
       "location": "China, Zhejiang, Hangzhou",
@@ -8348,7 +8348,7 @@
     },
     {
       "rank": 597,
-      "change": 404,
+      "change": 0,
       "login": "EryouHao",
       "name": "Zayn Hao",
       "location": "Beijing China",
@@ -8362,7 +8362,7 @@
     },
     {
       "rank": 598,
-      "change": 403,
+      "change": 0,
       "login": "tumobi",
       "name": "tumobi",
       "location": "Shenzhen, China",
@@ -8376,7 +8376,7 @@
     },
     {
       "rank": 599,
-      "change": 402,
+      "change": 0,
       "login": "qingmei2",
       "name": "qingmei2",
       "location": "Chengdu, Sichuan, China",
@@ -8390,7 +8390,7 @@
     },
     {
       "rank": 600,
-      "change": 401,
+      "change": 0,
       "login": "wangjiegulu",
       "name": "WangJie",
       "location": "Hangzhou, China",
@@ -8404,7 +8404,7 @@
     },
     {
       "rank": 601,
-      "change": 400,
+      "change": 0,
       "login": "renzifeng",
       "name": "紫枫",
       "location": "BeiJing,China",
@@ -8418,7 +8418,7 @@
     },
     {
       "rank": 602,
-      "change": 399,
+      "change": 0,
       "login": "idealre",
       "name": "Ideal",
       "location": "Hangzhou, China",
@@ -8432,7 +8432,7 @@
     },
     {
       "rank": 603,
-      "change": 398,
+      "change": 0,
       "login": "EdisonTalk",
       "name": "Edison Zhou",
       "location": "Chengdu, China",
@@ -8446,7 +8446,7 @@
     },
     {
       "rank": 604,
-      "change": 397,
+      "change": 0,
       "login": "supnate",
       "name": "Nate Wang",
       "location": "Shanghai, China",
@@ -8460,7 +8460,7 @@
     },
     {
       "rank": 605,
-      "change": 396,
+      "change": 0,
       "login": "QiuChenly",
       "name": "秋城落叶",
       "location": "China",
@@ -8474,7 +8474,7 @@
     },
     {
       "rank": 606,
-      "change": 395,
+      "change": 0,
       "login": "abop",
       "name": "Goofy",
       "location": "Hangzhou, China",
@@ -8488,7 +8488,7 @@
     },
     {
       "rank": 607,
-      "change": 394,
+      "change": 0,
       "login": "nondanee",
       "name": "Nzix",
       "location": "Hangzhou, China",
@@ -8502,7 +8502,7 @@
     },
     {
       "rank": 608,
-      "change": 393,
+      "change": 0,
       "login": "ZhongTaoTian",
       "name": "维尼的小熊",
       "location": "BeiJing,China",
@@ -8516,7 +8516,7 @@
     },
     {
       "rank": 609,
-      "change": 392,
+      "change": 0,
       "login": "toly1994328",
       "name": "张风捷特烈",
       "location": "China",
@@ -8530,7 +8530,7 @@
     },
     {
       "rank": 610,
-      "change": 391,
+      "change": 0,
       "login": "yipianfengye",
       "name": "刘超",
       "location": "China BeiJing",
@@ -8544,7 +8544,7 @@
     },
     {
       "rank": 611,
-      "change": 390,
+      "change": 0,
       "login": "hit9",
       "name": "Chao Wang",
       "location": "Shanghai, China",
@@ -8558,7 +8558,7 @@
     },
     {
       "rank": 612,
-      "change": 389,
+      "change": 0,
       "login": "TommyLemon",
       "name": "TommyLemon",
       "location": "Shenzhen,Guangdong,China",
@@ -8572,7 +8572,7 @@
     },
     {
       "rank": 613,
-      "change": 388,
+      "change": 0,
       "login": "BPI-SINOVOIP",
       "name": "Banana Pi -BPI",
       "location": "Shenzhen,China",
@@ -8586,7 +8586,7 @@
     },
     {
       "rank": 614,
-      "change": 387,
+      "change": 0,
       "login": "sfzhang15",
       "name": "Shifeng Zhang",
       "location": "Beijing, China",
@@ -8600,7 +8600,7 @@
     },
     {
       "rank": 615,
-      "change": 386,
+      "change": 0,
       "login": "materliu",
       "name": "刘炬光",
       "location": "Beijing, china",
@@ -8614,7 +8614,7 @@
     },
     {
       "rank": 616,
-      "change": 385,
+      "change": 0,
       "login": "DavidCai1111",
       "name": "David Cai",
       "location": "Shanghai, China",
@@ -8628,7 +8628,7 @@
     },
     {
       "rank": 617,
-      "change": 384,
+      "change": 0,
       "login": "mzlogin",
       "name": "Zhuang Ma",
       "location": "Wuhan, China",
@@ -8642,7 +8642,7 @@
     },
     {
       "rank": 618,
-      "change": 383,
+      "change": 0,
       "login": "otakustay",
       "name": "Gray Zhang",
       "location": "Shanghai China",
@@ -8656,7 +8656,7 @@
     },
     {
       "rank": 619,
-      "change": 382,
+      "change": 0,
       "login": "We5ter",
       "name": "Wester",
       "location": "China",
@@ -8670,7 +8670,7 @@
     },
     {
       "rank": 620,
-      "change": 381,
+      "change": 0,
       "login": "Lienol",
       "name": "Li2nOnline",
       "location": "Macau. China",
@@ -8684,7 +8684,7 @@
     },
     {
       "rank": 621,
-      "change": 380,
+      "change": 0,
       "login": "EYHN",
       "name": "EYHN",
       "location": "Shanghai, China",
@@ -8698,7 +8698,7 @@
     },
     {
       "rank": 622,
-      "change": 379,
+      "change": 0,
       "login": "Kensuke-Hinata",
       "name": "ypcpy",
       "location": "Shenzhen, China",
@@ -8712,7 +8712,7 @@
     },
     {
       "rank": 623,
-      "change": 378,
+      "change": 0,
       "login": "allenwong",
       "name": "Allen Wang",
       "location": "Hangzhou, China.",
@@ -8726,7 +8726,7 @@
     },
     {
       "rank": 624,
-      "change": 377,
+      "change": 0,
       "login": "WinMin",
       "name": "swing",
       "location": "Beijing,China",
@@ -8740,7 +8740,7 @@
     },
     {
       "rank": 625,
-      "change": 376,
+      "change": 0,
       "login": "unixzii",
       "name": "Cyandev",
       "location": "Hangzhou, China",
@@ -8754,7 +8754,7 @@
     },
     {
       "rank": 626,
-      "change": 375,
+      "change": 0,
       "login": "linw7",
       "name": "TeeKee",
       "location": "GuangZhou, China",
@@ -8768,7 +8768,7 @@
     },
     {
       "rank": 627,
-      "change": 374,
+      "change": 0,
       "login": "robbin",
       "name": "Robbin Fan (范凯)",
       "location": "Shanghai, China",
@@ -8782,7 +8782,7 @@
     },
     {
       "rank": 628,
-      "change": 373,
+      "change": 0,
       "login": "netcan",
       "name": "Netcan",
       "location": "Shanghai, China",
@@ -8796,7 +8796,7 @@
     },
     {
       "rank": 629,
-      "change": 372,
+      "change": 0,
       "login": "LinuxSuRen",
       "name": "Rick",
       "location": "Beijing, China",
@@ -8810,7 +8810,7 @@
     },
     {
       "rank": 630,
-      "change": 371,
+      "change": 0,
       "login": "eyounx",
       "name": "Yang Yu",
       "location": "Nanjing, China",
@@ -8824,7 +8824,7 @@
     },
     {
       "rank": 631,
-      "change": 370,
+      "change": 0,
       "login": "ryanhoo",
       "name": "Ryan Hoo",
       "location": "Shenzhen, China.",
@@ -8838,7 +8838,7 @@
     },
     {
       "rank": 632,
-      "change": 369,
+      "change": 0,
       "login": "suceser",
       "name": "苏策",
       "location": "Hangzhou, China",
@@ -8852,7 +8852,7 @@
     },
     {
       "rank": 633,
-      "change": 368,
+      "change": 0,
       "login": "luckybilly",
       "name": "齐翊(学义)",
       "location": "Hangzhou, China",
@@ -8866,7 +8866,7 @@
     },
     {
       "rank": 634,
-      "change": 367,
+      "change": 0,
       "login": "xjdrew",
       "name": "xjdrew",
       "location": "Guangzhou, China",
@@ -8880,7 +8880,7 @@
     },
     {
       "rank": 635,
-      "change": 366,
+      "change": 0,
       "login": "axetroy",
       "name": "Axetroy",
       "location": "NanNing, China",
@@ -8894,7 +8894,7 @@
     },
     {
       "rank": 636,
-      "change": 365,
+      "change": 0,
       "login": "wuyr",
       "name": "陈小缘",
       "location": "Zhaoqing, Guangdong, China",
@@ -8908,7 +8908,7 @@
     },
     {
       "rank": 637,
-      "change": 364,
+      "change": 0,
       "login": "sunner",
       "name": "Sun Zhigang",
       "location": "Beijing, China",
@@ -8922,7 +8922,7 @@
     },
     {
       "rank": 638,
-      "change": 363,
+      "change": 0,
       "login": "JackJiang2011",
       "name": "Jack Jiang",
       "location": "Suzhou, China",
@@ -8936,7 +8936,7 @@
     },
     {
       "rank": 639,
-      "change": 362,
+      "change": 0,
       "login": "lifa123",
       "name": "muuk",
       "location": "china",
@@ -8950,7 +8950,7 @@
     },
     {
       "rank": 640,
-      "change": 361,
+      "change": 0,
       "login": "ezshine",
       "name": "大帅老猿",
       "location": "Beijing,China",
@@ -8964,7 +8964,7 @@
     },
     {
       "rank": 641,
-      "change": 360,
+      "change": 0,
       "login": "yjhjstz",
       "name": "Jianghua.yjh",
       "location": "Hangzhou, China",
@@ -8978,7 +8978,7 @@
     },
     {
       "rank": 642,
-      "change": 359,
+      "change": 0,
       "login": "huluoyang",
       "name": "胡落阳",
       "location": "China, Suzhou",
@@ -8992,7 +8992,7 @@
     },
     {
       "rank": 643,
-      "change": 358,
+      "change": 0,
       "login": "qfish",
       "name": "QFish",
       "location": "Beijing, China",
@@ -9006,7 +9006,7 @@
     },
     {
       "rank": 644,
-      "change": 357,
+      "change": 0,
       "login": "EllanJiang",
       "name": "Ellan Jiang",
       "location": "Beijing, China",
@@ -9020,7 +9020,7 @@
     },
     {
       "rank": 645,
-      "change": 356,
+      "change": 0,
       "login": "davyxu",
       "name": "Davy xu",
       "location": "Chengdu  Sichuan, China",
@@ -9034,7 +9034,7 @@
     },
     {
       "rank": 646,
-      "change": 355,
+      "change": 0,
       "login": "cymcsg",
       "name": "MarshalChen",
       "location": "Beijing,China",
@@ -9048,7 +9048,7 @@
     },
     {
       "rank": 647,
-      "change": 354,
+      "change": 0,
       "login": "qiuyuzhou",
       "name": "Qiu Yuzhou",
       "location": "ShenZhen, China",
@@ -9062,7 +9062,7 @@
     },
     {
       "rank": 648,
-      "change": 353,
+      "change": 0,
       "login": "qinix",
       "name": "Eric Zhang",
       "location": "Beijing, China",
@@ -9076,7 +9076,7 @@
     },
     {
       "rank": 649,
-      "change": 352,
+      "change": 0,
       "login": "pujiaxin33",
       "name": "暴走的鑫鑫",
       "location": "china,chengdu",
@@ -9090,7 +9090,7 @@
     },
     {
       "rank": 650,
-      "change": 351,
+      "change": 0,
       "login": "dathlin",
       "name": "Richard.Hu",
       "location": "China",
@@ -9104,7 +9104,7 @@
     },
     {
       "rank": 651,
-      "change": 350,
+      "change": 0,
       "login": "WeActStudio",
       "name": "WeAct Studio",
       "location": "GuangDong,China",
@@ -9118,7 +9118,7 @@
     },
     {
       "rank": 652,
-      "change": 349,
+      "change": 0,
       "login": "naturomics",
       "name": "Huadong Liao",
       "location": "Chongqing, China",
@@ -9132,7 +9132,7 @@
     },
     {
       "rank": 653,
-      "change": 348,
+      "change": 0,
       "login": "iccfish",
       "name": "iFish",
       "location": "China",
@@ -9146,7 +9146,7 @@
     },
     {
       "rank": 654,
-      "change": 347,
+      "change": 0,
       "login": "isnowfy",
       "name": "Rui Wang",
       "location": "China",
@@ -9160,7 +9160,7 @@
     },
     {
       "rank": 655,
-      "change": 346,
+      "change": 0,
       "login": "lightSky",
       "name": "lightSky",
       "location": "China,HangZhou",
@@ -9174,7 +9174,7 @@
     },
     {
       "rank": 656,
-      "change": 345,
+      "change": 0,
       "login": "MarchLiu",
       "name": "Mars Liu",
       "location": "China",
@@ -9188,7 +9188,7 @@
     },
     {
       "rank": 657,
-      "change": 344,
+      "change": 0,
       "login": "spacewander",
       "name": "罗泽轩",
       "location": "Hangzhou,China",
@@ -9202,7 +9202,7 @@
     },
     {
       "rank": 658,
-      "change": 343,
+      "change": 0,
       "login": "He-Pin",
       "name": "He-Pin(kerr)",
       "location": "Hangzhou, Zhejiang, China",
@@ -9216,7 +9216,7 @@
     },
     {
       "rank": 659,
-      "change": 342,
+      "change": 0,
       "login": "cmzy",
       "name": "Andy Zhang",
       "location": "Beijing of China",
@@ -9230,7 +9230,7 @@
     },
     {
       "rank": 660,
-      "change": 341,
+      "change": 0,
       "login": "the1812",
       "name": "Grant Howard",
       "location": "Hangzhou, China",
@@ -9244,7 +9244,7 @@
     },
     {
       "rank": 661,
-      "change": 340,
+      "change": 0,
       "login": "BernardXiong",
       "name": "Bernard Xiong",
       "location": "Shanghai China",
@@ -9258,7 +9258,7 @@
     },
     {
       "rank": 662,
-      "change": 339,
+      "change": 0,
       "login": "jiangxin",
       "name": "Jiang Xin",
       "location": "Beijing, China",
@@ -9272,7 +9272,7 @@
     },
     {
       "rank": 663,
-      "change": 338,
+      "change": 0,
       "login": "buqiyuan",
       "name": "bqy_fe",
       "location": "GuangZhou, China",
@@ -9286,7 +9286,7 @@
     },
     {
       "rank": 664,
-      "change": 337,
+      "change": 0,
       "login": "v5tech",
       "name": null,
       "location": "Xi'an China",
@@ -9300,7 +9300,7 @@
     },
     {
       "rank": 665,
-      "change": 336,
+      "change": 0,
       "login": "wuhan005",
       "name": "E99p1ant",
       "location": "Shanghai, China",
@@ -9314,7 +9314,7 @@
     },
     {
       "rank": 666,
-      "change": 335,
+      "change": 0,
       "login": "race604",
       "name": "Jimmy",
       "location": "Beijing, China",
@@ -9328,7 +9328,7 @@
     },
     {
       "rank": 667,
-      "change": 334,
+      "change": 0,
       "login": "yuguo",
       "name": "余果",
       "location": "Shenzhen, China",
@@ -9342,7 +9342,7 @@
     },
     {
       "rank": 668,
-      "change": 333,
+      "change": 0,
       "login": "septs",
       "name": "septs",
       "location": "China",
@@ -9356,7 +9356,7 @@
     },
     {
       "rank": 669,
-      "change": 332,
+      "change": 0,
       "login": "stanzhai",
       "name": "Stan Zhai",
       "location": "Beijing, China",
@@ -9370,7 +9370,7 @@
     },
     {
       "rank": 670,
-      "change": 331,
+      "change": 0,
       "login": "wengkai",
       "name": "Weng Kai",
       "location": "Hangzhou, CHINA",
@@ -9384,7 +9384,7 @@
     },
     {
       "rank": 671,
-      "change": 330,
+      "change": 0,
       "login": "cpselvis",
       "name": "cpselvis",
       "location": "Shenzhen, China",
@@ -9398,7 +9398,7 @@
     },
     {
       "rank": 672,
-      "change": 329,
+      "change": 0,
       "login": "chyroc",
       "name": "chyroc",
       "location": "China",
@@ -9412,7 +9412,7 @@
     },
     {
       "rank": 673,
-      "change": 328,
+      "change": 0,
       "login": "chaozh",
       "name": "chaozh",
       "location": "China",
@@ -9426,7 +9426,7 @@
     },
     {
       "rank": 674,
-      "change": 327,
+      "change": 0,
       "login": "qinyuhang",
       "name": "秦宇航",
       "location": "China",
@@ -9440,7 +9440,7 @@
     },
     {
       "rank": 675,
-      "change": 326,
+      "change": 0,
       "login": "MuYunyun",
       "name": null,
       "location": "Shanghai, China",
@@ -9454,7 +9454,7 @@
     },
     {
       "rank": 676,
-      "change": 325,
+      "change": 0,
       "login": "tsejx",
       "name": "Jehoshaphat Tse",
       "location": "Guangzhou China",
@@ -9468,7 +9468,7 @@
     },
     {
       "rank": 677,
-      "change": 324,
+      "change": 0,
       "login": "danfenghong",
       "name": "Danfeng Hong",
       "location": "9 dengzhuangnanlu, Haidian Distinct, Beijing, China",
@@ -9482,7 +9482,7 @@
     },
     {
       "rank": 678,
-      "change": 323,
+      "change": 0,
       "login": "Dod-o",
       "name": "Tengchao Lv",
       "location": "China",
@@ -9496,7 +9496,7 @@
     },
     {
       "rank": 679,
-      "change": 322,
+      "change": 0,
       "login": "xiaolongzuo",
       "name": "Xiaolong Zuo",
       "location": "Bei Jing in China",
@@ -9510,7 +9510,7 @@
     },
     {
       "rank": 680,
-      "change": 321,
+      "change": 0,
       "login": "BeyondVincent",
       "name": "破船",
       "location": "Kunming, Yunnan, China",
@@ -9524,7 +9524,7 @@
     },
     {
       "rank": 681,
-      "change": 320,
+      "change": 0,
       "login": "LingyuCoder",
       "name": "harpsealjs",
       "location": "China",
@@ -9538,7 +9538,7 @@
     },
     {
       "rank": 682,
-      "change": 319,
+      "change": 0,
       "login": "EyreFree",
       "name": "EyreFree",
       "location": "Wuxi, China",
@@ -9552,7 +9552,7 @@
     },
     {
       "rank": 683,
-      "change": 318,
+      "change": 0,
       "login": "mowentian",
       "name": "Huang Panpan",
       "location": "HangZhou. China",
@@ -9566,7 +9566,7 @@
     },
     {
       "rank": 684,
-      "change": 317,
+      "change": 0,
       "login": "qwqdanchun",
       "name": "簞純",
       "location": "China",
@@ -9580,7 +9580,7 @@
     },
     {
       "rank": 685,
-      "change": 316,
+      "change": 0,
       "login": "conwnet",
       "name": "netcon",
       "location": "China",
@@ -9594,7 +9594,7 @@
     },
     {
       "rank": 686,
-      "change": 315,
+      "change": 0,
       "login": "jkchao",
       "name": "三毛",
       "location": "Shanghai China",
@@ -9608,7 +9608,7 @@
     },
     {
       "rank": 687,
-      "change": 314,
+      "change": 0,
       "login": "ccbikai",
       "name": "面条",
       "location": "NanJing,China",
@@ -9622,7 +9622,7 @@
     },
     {
       "rank": 688,
-      "change": 313,
+      "change": 0,
       "login": "renkun-ken",
       "name": "Kun Ren",
       "location": "Shanghai, China",
@@ -9636,7 +9636,7 @@
     },
     {
       "rank": 689,
-      "change": 312,
+      "change": 0,
       "login": "Leopoldthecoder",
       "name": "Yi Yang",
       "location": "Shanghai, China",
@@ -9650,7 +9650,7 @@
     },
     {
       "rank": 690,
-      "change": 311,
+      "change": 0,
       "login": "ryan4yin",
       "name": "Ryan Yin",
       "location": "China",
@@ -9664,7 +9664,7 @@
     },
     {
       "rank": 691,
-      "change": 310,
+      "change": 0,
       "login": "lawlite19",
       "name": "lawlite",
       "location": "Nanjing, China",
@@ -9678,7 +9678,7 @@
     },
     {
       "rank": 692,
-      "change": 309,
+      "change": 0,
       "login": "kuangliu",
       "name": null,
       "location": "Hangzhou, China",
@@ -9692,7 +9692,7 @@
     },
     {
       "rank": 693,
-      "change": 308,
+      "change": 0,
       "login": "lzxb",
       "name": "lzxb",
       "location": "Shenzhen, China",
@@ -9706,7 +9706,7 @@
     },
     {
       "rank": 694,
-      "change": 307,
+      "change": 0,
       "login": "surunzi",
       "name": "RedHoodSu",
       "location": "Guangzhou, China",
@@ -9720,7 +9720,7 @@
     },
     {
       "rank": 695,
-      "change": 306,
+      "change": 0,
       "login": "laobie",
       "name": "Jaeger",
       "location": "Shanghai, China",
@@ -9734,7 +9734,7 @@
     },
     {
       "rank": 696,
-      "change": 305,
+      "change": 0,
       "login": "sun0225SUN",
       "name": "Guoqi Sun",
       "location": "Dalifornia China",
@@ -9748,7 +9748,7 @@
     },
     {
       "rank": 697,
-      "change": 304,
+      "change": 0,
       "login": "sequencer",
       "name": "Jiuyang Liu",
       "location": "Wuhan, China",
@@ -9762,7 +9762,7 @@
     },
     {
       "rank": 698,
-      "change": 303,
+      "change": 0,
       "login": "wuxianlin",
       "name": "wuxianlin",
       "location": "China",
@@ -9776,7 +9776,7 @@
     },
     {
       "rank": 699,
-      "change": 302,
+      "change": 0,
       "login": "slievrly",
       "name": "jimin",
       "location": "Beijing, China",
@@ -9790,7 +9790,7 @@
     },
     {
       "rank": 700,
-      "change": 301,
+      "change": 0,
       "login": "chenssy89",
       "name": "chenssy",
       "location": "Shen Zhen  in China",
@@ -9804,7 +9804,7 @@
     },
     {
       "rank": 701,
-      "change": 300,
+      "change": 0,
       "login": "liguge",
       "name": "Chao He",
       "location": "Beijing, China",
@@ -9818,7 +9818,7 @@
     },
     {
       "rank": 702,
-      "change": 299,
+      "change": 0,
       "login": "maxzhang",
       "name": "maxzhang",
       "location": "Beijing, China",
@@ -9832,7 +9832,7 @@
     },
     {
       "rank": 703,
-      "change": 298,
+      "change": 0,
       "login": "snowdream",
       "name": "snowdream",
       "location": "China",
@@ -9846,7 +9846,7 @@
     },
     {
       "rank": 704,
-      "change": 297,
+      "change": 0,
       "login": "DeveloperLx",
       "name": "DeveloperLx",
       "location": "Beijing, China.",
@@ -9860,7 +9860,7 @@
     },
     {
       "rank": 705,
-      "change": 296,
+      "change": 0,
       "login": "xianyi",
       "name": "Zhang Xianyi",
       "location": "Beijing, China",
@@ -9874,7 +9874,7 @@
     },
     {
       "rank": 706,
-      "change": 295,
+      "change": 0,
       "login": "lotabout",
       "name": "Jinzhou Zhang",
       "location": "Shanghai, China",
@@ -9888,7 +9888,7 @@
     },
     {
       "rank": 707,
-      "change": 294,
+      "change": 0,
       "login": "shenzhe",
       "name": "半桶水",
       "location": "BeiJing China",
@@ -9902,7 +9902,7 @@
     },
     {
       "rank": 708,
-      "change": 293,
+      "change": 0,
       "login": "jamesge",
       "name": null,
       "location": "Shanghai, China",
@@ -9916,7 +9916,7 @@
     },
     {
       "rank": 709,
-      "change": 292,
+      "change": 0,
       "login": "BlackHole1",
       "name": "Kevin Cui",
       "location": "Hangzhou, China",
@@ -9930,7 +9930,7 @@
     },
     {
       "rank": 710,
-      "change": 291,
+      "change": 0,
       "login": "watashi",
       "name": "Zejun Wu",
       "location": "Hangzhou, China",
@@ -9944,7 +9944,7 @@
     },
     {
       "rank": 711,
-      "change": 290,
+      "change": 0,
       "login": "qiujuer",
       "name": "Qiujuer",
       "location": "China Shenzhen",
@@ -9958,7 +9958,7 @@
     },
     {
       "rank": 712,
-      "change": 289,
+      "change": 0,
       "login": "lzwjava",
       "name": "Zhiwei Li",
       "location": "Guangzhou, China",
@@ -9972,7 +9972,7 @@
     },
     {
       "rank": 713,
-      "change": 288,
+      "change": 0,
       "login": "TurtleZhong",
       "name": "Xinliang Zhong",
       "location": "Hang Zhou，China",
@@ -9986,7 +9986,7 @@
     },
     {
       "rank": 714,
-      "change": 287,
+      "change": 0,
       "login": "Gracker",
       "name": "Jianwu Gao",
       "location": "China",
@@ -10000,7 +10000,7 @@
     },
     {
       "rank": 715,
-      "change": 286,
+      "change": 0,
       "login": "microzz",
       "name": "Zhaohui",
       "location": "China",
@@ -10014,7 +10014,7 @@
     },
     {
       "rank": 716,
-      "change": 285,
+      "change": 0,
       "login": "zswang",
       "name": "王集鹄",
       "location": "Beijing,China",
@@ -10028,7 +10028,7 @@
     },
     {
       "rank": 717,
-      "change": 284,
+      "change": 0,
       "login": "retme7",
       "name": "Di Shen",
       "location": "China",
@@ -10042,7 +10042,7 @@
     },
     {
       "rank": 718,
-      "change": 283,
+      "change": 0,
       "login": "ShixiangWang",
       "name": "Shixiang Wang (王诗翔)",
       "location": "Changsha, China",
@@ -10056,7 +10056,7 @@
     },
     {
       "rank": 719,
-      "change": 282,
+      "change": 0,
       "login": "jenly1314",
       "name": "Jenly",
       "location": "China",
@@ -10070,7 +10070,7 @@
     },
     {
       "rank": 720,
-      "change": 281,
+      "change": 0,
       "login": "fate0",
       "name": null,
       "location": "China",
@@ -10084,7 +10084,7 @@
     },
     {
       "rank": 721,
-      "change": 280,
+      "change": 0,
       "login": "MiYogurt",
       "name": "Yugo",
       "location": "China",
@@ -10098,7 +10098,7 @@
     },
     {
       "rank": 722,
-      "change": 279,
+      "change": 0,
       "login": "dreampiggy",
       "name": "DreamPiggy",
       "location": "China",
@@ -10112,7 +10112,7 @@
     },
     {
       "rank": 723,
-      "change": 278,
+      "change": 0,
       "login": "kener",
       "name": "linfeng",
       "location": "china",
@@ -10126,7 +10126,7 @@
     },
     {
       "rank": 724,
-      "change": 277,
+      "change": 0,
       "login": "jackwener",
       "name": "jakevin",
       "location": "Hangzhou, China",
@@ -10140,7 +10140,7 @@
     },
     {
       "rank": 725,
-      "change": 276,
+      "change": 0,
       "login": "luzexi",
       "name": "陆泽西",
       "location": "China",
@@ -10154,7 +10154,7 @@
     },
     {
       "rank": 726,
-      "change": 275,
+      "change": 0,
       "login": "SocialSisterYi",
       "name": "社会易姐QwQ",
       "location": "Beijing,China",
@@ -10168,7 +10168,7 @@
     },
     {
       "rank": 727,
-      "change": 274,
+      "change": 0,
       "login": "vivian8725118",
       "name": "Vivian",
       "location": "Beijing,China",
@@ -10182,7 +10182,7 @@
     },
     {
       "rank": 728,
-      "change": 273,
+      "change": 0,
       "login": "breezewish",
       "name": "Wenxuan",
       "location": "Shanghai, China ⇋ Guangzhou, China",
@@ -10196,7 +10196,7 @@
     },
     {
       "rank": 729,
-      "change": 272,
+      "change": 0,
       "login": "Sharpiless",
       "name": null,
       "location": "Beijing, China",
@@ -10210,7 +10210,7 @@
     },
     {
       "rank": 730,
-      "change": 271,
+      "change": 0,
       "login": "zhangguanzhang",
       "name": "zhangguanzhang",
       "location": "Wuhan, China",
@@ -10224,7 +10224,7 @@
     },
     {
       "rank": 731,
-      "change": 270,
+      "change": 0,
       "login": "wandergis",
       "name": "wandergis",
       "location": "Hangzhou,China",
@@ -10238,7 +10238,7 @@
     },
     {
       "rank": 732,
-      "change": 269,
+      "change": 0,
       "login": "ipader",
       "name": "DeMinds",
       "location": "Suzhou, China",
@@ -10252,7 +10252,7 @@
     },
     {
       "rank": 733,
-      "change": 268,
+      "change": 0,
       "login": "wofeiwo",
       "name": "GaRY",
       "location": "China",
@@ -10266,7 +10266,7 @@
     },
     {
       "rank": 734,
-      "change": 267,
+      "change": 0,
       "login": "joyqi",
       "name": "joyqi",
       "location": "Hangzhou, China",
@@ -10280,7 +10280,7 @@
     },
     {
       "rank": 735,
-      "change": 266,
+      "change": 0,
       "login": "Kr1s77",
       "name": "Kris Liang",
       "location": "china",
@@ -10294,7 +10294,7 @@
     },
     {
       "rank": 736,
-      "change": 265,
+      "change": 0,
       "login": "ifzhang",
       "name": "Yifu Zhang",
       "location": "China",
@@ -10308,7 +10308,7 @@
     },
     {
       "rank": 737,
-      "change": 264,
+      "change": 0,
       "login": "mo-xiaoxi",
       "name": "moxiaoxi",
       "location": "China",
@@ -10322,7 +10322,7 @@
     },
     {
       "rank": 738,
-      "change": 263,
+      "change": 0,
       "login": "hujiulong",
       "name": null,
       "location": "Beijing, China",
@@ -10336,7 +10336,7 @@
     },
     {
       "rank": 739,
-      "change": 262,
+      "change": 0,
       "login": "hongru",
       "name": "岑安",
       "location": "HangZhou China",
@@ -10350,7 +10350,7 @@
     },
     {
       "rank": 740,
-      "change": 261,
+      "change": 0,
       "login": "TIGERB",
       "name": "施展",
       "location": "Beijing,China",
@@ -10364,7 +10364,7 @@
     },
     {
       "rank": 741,
-      "change": 260,
+      "change": 0,
       "login": "JJYing",
       "name": "JJ Ying",
       "location": "Shanghai, China",
@@ -10378,7 +10378,7 @@
     },
     {
       "rank": 742,
-      "change": 259,
+      "change": 0,
       "login": "YSGStudyHards",
       "name": "追逐时光者",
       "location": "ShenZhen,China",
@@ -10392,7 +10392,7 @@
     },
     {
       "rank": 743,
-      "change": 258,
+      "change": 0,
       "login": "singgel",
       "name": "阿拉斯加大闸蟹",
       "location": "China,Beijing",
@@ -10406,7 +10406,7 @@
     },
     {
       "rank": 744,
-      "change": 257,
+      "change": 0,
       "login": "tonybase",
       "name": "Tony.Chen",
       "location": "China, Shanghai",
@@ -10420,7 +10420,7 @@
     },
     {
       "rank": 745,
-      "change": 256,
+      "change": 0,
       "login": "leohxj",
       "name": "Leo Hui",
       "location": "Nanjing, China",
@@ -10434,7 +10434,7 @@
     },
     {
       "rank": 746,
-      "change": 255,
+      "change": 0,
       "login": "mritd",
       "name": "mritd",
       "location": "Beijing, China",
@@ -10448,7 +10448,7 @@
     },
     {
       "rank": 747,
-      "change": 254,
+      "change": 0,
       "login": "motianhuo",
       "name": "Allen Juns ",
       "location": "Beijing, China",
@@ -10462,7 +10462,7 @@
     },
     {
       "rank": 748,
-      "change": 253,
+      "change": 0,
       "login": "lhmouse",
       "name": "LIU Hao",
       "location": "Great People's Republic of China",
@@ -10476,7 +10476,7 @@
     },
     {
       "rank": 749,
-      "change": 252,
+      "change": 0,
       "login": "ftiasch",
       "name": "Xiaoxu Guo",
       "location": "Beijing, China",
@@ -10490,7 +10490,7 @@
     },
     {
       "rank": 750,
-      "change": 251,
+      "change": 0,
       "login": "tinyfool",
       "name": "HaoPeiqiang",
       "location": "Shanghai,China",
@@ -10504,7 +10504,7 @@
     },
     {
       "rank": 751,
-      "change": 250,
+      "change": 0,
       "login": "fatbobman",
       "name": "东坡肘子",
       "location": "China",
@@ -10518,7 +10518,7 @@
     },
     {
       "rank": 752,
-      "change": 249,
+      "change": 0,
       "login": "avwo",
       "name": "avenwu",
       "location": "shenzhen, China",
@@ -10532,7 +10532,7 @@
     },
     {
       "rank": 753,
-      "change": 248,
+      "change": 0,
       "login": "lni",
       "name": "lni",
       "location": "Shanghai, China",
@@ -10546,7 +10546,7 @@
     },
     {
       "rank": 754,
-      "change": 247,
+      "change": 0,
       "login": "gatieme",
       "name": "CHENG Jean",
       "location": "Hang Zhou, Zhe Jiang, China",
@@ -10560,7 +10560,7 @@
     },
     {
       "rank": 755,
-      "change": 246,
+      "change": 0,
       "login": "youlookwhat",
       "name": "景彬",
       "location": "Wuhan China",
@@ -10574,7 +10574,7 @@
     },
     {
       "rank": 756,
-      "change": 245,
+      "change": 0,
       "login": "GeekLiB",
       "name": "Albert Lee",
       "location": "ShangHai,China",
@@ -10588,7 +10588,7 @@
     },
     {
       "rank": 757,
-      "change": 244,
+      "change": 0,
       "login": "alibaba-oss",
       "name": "Alibaba OSS",
       "location": "China,Hangzhou",
@@ -10602,7 +10602,7 @@
     },
     {
       "rank": 758,
-      "change": 243,
+      "change": 0,
       "login": "lonePatient",
       "name": "Weitang Liu",
       "location": "HangZhou in China",
@@ -10616,7 +10616,7 @@
     },
     {
       "rank": 759,
-      "change": 242,
+      "change": 0,
       "login": "ltebean",
       "name": "Leo",
       "location": "Shanghai, China",
@@ -10630,7 +10630,7 @@
     },
     {
       "rank": 760,
-      "change": 241,
+      "change": 0,
       "login": "idealclover",
       "name": "idealclover",
       "location": "Beijing, China",
@@ -10644,7 +10644,7 @@
     },
     {
       "rank": 761,
-      "change": 240,
+      "change": 0,
       "login": "adah1972",
       "name": "Wu Yongwei",
       "location": "Shanghai, China",
@@ -10658,7 +10658,7 @@
     },
     {
       "rank": 762,
-      "change": 239,
+      "change": 0,
       "login": "zTrix",
       "name": "Wenlei Zhu",
       "location": "Beijing, China",
@@ -10672,7 +10672,7 @@
     },
     {
       "rank": 763,
-      "change": 238,
+      "change": 0,
       "login": "xicilion",
       "name": "响马",
       "location": "Nanjing, China",
@@ -10686,7 +10686,7 @@
     },
     {
       "rank": 764,
-      "change": 237,
+      "change": 0,
       "login": "Wh0ale",
       "name": null,
       "location": "China",
@@ -10700,7 +10700,7 @@
     },
     {
       "rank": 765,
-      "change": 236,
+      "change": 0,
       "login": "zsxsoft",
       "name": "zsx",
       "location": "Fujian, China",
@@ -10714,7 +10714,7 @@
     },
     {
       "rank": 766,
-      "change": 235,
+      "change": 0,
       "login": "zq2599",
       "name": "程序员欣宸",
       "location": "Shenzhen,China",
@@ -10728,7 +10728,7 @@
     },
     {
       "rank": 767,
-      "change": 234,
+      "change": 0,
       "login": "sunniejs",
       "name": "sunnie",
       "location": "Shanghai, China",
@@ -10742,7 +10742,7 @@
     },
     {
       "rank": 768,
-      "change": 233,
+      "change": 0,
       "login": "longcw",
       "name": "Long Chen",
       "location": "Beijing, China",
@@ -10756,7 +10756,7 @@
     },
     {
       "rank": 769,
-      "change": 232,
+      "change": 0,
       "login": "zhuhuibeishadiao",
       "name": "猪会被杀掉",
       "location": "China",
@@ -10770,7 +10770,7 @@
     },
     {
       "rank": 770,
-      "change": 231,
+      "change": 0,
       "login": "henryyan",
       "name": "Henry Yan",
       "location": "HangZhou China",
@@ -10784,7 +10784,7 @@
     },
     {
       "rank": 771,
-      "change": 230,
+      "change": 0,
       "login": "lancy",
       "name": "Chenyu Lan",
       "location": "Beijing, China",
@@ -10798,7 +10798,7 @@
     },
     {
       "rank": 772,
-      "change": 229,
+      "change": 0,
       "login": "ithewei",
       "name": "ithewei",
       "location": "Shanghai, China",
@@ -10812,7 +10812,7 @@
     },
     {
       "rank": 773,
-      "change": 228,
+      "change": 0,
       "login": "LC044",
       "name": "SiYuan",
       "location": "Xi'an, China",
@@ -10826,7 +10826,7 @@
     },
     {
       "rank": 774,
-      "change": 227,
+      "change": 0,
       "login": "maomao1996",
       "name": "maomao",
       "location": "China",
@@ -10840,7 +10840,7 @@
     },
     {
       "rank": 775,
-      "change": 226,
+      "change": 0,
       "login": "ShenQingchuan",
       "name": "沈青川",
       "location": "China, Shenzhen ✈️ Guangzhou ✈️ Chengdu",
@@ -10854,7 +10854,7 @@
     },
     {
       "rank": 776,
-      "change": 225,
+      "change": 0,
       "login": "xxg1413",
       "name": "P小二",
       "location": "China",
@@ -10868,7 +10868,7 @@
     },
     {
       "rank": 777,
-      "change": 224,
+      "change": 0,
       "login": "lonng",
       "name": "Henry LONNG",
       "location": "China",
@@ -10882,7 +10882,7 @@
     },
     {
       "rank": 778,
-      "change": 223,
+      "change": 0,
       "login": "iwillwen",
       "name": "Will Wen Gunn",
       "location": "Hangzhou,China",
@@ -10896,7 +10896,7 @@
     },
     {
       "rank": 779,
-      "change": 222,
+      "change": 0,
       "login": "pandao",
       "name": "pandao",
       "location": "Xiamen, China",
@@ -10910,7 +10910,7 @@
     },
     {
       "rank": 780,
-      "change": 221,
+      "change": 0,
       "login": "fengjiachun",
       "name": "jeremyhi",
       "location": "Hangzhou/Dalian China",
@@ -10924,7 +10924,7 @@
     },
     {
       "rank": 781,
-      "change": 220,
+      "change": 0,
       "login": "wangbin579",
       "name": "Bin Wang",
       "location": "Beijing, China",
@@ -10938,7 +10938,7 @@
     },
     {
       "rank": 782,
-      "change": 219,
+      "change": 0,
       "login": "libdriver",
       "name": "LibDriver",
       "location": "China",
@@ -10952,7 +10952,7 @@
     },
     {
       "rank": 783,
-      "change": 218,
+      "change": 0,
       "login": "simaQ",
       "name": "Jack Chang",
       "location": "Hangzhou, China",
@@ -10966,7 +10966,7 @@
     },
     {
       "rank": 784,
-      "change": 217,
+      "change": 0,
       "login": "TooBug",
       "name": "TooBug",
       "location": "ShenZhen, China",
@@ -10980,7 +10980,7 @@
     },
     {
       "rank": 785,
-      "change": 216,
+      "change": 0,
       "login": "qiankanglai",
       "name": "Kanglai Qian",
       "location": "Shanghai, China",
@@ -10994,7 +10994,7 @@
     },
     {
       "rank": 786,
-      "change": 215,
+      "change": 0,
       "login": "OneSourceCat",
       "name": "隐形人真忙",
       "location": "China",
@@ -11008,7 +11008,7 @@
     },
     {
       "rank": 787,
-      "change": 214,
+      "change": 0,
       "login": "yinxin630",
       "name": "碎碎酱",
       "location": "Beijing, China",
@@ -11022,7 +11022,7 @@
     },
     {
       "rank": 788,
-      "change": 213,
+      "change": 0,
       "login": "twose",
       "name": "twosee",
       "location": "China",
@@ -11036,7 +11036,7 @@
     },
     {
       "rank": 789,
-      "change": 212,
+      "change": 0,
       "login": "mozhu1024",
       "name": "陌竹",
       "location": "China",
@@ -11050,7 +11050,7 @@
     },
     {
       "rank": 790,
-      "change": 211,
+      "change": 0,
       "login": "wondertrader",
       "name": "wondertrader",
       "location": "SH, China",
@@ -11064,7 +11064,7 @@
     },
     {
       "rank": 791,
-      "change": 210,
+      "change": 0,
       "login": "yrom",
       "name": "Yrom Wang",
       "location": "China",
@@ -11078,7 +11078,7 @@
     },
     {
       "rank": 792,
-      "change": 209,
+      "change": 0,
       "login": "canisminor1990",
       "name": "CanisMinor",
       "location": "Chengdu China",
@@ -11092,7 +11092,7 @@
     },
     {
       "rank": 793,
-      "change": 208,
+      "change": 0,
       "login": "lw-lin",
       "name": "Liwei Lin",
       "location": "Beijing, China",
@@ -11106,7 +11106,7 @@
     },
     {
       "rank": 794,
-      "change": 207,
+      "change": 0,
       "login": "SuLingGG",
       "name": null,
       "location": "China",
@@ -11120,7 +11120,7 @@
     },
     {
       "rank": 795,
-      "change": 206,
+      "change": 0,
       "login": "moetayuko",
       "name": null,
       "location": "China",
@@ -11134,7 +11134,7 @@
     },
     {
       "rank": 796,
-      "change": 205,
+      "change": 0,
       "login": "nightire",
       "name": "余凡",
       "location": "Guiyang, China",
@@ -11148,7 +11148,7 @@
     },
     {
       "rank": 797,
-      "change": 204,
+      "change": 0,
       "login": "dualface",
       "name": "dualface",
       "location": "China",
@@ -11162,7 +11162,7 @@
     },
     {
       "rank": 798,
-      "change": 203,
+      "change": 0,
       "login": "bg5sbk",
       "name": "达达",
       "location": "Xiamen, Fujian, China",
@@ -11176,7 +11176,7 @@
     },
     {
       "rank": 799,
-      "change": 202,
+      "change": 0,
       "login": "kejinlu",
       "name": "Luke",
       "location": "Hangzhou, China",
@@ -11190,7 +11190,7 @@
     },
     {
       "rank": 800,
-      "change": 201,
+      "change": 0,
       "login": "zixun",
       "name": "陈奕龙(子循)",
       "location": "Hangzhou,ZheJiang,China",
@@ -11204,7 +11204,7 @@
     },
     {
       "rank": 801,
-      "change": 200,
+      "change": 0,
       "login": "Frank-Zhu",
       "name": "Frank-Zhu",
       "location": "Shanghai China",
@@ -11218,7 +11218,7 @@
     },
     {
       "rank": 802,
-      "change": 199,
+      "change": 0,
       "login": "tan-xu",
       "name": "Xu Tan (谭旭)",
       "location": "Beijing, China",
@@ -11232,7 +11232,7 @@
     },
     {
       "rank": 803,
-      "change": 198,
+      "change": 0,
       "login": "zhouxinyu",
       "name": "yukon",
       "location": "Hangzhou China",
@@ -11246,7 +11246,7 @@
     },
     {
       "rank": 804,
-      "change": 197,
+      "change": 0,
       "login": "Damao",
       "name": "bigCat",
       "location": "Shenzhen, China",
@@ -11260,7 +11260,7 @@
     },
     {
       "rank": 805,
-      "change": 196,
+      "change": 0,
       "login": "Alfred1984",
       "name": "Alfred数据室",
       "location": "Guangzhou, China",
@@ -11274,7 +11274,7 @@
     },
     {
       "rank": 806,
-      "change": 195,
+      "change": 0,
       "login": "pangudashu",
       "name": "盘古大叔",
       "location": "Beijing of China",
@@ -11288,7 +11288,7 @@
     },
     {
       "rank": 807,
-      "change": 194,
+      "change": 0,
       "login": "etheranl",
       "name": "王浩然",
       "location": "Beijing,China",
@@ -11302,7 +11302,7 @@
     },
     {
       "rank": 808,
-      "change": 193,
+      "change": 0,
       "login": "godweiyang",
       "name": "Yang Wei",
       "location": "Shanghai, China",
@@ -11316,7 +11316,7 @@
     },
     {
       "rank": 809,
-      "change": 192,
+      "change": 0,
       "login": "reorx",
       "name": "Xiao Meng",
       "location": "China",
@@ -11330,7 +11330,7 @@
     },
     {
       "rank": 810,
-      "change": 191,
+      "change": 0,
       "login": "chemdemo",
       "name": "衍良",
       "location": "Hangzhou, China",
@@ -11344,7 +11344,7 @@
     },
     {
       "rank": 811,
-      "change": 190,
+      "change": 0,
       "login": "rpplusplus",
       "name": "Xiaoxuan Tang",
       "location": "Beijing, China",
@@ -11358,7 +11358,7 @@
     },
     {
       "rank": 812,
-      "change": 189,
+      "change": 0,
       "login": "6ag",
       "name": "Jack Feng",
       "location": "China",
@@ -11372,7 +11372,7 @@
     },
     {
       "rank": 813,
-      "change": 188,
+      "change": 0,
       "login": "ybdt",
       "name": "ybdt",
       "location": "China",
@@ -11386,7 +11386,7 @@
     },
     {
       "rank": 814,
-      "change": 187,
+      "change": 0,
       "login": "beetlex-io",
       "name": "Henry",
       "location": "Guangzhou China",
@@ -11400,7 +11400,7 @@
     },
     {
       "rank": 815,
-      "change": 186,
+      "change": 0,
       "login": "mengzhuo",
       "name": "Meng Zhuo",
       "location": "Nanning, China",
@@ -11414,7 +11414,7 @@
     },
     {
       "rank": 816,
-      "change": 185,
+      "change": 0,
       "login": "lgn21st",
       "name": "Daniel Lv",
       "location": "Qingdao, Shandong, China",
@@ -11428,7 +11428,7 @@
     },
     {
       "rank": 817,
-      "change": 184,
+      "change": 0,
       "login": "fanpei91",
       "name": null,
       "location": "Chengdu, China",
@@ -11442,7 +11442,7 @@
     },
     {
       "rank": 818,
-      "change": 183,
+      "change": 0,
       "login": "hijiangtao",
       "name": "Tao Jiang",
       "location": "Beijing, China",
@@ -11456,7 +11456,7 @@
     },
     {
       "rank": 819,
-      "change": 182,
+      "change": 0,
       "login": "jasl",
       "name": "Jun Jiang",
       "location": "Beijing, China",
@@ -11470,7 +11470,7 @@
     },
     {
       "rank": 820,
-      "change": 181,
+      "change": 0,
       "login": "wosyingjun",
       "name": "应君",
       "location": "HangZhou,China",
@@ -11484,7 +11484,7 @@
     },
     {
       "rank": 821,
-      "change": 180,
+      "change": 0,
       "login": "Baiyuetribe",
       "name": "佰阅",
       "location": "China",
@@ -11498,7 +11498,7 @@
     },
     {
       "rank": 822,
-      "change": 179,
+      "change": 0,
       "login": "billryan",
       "name": "billryan",
       "location": "Shanghai, China",
@@ -11512,7 +11512,7 @@
     },
     {
       "rank": 823,
-      "change": 178,
+      "change": 0,
       "login": "ArthurChiao",
       "name": "Arthur",
       "location": "Shanghai, China",
@@ -11526,7 +11526,7 @@
     },
     {
       "rank": 824,
-      "change": 177,
+      "change": 0,
       "login": "Rockyzsu",
       "name": "Rocky Chen",
       "location": "China,ShenZhen",
@@ -11540,7 +11540,7 @@
     },
     {
       "rank": 825,
-      "change": 176,
+      "change": 0,
       "login": "cubercsl",
       "name": "cubercsl",
       "location": "Shanghai, China",
@@ -11554,7 +11554,7 @@
     },
     {
       "rank": 826,
-      "change": 175,
+      "change": 0,
       "login": "neoremind",
       "name": "neoReMinD",
       "location": "Beijing, China",
@@ -11568,7 +11568,7 @@
     },
     {
       "rank": 827,
-      "change": 174,
+      "change": 0,
       "login": "sunshineg",
       "name": "Sunny",
       "location": "Hangzhou,China",
@@ -11582,7 +11582,7 @@
     },
     {
       "rank": 828,
-      "change": 173,
+      "change": 0,
       "login": "fumiama",
       "name": "源文雨",
       "location": "Xi'an, China",
@@ -11596,7 +11596,7 @@
     },
     {
       "rank": 829,
-      "change": 172,
+      "change": 0,
       "login": "darknessomi",
       "name": null,
       "location": "China",
@@ -11610,7 +11610,7 @@
     },
     {
       "rank": 830,
-      "change": 171,
+      "change": 0,
       "login": "qinjx",
       "name": "Qin Jianxiang",
       "location": "Hangzhou, Zhejiang, China",
@@ -11624,7 +11624,7 @@
     },
     {
       "rank": 831,
-      "change": 170,
+      "change": 0,
       "login": "jiji262",
       "name": "jiji262",
       "location": "Shanghai, China",
@@ -11638,7 +11638,7 @@
     },
     {
       "rank": 832,
-      "change": 169,
+      "change": 0,
       "login": "daohu527",
       "name": "zero",
       "location": "China,shenzhen",
@@ -11652,7 +11652,7 @@
     },
     {
       "rank": 833,
-      "change": 168,
+      "change": 0,
       "login": "MakeZL",
       "name": "leisuro",
       "location": "China ChangSha",
@@ -11666,7 +11666,7 @@
     },
     {
       "rank": 834,
-      "change": 167,
+      "change": 0,
       "login": "MachineryEnchantress",
       "name": "Naomi Wu",
       "location": "Shenzhen, China",
@@ -11680,7 +11680,7 @@
     },
     {
       "rank": 835,
-      "change": 166,
+      "change": 0,
       "login": "sishen",
       "name": "Dingding Ye",
       "location": "Hangzhou, Zhejiang, China",
@@ -11694,7 +11694,7 @@
     },
     {
       "rank": 836,
-      "change": 165,
+      "change": 0,
       "login": "sunli829",
       "name": "Sunli",
       "location": "Wuhan, China",
@@ -11708,7 +11708,7 @@
     },
     {
       "rank": 837,
-      "change": 164,
+      "change": 0,
       "login": "fankes",
       "name": "Fankesyooni",
       "location": "China",
@@ -11722,7 +11722,7 @@
     },
     {
       "rank": 838,
-      "change": 163,
+      "change": 0,
       "login": "skyvow",
       "name": "skyvow",
       "location": " Shanghai, China",
@@ -11736,7 +11736,7 @@
     },
     {
       "rank": 839,
-      "change": 162,
+      "change": 0,
       "login": "hawkingrei",
       "name": "Weizhen Wang",
       "location": "Shanghai,China",
@@ -11750,7 +11750,7 @@
     },
     {
       "rank": 840,
-      "change": 161,
+      "change": 0,
       "login": "kedebug",
       "name": null,
       "location": "Beijing, China",
@@ -11764,7 +11764,7 @@
     },
     {
       "rank": 841,
-      "change": 160,
+      "change": 0,
       "login": "xcanwin",
       "name": "未知可行",
       "location": "China",
@@ -11778,7 +11778,7 @@
     },
     {
       "rank": 842,
-      "change": 159,
+      "change": 0,
       "login": "cpuimage",
       "name": "gaozhihan",
       "location": "Shantou, China",
@@ -11792,7 +11792,7 @@
     },
     {
       "rank": 843,
-      "change": 158,
+      "change": 0,
       "login": "Tycx2ry",
       "name": "L.N.",
       "location": "China",
@@ -11806,7 +11806,7 @@
     },
     {
       "rank": 844,
-      "change": 157,
+      "change": 0,
       "login": "agilexrobotics",
       "name": null,
       "location": "china",
@@ -11820,7 +11820,7 @@
     },
     {
       "rank": 845,
-      "change": 156,
+      "change": 0,
       "login": "xinliangnote",
       "name": "新亮",
       "location": "China Beijing",
@@ -11834,7 +11834,7 @@
     },
     {
       "rank": 846,
-      "change": 155,
+      "change": 0,
       "login": "leviding",
       "name": "LeviDing",
       "location": "GuangZhou, China",
@@ -11848,7 +11848,7 @@
     },
     {
       "rank": 847,
-      "change": 154,
+      "change": 0,
       "login": "X1r0z",
       "name": "X1r0z",
       "location": "Nanjing, China",
@@ -11862,7 +11862,7 @@
     },
     {
       "rank": 848,
-      "change": 153,
+      "change": 0,
       "login": "luics",
       "name": "luics",
       "location": "Hangzhou, China",
@@ -11876,7 +11876,7 @@
     },
     {
       "rank": 849,
-      "change": 152,
+      "change": 0,
       "login": "vipstone",
       "name": "磊哥",
       "location": "xi'an, China",
@@ -11890,7 +11890,7 @@
     },
     {
       "rank": 850,
-      "change": 151,
+      "change": 0,
       "login": "giscafer",
       "name": "Nicky Lao",
       "location": "GuangZhou China",
@@ -11904,7 +11904,7 @@
     },
     {
       "rank": 851,
-      "change": 150,
+      "change": 0,
       "login": "alienzhou",
       "name": "Alien ZHOU",
       "location": "Beijing, China",
@@ -11918,7 +11918,7 @@
     },
     {
       "rank": 852,
-      "change": 149,
+      "change": 0,
       "login": "AnoyiX",
       "name": "Anoyi",
       "location": "Shanghai, China",
@@ -11932,7 +11932,7 @@
     },
     {
       "rank": 853,
-      "change": 148,
+      "change": 0,
       "login": "yourtion",
       "name": "郭宇翔",
       "location": "Guangzhou China",
@@ -11946,7 +11946,7 @@
     },
     {
       "rank": 854,
-      "change": 147,
+      "change": 0,
       "login": "linbudu599",
       "name": "Linbudu",
       "location": "HangZhou, China",
@@ -11960,7 +11960,7 @@
     },
     {
       "rank": 855,
-      "change": 146,
+      "change": 0,
       "login": "chickenlj",
       "name": "Ken Liu",
       "location": "Hangzhou, China",
@@ -11974,7 +11974,7 @@
     },
     {
       "rank": 856,
-      "change": 145,
+      "change": 0,
       "login": "MeCKodo",
       "name": "二哲",
       "location": "Xiamen, Fujian, China",
@@ -11988,7 +11988,7 @@
     },
     {
       "rank": 857,
-      "change": 144,
+      "change": 0,
       "login": "pandazheng",
       "name": "pandazheng",
       "location": "china",
@@ -12002,7 +12002,7 @@
     },
     {
       "rank": 858,
-      "change": 143,
+      "change": 0,
       "login": "xcodebuild",
       "name": "xcodebuild",
       "location": "Wuxi, China",
@@ -12016,7 +12016,7 @@
     },
     {
       "rank": 859,
-      "change": 142,
+      "change": 0,
       "login": "INotGreen",
       "name": "NoGreen",
       "location": "Hong Kong, China",
@@ -12030,7 +12030,7 @@
     },
     {
       "rank": 860,
-      "change": 141,
+      "change": 0,
       "login": "lizelu",
       "name": "ZeluLi",
       "location": "Beijing China",
@@ -12044,7 +12044,7 @@
     },
     {
       "rank": 861,
-      "change": 140,
+      "change": 0,
       "login": "adlered",
       "name": "陈辉",
       "location": "Beijing, China",
@@ -12058,7 +12058,7 @@
     },
     {
       "rank": 862,
-      "change": 139,
+      "change": 0,
       "login": "eseedo",
       "name": "Han Wang",
       "location": "China",
@@ -12072,7 +12072,7 @@
     },
     {
       "rank": 863,
-      "change": 138,
+      "change": 0,
       "login": "ireader",
       "name": "Chen",
       "location": "Beijing, China",
@@ -12086,7 +12086,7 @@
     },
     {
       "rank": 864,
-      "change": 137,
+      "change": 0,
       "login": "bigeagle",
       "name": "bigeagle",
       "location": "Beijing, China",
@@ -12100,7 +12100,7 @@
     },
     {
       "rank": 865,
-      "change": 136,
+      "change": 0,
       "login": "quininer",
       "name": "quininer",
       "location": "China",
@@ -12114,7 +12114,7 @@
     },
     {
       "rank": 866,
-      "change": 135,
+      "change": 0,
       "login": "topsale",
       "name": "撸帝",
       "location": "China",
@@ -12128,7 +12128,7 @@
     },
     {
       "rank": 867,
-      "change": 134,
+      "change": 0,
       "login": "gdut-yy",
       "name": "张逸扬",
       "location": "Shenzhen, China",
@@ -12142,7 +12142,7 @@
     },
     {
       "rank": 868,
-      "change": 133,
+      "change": 0,
       "login": "magic-akari",
       "name": null,
       "location": "Beijing, China",
@@ -12156,7 +12156,7 @@
     },
     {
       "rank": 869,
-      "change": 132,
+      "change": 0,
       "login": "jtyjty99999",
       "name": "Adams",
       "location": "Shenzhen China",
@@ -12170,7 +12170,7 @@
     },
     {
       "rank": 870,
-      "change": 131,
+      "change": 0,
       "login": "wang-bin",
       "name": "WangBin",
       "location": "China",
@@ -12184,7 +12184,7 @@
     },
     {
       "rank": 871,
-      "change": 130,
+      "change": 0,
       "login": "huanghongxun",
       "name": "Yuhui Huang",
       "location": "Guangzhou, Guangdong, China",
@@ -12198,7 +12198,7 @@
     },
     {
       "rank": 872,
-      "change": 129,
+      "change": 0,
       "login": "pacoxu",
       "name": "Paco Xu",
       "location": "Shanghai, China ",
@@ -12212,7 +12212,7 @@
     },
     {
       "rank": 873,
-      "change": 128,
+      "change": 0,
       "login": "chenyufeng1991",
       "name": "chenyufeng",
       "location": "Zhejiang,China",
@@ -12226,7 +12226,7 @@
     },
     {
       "rank": 874,
-      "change": 127,
+      "change": 0,
       "login": "XVilka",
       "name": "Anton Kochkov",
       "location": "China, Shanghai",
@@ -12240,7 +12240,7 @@
     },
     {
       "rank": 875,
-      "change": 126,
+      "change": 0,
       "login": "Chen-Xieyuanli",
       "name": "Xieyuanli Chen",
       "location": "Changsha, China",
@@ -12254,7 +12254,7 @@
     },
     {
       "rank": 876,
-      "change": 125,
+      "change": 0,
       "login": "Glavo",
       "name": "Glavo",
       "location": "Inner Mongolia, China",
@@ -12268,7 +12268,7 @@
     },
     {
       "rank": 877,
-      "change": 124,
+      "change": 0,
       "login": "endymecy",
       "name": "koala",
       "location": "shanghai china",
@@ -12282,7 +12282,7 @@
     },
     {
       "rank": 878,
-      "change": 123,
+      "change": 0,
       "login": "willin",
       "name": "老王 Willin (v0)",
       "location": "Nanjing, China",
@@ -12296,7 +12296,7 @@
     },
     {
       "rank": 879,
-      "change": 122,
+      "change": 0,
       "login": "imroc",
       "name": "roc",
       "location": "China",
@@ -12310,7 +12310,7 @@
     },
     {
       "rank": 880,
-      "change": 121,
+      "change": 0,
       "login": "smuyyh",
       "name": "所长",
       "location": "HangZhou, China.",
@@ -12324,7 +12324,7 @@
     },
     {
       "rank": 881,
-      "change": 120,
+      "change": 0,
       "login": "wendal",
       "name": "Wendal Chen",
       "location": "China",
@@ -12338,7 +12338,7 @@
     },
     {
       "rank": 882,
-      "change": 119,
+      "change": 0,
       "login": "7heaven",
       "name": "7heaven",
       "location": "Beijing, China",
@@ -12352,7 +12352,7 @@
     },
     {
       "rank": 883,
-      "change": 118,
+      "change": 0,
       "login": "Kyle-Ye",
       "name": "Kyle",
       "location": "Shanghai, China",
@@ -12366,7 +12366,7 @@
     },
     {
       "rank": 884,
-      "change": 117,
+      "change": 0,
       "login": "dastagir-ahmed",
       "name": "dbestech",
       "location": "China, Shanghai",
@@ -12380,7 +12380,7 @@
     },
     {
       "rank": 885,
-      "change": 116,
+      "change": 0,
       "login": "shiyanhui",
       "name": "Lime",
       "location": "Beijing, China",
@@ -12394,7 +12394,7 @@
     },
     {
       "rank": 886,
-      "change": 115,
+      "change": 0,
       "login": "xlvector",
       "name": "Xiang Liang",
       "location": "Beijing, China",
@@ -12408,7 +12408,7 @@
     },
     {
       "rank": 887,
-      "change": 114,
+      "change": 0,
       "login": "yuanhuihui",
       "name": "Gityuan",
       "location": "China",
@@ -12422,7 +12422,7 @@
     },
     {
       "rank": 888,
-      "change": 113,
+      "change": 0,
       "login": "jasonslyvia",
       "name": "Sen Yang",
       "location": "China",
@@ -12436,7 +12436,7 @@
     },
     {
       "rank": 889,
-      "change": 112,
+      "change": 0,
       "login": "creeperyang",
       "name": "Creeper",
       "location": "Shanghai,China",
@@ -12450,7 +12450,7 @@
     },
     {
       "rank": 890,
-      "change": 111,
+      "change": 0,
       "login": "shengqiangzhang",
       "name": "Shengqiang Zhang",
       "location": "Guangzhou, China",
@@ -12464,7 +12464,7 @@
     },
     {
       "rank": 891,
-      "change": 110,
+      "change": 0,
       "login": "ansjsun",
       "name": "ansj",
       "location": "china",
@@ -12478,7 +12478,7 @@
     },
     {
       "rank": 892,
-      "change": 109,
+      "change": 0,
       "login": "KCblama19",
       "name": "Abraham K Blama",
       "location": "Shanxi, China",
@@ -12492,7 +12492,7 @@
     },
     {
       "rank": 893,
-      "change": 108,
+      "change": 0,
       "login": "AlloVince",
       "name": "AlloVince",
       "location": "Shanghai, China",
@@ -12506,7 +12506,7 @@
     },
     {
       "rank": 894,
-      "change": 107,
+      "change": 0,
       "login": "ohdarling",
       "name": "ohdarling88",
       "location": "Hangzhou, China",
@@ -12520,7 +12520,7 @@
     },
     {
       "rank": 895,
-      "change": 106,
+      "change": 0,
       "login": "pagehelper",
       "name": "Rui",
       "location": "China",
@@ -12534,7 +12534,7 @@
     },
     {
       "rank": 896,
-      "change": 105,
+      "change": 0,
       "login": "allenhsu",
       "name": "Allen Hsu",
       "location": "Shanghai, China",
@@ -12548,7 +12548,7 @@
     },
     {
       "rank": 897,
-      "change": 104,
+      "change": 0,
       "login": "cloud-fan",
       "name": "Wenchen Fan",
       "location": "Hangzhou, China",
@@ -12562,7 +12562,7 @@
     },
     {
       "rank": 898,
-      "change": 103,
+      "change": 0,
       "login": "VickScarlet",
       "name": "神戸小鳥",
       "location": "Nanping, China",
@@ -12576,7 +12576,7 @@
     },
     {
       "rank": 899,
-      "change": 102,
+      "change": 0,
       "login": "dalinvip",
       "name": "大林",
       "location": "BeiJing, China ",
@@ -12590,7 +12590,7 @@
     },
     {
       "rank": 900,
-      "change": 101,
+      "change": 0,
       "login": "horance-liu",
       "name": "horance",
       "location": "Xi'an@China",
@@ -12604,7 +12604,7 @@
     },
     {
       "rank": 901,
-      "change": 100,
+      "change": 0,
       "login": "shenfeng",
       "name": "Feng Shen",
       "location": "Beijing, China",
@@ -12618,7 +12618,7 @@
     },
     {
       "rank": 902,
-      "change": 99,
+      "change": 0,
       "login": "MhLiao",
       "name": "Minghui Liao",
       "location": "Wuhan, China",
@@ -12632,7 +12632,7 @@
     },
     {
       "rank": 903,
-      "change": 98,
+      "change": 0,
       "login": "desmond1121",
       "name": "Desmond Yao",
       "location": "Shanghai, China",
@@ -12646,7 +12646,7 @@
     },
     {
       "rank": 904,
-      "change": 97,
+      "change": 0,
       "login": "LiuLang",
       "name": "Xu Shaohua",
       "location": "China",
@@ -12660,7 +12660,7 @@
     },
     {
       "rank": 905,
-      "change": 96,
+      "change": 0,
       "login": "zouxiaohang",
       "name": "邹晓航",
       "location": "China",
@@ -12674,7 +12674,7 @@
     },
     {
       "rank": 906,
-      "change": 95,
+      "change": 0,
       "login": "Doragd",
       "name": "Gordon Lee",
       "location": "Shanghai, China",
@@ -12688,7 +12688,7 @@
     },
     {
       "rank": 907,
-      "change": 94,
+      "change": 0,
       "login": "Yikun",
       "name": "Yikun Jiang",
       "location": "Xi'an, China",
@@ -12702,7 +12702,7 @@
     },
     {
       "rank": 908,
-      "change": 93,
+      "change": 0,
       "login": "jiejieTop",
       "name": "杰杰",
       "location": "China GuangDong",
@@ -12716,7 +12716,7 @@
     },
     {
       "rank": 909,
-      "change": 92,
+      "change": 0,
       "login": "windy",
       "name": "yafei lee",
       "location": "ShenZhen,China",
@@ -12730,7 +12730,7 @@
     },
     {
       "rank": 910,
-      "change": 91,
+      "change": 0,
       "login": "Mrzeron",
       "name": "Binging",
       "location": "Bei jing China ",
@@ -12744,7 +12744,7 @@
     },
     {
       "rank": 911,
-      "change": 90,
+      "change": 0,
       "login": "qhduan",
       "name": "段清华DEAN",
       "location": "Beijing, China",
@@ -12758,7 +12758,7 @@
     },
     {
       "rank": 912,
-      "change": 89,
+      "change": 0,
       "login": "ciaochaos",
       "name": "Troy Ni",
       "location": "Shanghai, China",
@@ -12772,7 +12772,7 @@
     },
     {
       "rank": 913,
-      "change": 88,
+      "change": 0,
       "login": "army8735",
       "name": "Army",
       "location": "ShangHai China",
@@ -12786,7 +12786,7 @@
     },
     {
       "rank": 914,
-      "change": 87,
+      "change": 0,
       "login": "chongbenben",
       "name": "BenBen",
       "location": "HangZhou , China",
@@ -12800,7 +12800,7 @@
     },
     {
       "rank": 915,
-      "change": 86,
+      "change": 0,
       "login": "ArduCAM",
       "name": "Lee",
       "location": "China",
@@ -12814,7 +12814,7 @@
     },
     {
       "rank": 916,
-      "change": 85,
+      "change": 0,
       "login": "huybery",
       "name": "Binyuan Hui",
       "location": "China",
@@ -12828,7 +12828,7 @@
     },
     {
       "rank": 917,
-      "change": 84,
+      "change": 0,
       "login": "bubkoo",
       "name": "问崖",
       "location": "Hangzhou, China  ",
@@ -12842,7 +12842,7 @@
     },
     {
       "rank": 918,
-      "change": 83,
+      "change": 0,
       "login": "moesoha",
       "name": "Soha Jin",
       "location": "Jinhua/Shanghai, China",
@@ -12856,7 +12856,7 @@
     },
     {
       "rank": 919,
-      "change": 82,
+      "change": 0,
       "login": "yangjianxin1",
       "name": "Yang JianXin",
       "location": "Alibaba, Hangzhou, China",
@@ -12870,7 +12870,7 @@
     },
     {
       "rank": 920,
-      "change": 81,
+      "change": 0,
       "login": "razerdp",
       "name": "Razerdp",
       "location": "Guangzhou,China",
@@ -12884,7 +12884,7 @@
     },
     {
       "rank": 921,
-      "change": 80,
+      "change": 0,
       "login": "vinthony",
       "name": "Xiaodong Cun",
       "location": "Dongguan, China",
@@ -12898,7 +12898,7 @@
     },
     {
       "rank": 922,
-      "change": 79,
+      "change": 0,
       "login": "calvin1978",
       "name": "Calvin Xiao",
       "location": "China",
@@ -12912,7 +12912,7 @@
     },
     {
       "rank": 923,
-      "change": 78,
+      "change": 0,
       "login": "az0ne",
       "name": "AZ0NE",
       "location": "China",
@@ -12926,7 +12926,7 @@
     },
     {
       "rank": 924,
-      "change": 77,
+      "change": 0,
       "login": "SilverRainZ",
       "name": "Shengyu Zhang",
       "location": "Hebei, China",
@@ -12940,7 +12940,7 @@
     },
     {
       "rank": 925,
-      "change": 76,
+      "change": 0,
       "login": "liuhaoyang",
       "name": "Liu Haoyang",
       "location": "Hangzhou, China",
@@ -12954,7 +12954,7 @@
     },
     {
       "rank": 926,
-      "change": 75,
+      "change": 0,
       "login": "kuoruan",
       "name": "Xingwang Liao",
       "location": "Chongqing, China",
@@ -12968,7 +12968,7 @@
     },
     {
       "rank": 927,
-      "change": 74,
+      "change": 0,
       "login": "lightningtgc",
       "name": "gc",
       "location": "Hangzhou China",
@@ -12982,7 +12982,7 @@
     },
     {
       "rank": 928,
-      "change": 73,
+      "change": 0,
       "login": "ethanhua",
       "name": "ethanhua",
       "location": "Shanghai China",
